@@ -4,7 +4,7 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1112, 
+      "count": 920, 
       "max": [
         42.6, 
         50.1, 
@@ -21,14 +21,14 @@
       "bufferView": 1, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 6660, 
+      "count": 5520, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 2, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 624, 
+      "count": 432, 
       "max": [
         42.6, 
         50.1, 
@@ -45,7 +45,7 @@
       "bufferView": 3, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 3732, 
+      "count": 2580, 
       "type": "SCALAR"
     }, 
     {
@@ -56,7 +56,7 @@
       "max": [
         31.975000000000005, 
         37.6, 
-        6.1
+        3.1
       ], 
       "min": [
         -31.975000000000005, 
@@ -368,28 +368,28 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 13344, 
+      "byteLength": 11040, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 13320, 
-      "byteOffset": 13344, 
+      "byteLength": 11040, 
+      "byteOffset": 11040, 
       "target": 34963
     }, 
     {
       "buffer": 1, 
-      "byteLength": 7488, 
+      "byteLength": 5184, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 1, 
-      "byteLength": 7464, 
-      "byteOffset": 7488, 
+      "byteLength": 5160, 
+      "byteOffset": 5184, 
       "target": 34963
     }, 
     {
@@ -564,11 +564,11 @@
   ], 
   "buffers": [
     {
-      "byteLength": 26664, 
+      "byteLength": 22080, 
       "uri": "out.box.cover.bin"
     }, 
     {
-      "byteLength": 14952, 
+      "byteLength": 10344, 
       "uri": "out.box.back.bin"
     }, 
     {
@@ -1168,7 +1168,7 @@
         0.0, 
         0.0, 
         0.0, 
-        41.0, 
+        38.0, 
         1.0
       ], 
       "mesh": 2, 
@@ -1195,7 +1195,7 @@
         0.0, 
         -6.0, 
         0.0, 
-        6.0, 
+        3.0, 
         1.0
       ], 
       "name": "out.fluxcap"

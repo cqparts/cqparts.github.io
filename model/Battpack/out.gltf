@@ -1,0 +1,618 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 1, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 2, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 3, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 6, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 7, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 8, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 9, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 10, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 544, 
+      "max": [
+        7.35, 
+        7.35, 
+        50.6
+      ], 
+      "min": [
+        -7.35, 
+        -7.35, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 11, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3252, 
+      "type": "SCALAR"
+    }
+  ], 
+  "asset": {
+    "generator": "cqparts_0.2.2.dev1", 
+    "version": "2.0"
+  }, 
+  "bufferViews": [
+    {
+      "buffer": 0, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 0, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 6528, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 6504, 
+      "byteOffset": 6528, 
+      "target": 34963
+    }
+  ], 
+  "buffers": [
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_005.bin"
+    }, 
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_004.bin"
+    }, 
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_001.bin"
+    }, 
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_000.bin"
+    }, 
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_003.bin"
+    }, 
+    {
+      "byteLength": 13032, 
+      "uri": "out.battery_002.bin"
+    }
+  ], 
+  "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3922, 
+          0.3922, 
+          0.3922, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }
+  ], 
+  "meshes": [
+    {
+      "name": "out.battery_005", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          }, 
+          "indices": 1, 
+          "material": 0, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.battery_004", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2
+          }, 
+          "indices": 3, 
+          "material": 1, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.battery_001", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4
+          }, 
+          "indices": 5, 
+          "material": 2, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.battery_000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6
+          }, 
+          "indices": 7, 
+          "material": 3, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.battery_003", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8
+          }, 
+          "indices": 9, 
+          "material": 4, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.battery_002", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10
+          }, 
+          "indices": 11, 
+          "material": 5, 
+          "mode": 4
+        }
+      ]
+    }
+  ], 
+  "nodes": [
+    {
+      "children": [
+        1
+      ], 
+      "matrix": [
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -0.001, 
+        0.0, 
+        0.0, 
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ]
+    }, 
+    {
+      "children": [
+        2, 
+        3, 
+        4, 
+        5, 
+        6, 
+        7
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        14.5, 
+        29.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out.battery_005"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        29.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 1, 
+      "name": "out.battery_004"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        14.5, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out.battery_001"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 3, 
+      "name": "out.battery_000"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        14.5, 
+        14.5, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 4, 
+      "name": "out.battery_003"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        14.5, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 5, 
+      "name": "out.battery_002"
+    }
+  ], 
+  "scene": 0, 
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

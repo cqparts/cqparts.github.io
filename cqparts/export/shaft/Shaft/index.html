@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CQParts Shaft</title>
+		<link rel="stylesheet" href="/static/css/bulma.css">
+		<link rel="stylesheet" href="/static/css/viewer.css">
+		<script src="/static/js/three.min.js"></script>
+		<script src="/static/js/OrbitControls.js"></script>
+		<script src="/static/js/GLTFLoader.js"></script>
+	</head>
+	<body style="margin:0; overflow:hidden;">
+		<div id="viewer"></div>
+                <div id="show">
+		<button class="button " onclick="showHide()">Show</button>
+                
+                <a href="/cqparts/export/shaft">/cqparts/export/shaft</a>
+                
+                </div>
+		<div id="info" class="box panel" style="position: absolute">
+			<button id="hide" class="button" onclick="showHide()">Hide</button>
+			<h1 class="title is-4">Shaft</h1>
+			
+			<a href="/cqparts/export/shaft">/cqparts/export/shaft</a>
+			
+			
+			<div class="message is-small"> base shaft , override ME</div>
+			
+			<br>
+			<span class="tag">cqparts_bucket.shaft.Shaft</span>
+			<hr>
+			<table class="table is-narrow is-hoverable">
+				<thead>
+					<tr>
+						<th>Param</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				
+				<tr>
+					<td>_simple </td><td> False</td>
+				</tr>
+				
+				<tr>
+					<td>diam </td><td> 5.0</td>
+				</tr>
+				
+				<tr>
+					<td>length </td><td> 24.0</td>
+				</tr>
+				
+			</table>
+                        <span class="tag is-success">Hint!</span>
+                        <div class="content is-small">
+                        Hover to select,<br>
+                        <span class="tag ">Space </span>to hide
+                        <span class="tag ">a </span>to show all
+                        </div>
+                        <div class="content is-small">
+                        If you had the 
+			<a target="_blank" href="https://github.com/zignig/cqparts_webapi">webapi</a> 
+                        this would be <br>an interactive form that builds on demand
+                        </div>
+                        <br><a target="_blank" class="tag is-link" href="http://github.com/zignig/cqparts_bucket/blob/master/shaft.py#L25">Source Code</a><br>
+		</div>
+		<script src="/static/js/cqpartsViewer.js"></script>
+		<script src="/static/js/app.js"></script>
+		<script>
+			load('/model/Shaft/out.gltf');
+                        camera.position.set(0.0306496,0.0699613,0.0382336);
+                        controls.target.set(0,0.012,0.00124936);
+		</script>
+	</body>
+</html>

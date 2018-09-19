@@ -1,0 +1,345 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 228, 
+      "max": [
+        3.95, 
+        5.199999999999999, 
+        1.7000000000000002
+      ], 
+      "min": [
+        -3.95, 
+        -5.199999999999999, 
+        -25.200000000000003
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 1, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1356, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 2, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 188, 
+      "max": [
+        1.1, 
+        1.0987165071710527, 
+        11.65
+      ], 
+      "min": [
+        -1.1, 
+        -1.098716507171053, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 3, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1116, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 220, 
+      "max": [
+        3.1750000000000003, 
+        3.173745992946682, 
+        0.1
+      ], 
+      "min": [
+        -3.1750000000000003, 
+        -3.1737459929466825, 
+        -1.7000000000000002
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1308, 
+      "type": "SCALAR"
+    }
+  ], 
+  "asset": {
+    "generator": "cqparts_0.2.2.dev1", 
+    "version": "2.0"
+  }, 
+  "bufferViews": [
+    {
+      "buffer": 0, 
+      "byteLength": 2736, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 0, 
+      "byteLength": 1356, 
+      "byteOffset": 2736, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 2256, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 1116, 
+      "byteOffset": 2256, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 2640, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 1308, 
+      "byteOffset": 2640, 
+      "target": 34963
+    }
+  ], 
+  "buffers": [
+    {
+      "byteLength": 4092, 
+      "uri": "out.body.bin"
+    }, 
+    {
+      "byteLength": 3372, 
+      "uri": "out.shaft.bin"
+    }, 
+    {
+      "byteLength": 3948, 
+      "uri": "out.back.bin"
+    }
+  ], 
+  "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }
+  ], 
+  "meshes": [
+    {
+      "name": "out.body", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          }, 
+          "indices": 1, 
+          "material": 0, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.shaft", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2
+          }, 
+          "indices": 3, 
+          "material": 1, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.back", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4
+          }, 
+          "indices": 5, 
+          "material": 2, 
+          "mode": 4
+        }
+      ]
+    }
+  ], 
+  "nodes": [
+    {
+      "children": [
+        1
+      ], 
+      "matrix": [
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -0.001, 
+        0.0, 
+        0.0, 
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ]
+    }, 
+    {
+      "children": [
+        2, 
+        3, 
+        4
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out.body"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 1, 
+      "name": "out.shaft"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -25.1, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out.back"
+    }
+  ], 
+  "scene": 0, 
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

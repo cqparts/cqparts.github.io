@@ -1,0 +1,915 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 879, 
+      "max": [
+        4.375, 
+        4.375, 
+        0.1
+      ], 
+      "min": [
+        -4.375, 
+        -4.375, 
+        -9.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 1, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 5262, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 2, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 879, 
+      "max": [
+        4.375, 
+        4.375, 
+        0.1
+      ], 
+      "min": [
+        -4.375, 
+        -4.375, 
+        -9.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 3, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 5262, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 4042, 
+      "max": [
+        47.25, 
+        51.1, 
+        73.39999999999999
+      ], 
+      "min": [
+        -47.25000000000001, 
+        -25.100000000000005, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 24252, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 6, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 879, 
+      "max": [
+        4.375, 
+        4.375, 
+        0.1
+      ], 
+      "min": [
+        -4.375, 
+        -4.375, 
+        -9.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 7, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 5262, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 8, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 286, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        24.1
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 9, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1704, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 10, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 16, 
+      "max": [
+        19.75, 
+        19.75, 
+        16.76666666666667
+      ], 
+      "min": [
+        -19.75, 
+        -19.75, 
+        -16.76666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 11, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 84, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 12, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 1256, 
+      "max": [
+        21.25, 
+        21.25, 
+        6.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 13, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 7572, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 14, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 624, 
+      "max": [
+        21.25, 
+        21.25, 
+        4.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 15, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3780, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 16, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 879, 
+      "max": [
+        4.375, 
+        4.375, 
+        0.1
+      ], 
+      "min": [
+        -4.375, 
+        -4.375, 
+        -9.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 17, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 5262, 
+      "type": "SCALAR"
+    }
+  ], 
+  "asset": {
+    "generator": "cqparts_0.2.2.dev1", 
+    "version": "2.0"
+  }, 
+  "bufferViews": [
+    {
+      "buffer": 0, 
+      "byteLength": 10548, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 0, 
+      "byteLength": 10524, 
+      "byteOffset": 10548, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 10548, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 10524, 
+      "byteOffset": 10548, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 48504, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 48504, 
+      "byteOffset": 48504, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 10548, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 10524, 
+      "byteOffset": 10548, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 192, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 84, 
+      "byteOffset": 192, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 15072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 15144, 
+      "byteOffset": 15072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 7488, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 7560, 
+      "byteOffset": 7488, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 10548, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 10524, 
+      "byteOffset": 10548, 
+      "target": 34963
+    }
+  ], 
+  "buffers": [
+    {
+      "byteLength": 21072, 
+      "uri": "out.screw_000.bin"
+    }, 
+    {
+      "byteLength": 21072, 
+      "uri": "out.screw_001.bin"
+    }, 
+    {
+      "byteLength": 97008, 
+      "uri": "out.mount.bin"
+    }, 
+    {
+      "byteLength": 21072, 
+      "uri": "out.screw_003.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out.stepper.shaft.bin"
+    }, 
+    {
+      "byteLength": 276, 
+      "uri": "out.stepper.stator.bin"
+    }, 
+    {
+      "byteLength": 30216, 
+      "uri": "out.stepper.topcap.bin"
+    }, 
+    {
+      "byteLength": 15048, 
+      "uri": "out.stepper.botcap.bin"
+    }, 
+    {
+      "byteLength": 21072, 
+      "uri": "out.screw_002.bin"
+    }
+  ], 
+  "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7843, 
+          0.7843, 
+          0.7843, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          0.1961, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }
+  ], 
+  "meshes": [
+    {
+      "name": "out.screw_000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          }, 
+          "indices": 1, 
+          "material": 0, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.screw_001", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2
+          }, 
+          "indices": 3, 
+          "material": 1, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.mount", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4
+          }, 
+          "indices": 5, 
+          "material": 2, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.screw_003", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6
+          }, 
+          "indices": 7, 
+          "material": 3, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.stepper.shaft", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8
+          }, 
+          "indices": 9, 
+          "material": 4, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.stepper.stator", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10
+          }, 
+          "indices": 11, 
+          "material": 5, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.stepper.topcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12
+          }, 
+          "indices": 13, 
+          "material": 6, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.stepper.botcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 14
+          }, 
+          "indices": 15, 
+          "material": 7, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.screw_002", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16
+          }, 
+          "indices": 17, 
+          "material": 8, 
+          "mode": 4
+        }
+      ]
+    }
+  ], 
+  "nodes": [
+    {
+      "children": [
+        1
+      ], 
+      "matrix": [
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -0.001, 
+        0.0, 
+        0.0, 
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ]
+    }, 
+    {
+      "children": [
+        2, 
+        3, 
+        4, 
+        5, 
+        6, 
+        11
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        -15.5, 
+        -25.0, 
+        31.65, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out.screw_000"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        15.5, 
+        -25.0, 
+        31.65, 
+        1.0
+      ], 
+      "mesh": 1, 
+      "name": "out.screw_001"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out.mount"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        15.5, 
+        -25.0, 
+        62.65, 
+        1.0
+      ], 
+      "mesh": 3, 
+      "name": "out.screw_003"
+    }, 
+    {
+      "children": [
+        7, 
+        8, 
+        9, 
+        10
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -4.0, 
+        47.15, 
+        1.0
+      ], 
+      "name": "out.stepper"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 4, 
+      "name": "out.stepper.shaft"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -25.0, 
+        1.0
+      ], 
+      "mesh": 5, 
+      "name": "out.stepper.stator"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -4.166666666666667, 
+        1.0
+      ], 
+      "mesh": 6, 
+      "name": "out.stepper.topcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -45.833333333333336, 
+        1.0
+      ], 
+      "mesh": 7, 
+      "name": "out.stepper.botcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        -15.5, 
+        -25.0, 
+        62.65, 
+        1.0
+      ], 
+      "mesh": 8, 
+      "name": "out.screw_002"
+    }
+  ], 
+  "scene": 0, 
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

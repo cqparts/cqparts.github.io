@@ -1,0 +1,345 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 332, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        6.400000000000001
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -6.399999999999999
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 1, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1992, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 2, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 248, 
+      "max": [
+        75.1, 
+        7.100000000000016, 
+        10.1
+      ], 
+      "min": [
+        -0.1, 
+        -0.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 3, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1476, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 248, 
+      "max": [
+        75.1, 
+        7.100000000000016, 
+        10.1
+      ], 
+      "min": [
+        -0.1, 
+        -0.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1476, 
+      "type": "SCALAR"
+    }
+  ], 
+  "asset": {
+    "generator": "cqparts_0.2.2.dev1", 
+    "version": "2.0"
+  }, 
+  "bufferViews": [
+    {
+      "buffer": 0, 
+      "byteLength": 3984, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 0, 
+      "byteLength": 3984, 
+      "byteOffset": 3984, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 2976, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 1476, 
+      "byteOffset": 2976, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 2976, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 1476, 
+      "byteOffset": 2976, 
+      "target": 34963
+    }
+  ], 
+  "buffers": [
+    {
+      "byteLength": 7968, 
+      "uri": "out.spring.bin"
+    }, 
+    {
+      "byteLength": 4452, 
+      "uri": "out.top.bin"
+    }, 
+    {
+      "byteLength": 4452, 
+      "uri": "out.bottom.bin"
+    }
+  ], 
+  "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }
+  ], 
+  "meshes": [
+    {
+      "name": "out.spring", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          }, 
+          "indices": 1, 
+          "material": 0, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.top", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2
+          }, 
+          "indices": 3, 
+          "material": 1, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out.bottom", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4
+          }, 
+          "indices": 5, 
+          "material": 2, 
+          "mode": 4
+        }
+      ]
+    }
+  ], 
+  "nodes": [
+    {
+      "children": [
+        1
+      ], 
+      "matrix": [
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -0.001, 
+        0.0, 
+        0.0, 
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ]
+    }, 
+    {
+      "children": [
+        2, 
+        3, 
+        4
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out"
+    }, 
+    {
+      "matrix": [
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        0.0, 
+        -7.5, 
+        7.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out.spring"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -5.0, 
+        37.5, 
+        14.0, 
+        1.0
+      ], 
+      "mesh": 1, 
+      "name": "out.top"
+    }, 
+    {
+      "matrix": [
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        5.0, 
+        37.5, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out.bottom"
+    }
+  ], 
+  "scene": 0, 
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

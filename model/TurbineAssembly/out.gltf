@@ -28,15 +28,15 @@
       "bufferView": 2, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 934, 
+      "count": 1030, 
       "max": [
-        99.10000000000093, 
-        89.19948178800475, 
+        24.10000000000023, 
+        23.522037677350962, 
         20.1
       ], 
       "min": [
-        -99.09697791039515, 
-        -89.19948178800473, 
+        -24.095464131512237, 
+        -23.522037677350955, 
         -0.1
       ], 
       "type": "VEC3"
@@ -45,7 +45,7 @@
       "bufferView": 3, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5592, 
+      "count": 6168, 
       "type": "SCALAR"
     }, 
     {
@@ -124,15 +124,15 @@
       "bufferView": 10, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 3332, 
+      "count": 2058, 
       "max": [
-        100.1, 
-        100.1, 
+        25.1, 
+        25.09962905929434, 
         60.1
       ], 
       "min": [
-        -100.1, 
-        -100.1, 
+        -25.1, 
+        -25.099629059294344, 
         -0.1
       ], 
       "type": "VEC3"
@@ -141,7 +141,7 @@
       "bufferView": 11, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 20022, 
+      "count": 12420, 
       "type": "SCALAR"
     }
   ], 
@@ -165,15 +165,15 @@
     }, 
     {
       "buffer": 1, 
-      "byteLength": 11208, 
+      "byteLength": 12360, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 1, 
-      "byteLength": 11184, 
-      "byteOffset": 11208, 
+      "byteLength": 12336, 
+      "byteOffset": 12360, 
       "target": 34963
     }, 
     {
@@ -217,15 +217,15 @@
     }, 
     {
       "buffer": 5, 
-      "byteLength": 39984, 
+      "byteLength": 24696, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 5, 
-      "byteLength": 40044, 
-      "byteOffset": 39984, 
+      "byteLength": 24840, 
+      "byteOffset": 24696, 
       "target": 34963
     }
   ], 
@@ -235,7 +235,7 @@
       "uri": "out.spinner.bin"
     }, 
     {
-      "byteLength": 22392, 
+      "byteLength": 24696, 
       "uri": "out.turbine.bin"
     }, 
     {
@@ -251,7 +251,7 @@
       "uri": "out.motor.back.bin"
     }, 
     {
-      "byteLength": 80028, 
+      "byteLength": 49536, 
       "uri": "out.cowl.bin"
     }
   ], 

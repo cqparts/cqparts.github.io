@@ -195,23 +195,23 @@
   "buffers": [
     {
       "byteLength": 1524, 
-      "uri": "out.front.bin"
+      "uri": "out-front.bin"
     }, 
     {
       "byteLength": 1428, 
-      "uri": "out.left.bin"
+      "uri": "out-left.bin"
     }, 
     {
       "byteLength": 1428, 
-      "uri": "out.right.bin"
+      "uri": "out-right.bin"
     }, 
     {
       "byteLength": 1524, 
-      "uri": "out.back.bin"
+      "uri": "out-back.bin"
     }, 
     {
       "byteLength": 1908, 
-      "uri": "out.bottom.bin"
+      "uri": "out-bottom.bin"
     }
   ], 
   "materials": [
@@ -288,7 +288,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.front", 
+      "name": "out-front", 
       "primitives": [
         {
           "attributes": {
@@ -301,7 +301,7 @@
       ]
     }, 
     {
-      "name": "out.left", 
+      "name": "out-left", 
       "primitives": [
         {
           "attributes": {
@@ -314,7 +314,7 @@
       ]
     }, 
     {
-      "name": "out.right", 
+      "name": "out-right", 
       "primitives": [
         {
           "attributes": {
@@ -327,7 +327,7 @@
       ]
     }, 
     {
-      "name": "out.back", 
+      "name": "out-back", 
       "primitives": [
         {
           "attributes": {
@@ -340,7 +340,7 @@
       ]
     }, 
     {
-      "name": "out.bottom", 
+      "name": "out-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -425,7 +425,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.front"
+      "name": "out-front"
     }, 
     {
       "matrix": [
@@ -447,7 +447,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.left"
+      "name": "out-left"
     }, 
     {
       "matrix": [
@@ -469,7 +469,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.right"
+      "name": "out-right"
     }, 
     {
       "matrix": [
@@ -491,7 +491,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.back"
+      "name": "out-back"
     }, 
     {
       "matrix": [
@@ -513,7 +513,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.bottom"
+      "name": "out-bottom"
     }
   ], 
   "scene": 0, 

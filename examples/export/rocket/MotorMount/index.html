@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CQParts MotorMount</title>
+		<link rel="stylesheet" href="/static/css/bulma.css">
+		<link rel="stylesheet" href="/static/css/viewer.css">
+		<script src="/static/js/three.min.js"></script>
+		<script src="/static/js/OrbitControls.js"></script>
+		<script src="/static/js/GLTFLoader.js"></script>
+	</head>
+	<body style="margin:0; overflow:hidden;">
+		<div id="viewer"></div>
+                <div id="show">
+		<button class="button " onclick="showHide()">Show</button>
+                
+                <a href="/examples/export/rocket">/examples/export/rocket</a>
+                
+                </div>
+		<div id="info" class="box panel" style="position: absolute">
+			<button id="hide" class="button" onclick="showHide()">Hide</button>
+			<h1 class="title is-4">MotorMount</h1>
+			
+			<a href="/examples/export/rocket">/examples/export/rocket</a>
+			
+			
+			<br>
+			<span class="tag">cqparts_bucket.rocket_drone.MotorMount</span>
+			<hr>
+			<table class="table is-narrow is-hoverable">
+				<thead>
+					<tr>
+						<th>Param</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				
+				<tr>
+					<td>diameter </td><td> 15.0</td>
+				</tr>
+				
+				<tr>
+					<td>_simple </td><td> False</td>
+				</tr>
+				
+				<tr>
+					<td>length </td><td> 20.0</td>
+				</tr>
+				
+				<tr>
+					<td>thickness </td><td> 0.5</td>
+				</tr>
+				
+			</table>
+                        <span class="tag is-success">Hint!</span>
+                        <div class="content is-small">
+                        Hover to select,<br>
+                        <span class="tag ">Space </span>to hide
+                        <span class="tag ">a </span>to show all
+                        </div>
+                        <div class="content is-small">
+                        If you had the 
+			<a target="_blank" href="https://github.com/zignig/cqparts_webapi">webapi</a> 
+                        this would be <br>an interactive form that builds on demand
+                        </div>
+                        <br><a target="_blank" class="tag is-link" href="http://github.com/zignig/cqparts_bucket/blob/master/rocket_drone.py#L21">Source Code</a><br>
+		</div>
+		<script src="/static/js/cqpartsViewer.js"></script>
+		<script src="/static/js/app.js"></script>
+		<script>
+			load('/model/MotorMount/out.gltf');
+                        camera.position.set(0.0261798,0.0597586,0.0355907);
+                        controls.target.set(0,0.01025,0.004);
+		</script>
+	</body>
+</html>

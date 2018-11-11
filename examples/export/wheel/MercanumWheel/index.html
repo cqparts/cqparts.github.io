@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CQParts MercanumWheel</title>
+		<link rel="stylesheet" href="/static/css/bulma.css">
+		<link rel="stylesheet" href="/static/css/viewer.css">
+		<script src="/static/js/three.min.js"></script>
+		<script src="/static/js/OrbitControls.js"></script>
+		<script src="/static/js/GLTFLoader.js"></script>
+	</head>
+	<body style="margin:0; overflow:hidden;">
+		<div id="viewer"></div>
+                <div id="show">
+		<button class="button " onclick="showHide()">Show</button>
+                
+                <a href="/examples/export/wheel">/examples/export/wheel</a>
+                
+                </div>
+		<div id="info" class="box panel" style="position: absolute">
+			<button id="hide" class="button" onclick="showHide()">Hide</button>
+			<h1 class="title is-4">MercanumWheel</h1>
+			
+			<a href="/examples/export/wheel">/examples/export/wheel</a>
+			
+			
+			<div class="message is-small"> really broken , these params dont work</div>
+			
+			<br>
+			<span class="tag">cqparts_bucket.mercanum.MercanumWheel</span>
+			<hr>
+			<table class="table is-narrow is-hoverable">
+				<thead>
+					<tr>
+						<th>Param</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				
+				<tr>
+					<td>roller_length </td><td> 30.0</td>
+				</tr>
+				
+				<tr>
+					<td>thickness </td><td> 12.0</td>
+				</tr>
+				
+				<tr>
+					<td>mount_thickness </td><td> 3.0</td>
+				</tr>
+				
+				<tr>
+					<td>roller_diam </td><td> 6.0</td>
+				</tr>
+				
+				<tr>
+					<td>rollers </td><td> 11</td>
+				</tr>
+				
+				<tr>
+					<td>hub_diam </td><td> 48.0</td>
+				</tr>
+				
+			</table>
+                        <span class="tag is-success">Hint!</span>
+                        <div class="content is-small">
+                        Hover to select,<br>
+                        <span class="tag ">Space </span>to hide
+                        <span class="tag ">a </span>to show all
+                        </div>
+                        <div class="content is-small">
+                        If you had the 
+			<a target="_blank" href="https://github.com/zignig/cqparts_webapi">webapi</a> 
+                        this would be <br>an interactive form that builds on demand
+                        </div>
+                        <br><a target="_blank" class="tag is-link" href="http://github.com/zignig/cqparts_bucket/blob/master/mercanum.py#L192">Source Code</a><br>
+		</div>
+		<script src="/static/js/cqpartsViewer.js"></script>
+		<script src="/static/js/app.js"></script>
+		<script>
+			load('/model/MercanumWheel/out.gltf');
+                        camera.position.set(0.0531759,0.103767,0.0764166);
+                        controls.target.set(0.000627859,0.0043934,0.0130079);
+		</script>
+	</body>
+</html>

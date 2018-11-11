@@ -861,95 +861,95 @@
   "buffers": [
     {
       "byteLength": 14088, 
-      "uri": "out.battpack.battery_004.bin"
+      "uri": "out-battpack-battery_004.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.battpack.battery_001.bin"
+      "uri": "out-battpack-battery_001.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.battpack.battery_000.bin"
+      "uri": "out-battpack-battery_000.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.battpack.battery_003.bin"
+      "uri": "out-battpack-battery_003.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.battpack.battery_002.bin"
+      "uri": "out-battpack-battery_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.motorcontroller.standoff_002.bin"
+      "uri": "out-motorcontroller-standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.motorcontroller.standoff_003.bin"
+      "uri": "out-motorcontroller-standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.motorcontroller.standoff_000.bin"
+      "uri": "out-motorcontroller-standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.motorcontroller.standoff_001.bin"
+      "uri": "out-motorcontroller-standoff_001.bin"
     }, 
     {
       "byteLength": 20232, 
-      "uri": "out.motorcontroller.board.bin"
+      "uri": "out-motorcontroller-board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.motorcontroller.screw_000.bin"
+      "uri": "out-motorcontroller-screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.motorcontroller.screw_001.bin"
+      "uri": "out-motorcontroller-screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.motorcontroller.screw_002.bin"
+      "uri": "out-motorcontroller-screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.motorcontroller.screw_003.bin"
+      "uri": "out-motorcontroller-screw_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.controller.standoff_002.bin"
+      "uri": "out-controller-standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.controller.standoff_003.bin"
+      "uri": "out-controller-standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.controller.standoff_000.bin"
+      "uri": "out-controller-standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.controller.standoff_001.bin"
+      "uri": "out-controller-standoff_001.bin"
     }, 
     {
       "byteLength": 20232, 
-      "uri": "out.controller.board.bin"
+      "uri": "out-controller-board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.controller.screw_000.bin"
+      "uri": "out-controller-screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.controller.screw_001.bin"
+      "uri": "out-controller-screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.controller.screw_002.bin"
+      "uri": "out-controller-screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.controller.screw_003.bin"
+      "uri": "out-controller-screw_003.bin"
     }
   ], 
   "materials": [
@@ -1278,7 +1278,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.battpack.battery_004", 
+      "name": "out-battpack-battery_004", 
       "primitives": [
         {
           "attributes": {
@@ -1291,7 +1291,7 @@
       ]
     }, 
     {
-      "name": "out.battpack.battery_001", 
+      "name": "out-battpack-battery_001", 
       "primitives": [
         {
           "attributes": {
@@ -1304,7 +1304,7 @@
       ]
     }, 
     {
-      "name": "out.battpack.battery_000", 
+      "name": "out-battpack-battery_000", 
       "primitives": [
         {
           "attributes": {
@@ -1317,7 +1317,7 @@
       ]
     }, 
     {
-      "name": "out.battpack.battery_003", 
+      "name": "out-battpack-battery_003", 
       "primitives": [
         {
           "attributes": {
@@ -1330,7 +1330,7 @@
       ]
     }, 
     {
-      "name": "out.battpack.battery_002", 
+      "name": "out-battpack-battery_002", 
       "primitives": [
         {
           "attributes": {
@@ -1343,7 +1343,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.standoff_002", 
+      "name": "out-motorcontroller-standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -1356,7 +1356,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.standoff_003", 
+      "name": "out-motorcontroller-standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -1369,7 +1369,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.standoff_000", 
+      "name": "out-motorcontroller-standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -1382,7 +1382,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.standoff_001", 
+      "name": "out-motorcontroller-standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -1395,7 +1395,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.board", 
+      "name": "out-motorcontroller-board", 
       "primitives": [
         {
           "attributes": {
@@ -1408,7 +1408,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.screw_000", 
+      "name": "out-motorcontroller-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -1421,7 +1421,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.screw_001", 
+      "name": "out-motorcontroller-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -1434,7 +1434,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.screw_002", 
+      "name": "out-motorcontroller-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -1447,7 +1447,7 @@
       ]
     }, 
     {
-      "name": "out.motorcontroller.screw_003", 
+      "name": "out-motorcontroller-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -1460,7 +1460,7 @@
       ]
     }, 
     {
-      "name": "out.controller.standoff_002", 
+      "name": "out-controller-standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -1473,7 +1473,7 @@
       ]
     }, 
     {
-      "name": "out.controller.standoff_003", 
+      "name": "out-controller-standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -1486,7 +1486,7 @@
       ]
     }, 
     {
-      "name": "out.controller.standoff_000", 
+      "name": "out-controller-standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -1499,7 +1499,7 @@
       ]
     }, 
     {
-      "name": "out.controller.standoff_001", 
+      "name": "out-controller-standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -1512,7 +1512,7 @@
       ]
     }, 
     {
-      "name": "out.controller.board", 
+      "name": "out-controller-board", 
       "primitives": [
         {
           "attributes": {
@@ -1525,7 +1525,7 @@
       ]
     }, 
     {
-      "name": "out.controller.screw_000", 
+      "name": "out-controller-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -1538,7 +1538,7 @@
       ]
     }, 
     {
-      "name": "out.controller.screw_001", 
+      "name": "out-controller-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -1551,7 +1551,7 @@
       ]
     }, 
     {
-      "name": "out.controller.screw_002", 
+      "name": "out-controller-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -1564,7 +1564,7 @@
       ]
     }, 
     {
-      "name": "out.controller.screw_003", 
+      "name": "out-controller-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -1653,7 +1653,7 @@
         9.3, 
         1.0
       ], 
-      "name": "out.battpack"
+      "name": "out-battpack"
     }, 
     {
       "matrix": [
@@ -1675,7 +1675,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.battpack.battery_004"
+      "name": "out-battpack-battery_004"
     }, 
     {
       "matrix": [
@@ -1697,7 +1697,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.battpack.battery_001"
+      "name": "out-battpack-battery_001"
     }, 
     {
       "matrix": [
@@ -1719,7 +1719,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.battpack.battery_000"
+      "name": "out-battpack-battery_000"
     }, 
     {
       "matrix": [
@@ -1741,7 +1741,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.battpack.battery_003"
+      "name": "out-battpack-battery_003"
     }, 
     {
       "matrix": [
@@ -1763,7 +1763,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.battpack.battery_002"
+      "name": "out-battpack-battery_002"
     }, 
     {
       "children": [
@@ -1795,7 +1795,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.motorcontroller"
+      "name": "out-motorcontroller"
     }, 
     {
       "matrix": [
@@ -1811,13 +1811,13 @@
         0.0, 
         1.0, 
         0.0, 
-        -45.8, 
-        -15.799999999999997, 
+        45.8, 
+        15.799999999999997, 
         0.0, 
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.motorcontroller.standoff_002"
+      "name": "out-motorcontroller-standoff_002"
     }, 
     {
       "matrix": [
@@ -1839,7 +1839,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.motorcontroller.standoff_003"
+      "name": "out-motorcontroller-standoff_003"
     }, 
     {
       "matrix": [
@@ -1855,13 +1855,13 @@
         0.0, 
         1.0, 
         0.0, 
-        45.8, 
-        15.799999999999997, 
+        -45.8, 
+        -15.799999999999997, 
         0.0, 
         1.0
       ], 
       "mesh": 7, 
-      "name": "out.motorcontroller.standoff_000"
+      "name": "out-motorcontroller-standoff_000"
     }, 
     {
       "matrix": [
@@ -1883,7 +1883,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out.motorcontroller.standoff_001"
+      "name": "out-motorcontroller-standoff_001"
     }, 
     {
       "matrix": [
@@ -1905,7 +1905,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out.motorcontroller.board"
+      "name": "out-motorcontroller-board"
     }, 
     {
       "matrix": [
@@ -1921,13 +1921,13 @@
         0.0, 
         1.0, 
         0.0, 
-        45.8, 
-        15.799999999999997, 
+        -45.8, 
+        -15.799999999999997, 
         16.0, 
         1.0
       ], 
       "mesh": 10, 
-      "name": "out.motorcontroller.screw_000"
+      "name": "out-motorcontroller-screw_000"
     }, 
     {
       "matrix": [
@@ -1949,7 +1949,7 @@
         1.0
       ], 
       "mesh": 11, 
-      "name": "out.motorcontroller.screw_001"
+      "name": "out-motorcontroller-screw_001"
     }, 
     {
       "matrix": [
@@ -1965,13 +1965,13 @@
         0.0, 
         1.0, 
         0.0, 
-        -45.8, 
-        -15.799999999999997, 
+        45.8, 
+        15.799999999999997, 
         16.0, 
         1.0
       ], 
       "mesh": 12, 
-      "name": "out.motorcontroller.screw_002"
+      "name": "out-motorcontroller-screw_002"
     }, 
     {
       "matrix": [
@@ -1993,7 +1993,7 @@
         1.0
       ], 
       "mesh": 13, 
-      "name": "out.motorcontroller.screw_003"
+      "name": "out-motorcontroller-screw_003"
     }, 
     {
       "children": [
@@ -2025,29 +2025,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.controller"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        29.0, 
-        -11.5, 
-        0.0, 
-        1.0
-      ], 
-      "mesh": 14, 
-      "name": "out.controller.standoff_002"
+      "name": "out-controller"
     }, 
     {
       "matrix": [
@@ -2068,8 +2046,30 @@
         0.0, 
         1.0
       ], 
+      "mesh": 14, 
+      "name": "out-controller-standoff_002"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        29.0, 
+        11.5, 
+        0.0, 
+        1.0
+      ], 
       "mesh": 15, 
-      "name": "out.controller.standoff_003"
+      "name": "out-controller-standoff_003"
     }, 
     {
       "matrix": [
@@ -2091,7 +2091,7 @@
         1.0
       ], 
       "mesh": 16, 
-      "name": "out.controller.standoff_000"
+      "name": "out-controller-standoff_000"
     }, 
     {
       "matrix": [
@@ -2108,12 +2108,12 @@
         1.0, 
         0.0, 
         29.0, 
-        11.5, 
+        -11.5, 
         0.0, 
         1.0
       ], 
       "mesh": 17, 
-      "name": "out.controller.standoff_001"
+      "name": "out-controller-standoff_001"
     }, 
     {
       "matrix": [
@@ -2135,7 +2135,7 @@
         1.0
       ], 
       "mesh": 18, 
-      "name": "out.controller.board"
+      "name": "out-controller-board"
     }, 
     {
       "matrix": [
@@ -2157,29 +2157,7 @@
         1.0
       ], 
       "mesh": 19, 
-      "name": "out.controller.screw_000"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        29.0, 
-        11.5, 
-        21.0, 
-        1.0
-      ], 
-      "mesh": 20, 
-      "name": "out.controller.screw_001"
+      "name": "out-controller-screw_000"
     }, 
     {
       "matrix": [
@@ -2200,8 +2178,8 @@
         21.0, 
         1.0
       ], 
-      "mesh": 21, 
-      "name": "out.controller.screw_002"
+      "mesh": 20, 
+      "name": "out-controller-screw_001"
     }, 
     {
       "matrix": [
@@ -2222,8 +2200,30 @@
         21.0, 
         1.0
       ], 
+      "mesh": 21, 
+      "name": "out-controller-screw_002"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        29.0, 
+        11.5, 
+        21.0, 
+        1.0
+      ], 
       "mesh": 22, 
-      "name": "out.controller.screw_003"
+      "name": "out-controller-screw_003"
     }
   ], 
   "scene": 0, 

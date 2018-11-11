@@ -380,43 +380,43 @@
   "buffers": [
     {
       "byteLength": 3204, 
-      "uri": "out.top.front.bin"
+      "uri": "out-top-front.bin"
     }, 
     {
       "byteLength": 8376, 
-      "uri": "out.top.left.bin"
+      "uri": "out-top-left.bin"
     }, 
     {
       "byteLength": 8376, 
-      "uri": "out.top.right.bin"
+      "uri": "out-top-right.bin"
     }, 
     {
       "byteLength": 3204, 
-      "uri": "out.top.back.bin"
+      "uri": "out-top-back.bin"
     }, 
     {
       "byteLength": 4284, 
-      "uri": "out.top.bottom.bin"
+      "uri": "out-top-bottom.bin"
     }, 
     {
       "byteLength": 1476, 
-      "uri": "out.bottom.front.bin"
+      "uri": "out-bottom-front.bin"
     }, 
     {
       "byteLength": 1428, 
-      "uri": "out.bottom.left.bin"
+      "uri": "out-bottom-left.bin"
     }, 
     {
       "byteLength": 1428, 
-      "uri": "out.bottom.right.bin"
+      "uri": "out-bottom-right.bin"
     }, 
     {
       "byteLength": 1476, 
-      "uri": "out.bottom.back.bin"
+      "uri": "out-bottom-back.bin"
     }, 
     {
       "byteLength": 1908, 
-      "uri": "out.bottom.bottom.bin"
+      "uri": "out-bottom-bottom.bin"
     }
   ], 
   "materials": [
@@ -563,7 +563,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.top.front", 
+      "name": "out-top-front", 
       "primitives": [
         {
           "attributes": {
@@ -576,7 +576,7 @@
       ]
     }, 
     {
-      "name": "out.top.left", 
+      "name": "out-top-left", 
       "primitives": [
         {
           "attributes": {
@@ -589,7 +589,7 @@
       ]
     }, 
     {
-      "name": "out.top.right", 
+      "name": "out-top-right", 
       "primitives": [
         {
           "attributes": {
@@ -602,7 +602,7 @@
       ]
     }, 
     {
-      "name": "out.top.back", 
+      "name": "out-top-back", 
       "primitives": [
         {
           "attributes": {
@@ -615,7 +615,7 @@
       ]
     }, 
     {
-      "name": "out.top.bottom", 
+      "name": "out-top-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -628,7 +628,7 @@
       ]
     }, 
     {
-      "name": "out.bottom.front", 
+      "name": "out-bottom-front", 
       "primitives": [
         {
           "attributes": {
@@ -641,7 +641,7 @@
       ]
     }, 
     {
-      "name": "out.bottom.left", 
+      "name": "out-bottom-left", 
       "primitives": [
         {
           "attributes": {
@@ -654,7 +654,7 @@
       ]
     }, 
     {
-      "name": "out.bottom.right", 
+      "name": "out-bottom-right", 
       "primitives": [
         {
           "attributes": {
@@ -667,7 +667,7 @@
       ]
     }, 
     {
-      "name": "out.bottom.back", 
+      "name": "out-bottom-back", 
       "primitives": [
         {
           "attributes": {
@@ -680,7 +680,7 @@
       ]
     }, 
     {
-      "name": "out.bottom.bottom", 
+      "name": "out-bottom-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -768,7 +768,7 @@
         35.0, 
         1.0
       ], 
-      "name": "out.top"
+      "name": "out-top"
     }, 
     {
       "matrix": [
@@ -790,7 +790,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.top.front"
+      "name": "out-top-front"
     }, 
     {
       "matrix": [
@@ -812,7 +812,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.top.left"
+      "name": "out-top-left"
     }, 
     {
       "matrix": [
@@ -834,7 +834,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.top.right"
+      "name": "out-top-right"
     }, 
     {
       "matrix": [
@@ -856,7 +856,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.top.back"
+      "name": "out-top-back"
     }, 
     {
       "matrix": [
@@ -878,7 +878,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.top.bottom"
+      "name": "out-top-bottom"
     }, 
     {
       "children": [
@@ -906,7 +906,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.bottom"
+      "name": "out-bottom"
     }, 
     {
       "matrix": [
@@ -928,7 +928,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.bottom.front"
+      "name": "out-bottom-front"
     }, 
     {
       "matrix": [
@@ -950,7 +950,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.bottom.left"
+      "name": "out-bottom-left"
     }, 
     {
       "matrix": [
@@ -972,7 +972,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out.bottom.right"
+      "name": "out-bottom-right"
     }, 
     {
       "matrix": [
@@ -994,7 +994,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out.bottom.back"
+      "name": "out-bottom-back"
     }, 
     {
       "matrix": [
@@ -1016,7 +1016,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out.bottom.bottom"
+      "name": "out-bottom-bottom"
     }
   ], 
   "scene": 0, 

@@ -4,7 +4,7 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 4641, 
+      "count": 4642, 
       "max": [
         32.25, 
         36.1, 
@@ -21,7 +21,7 @@
       "bufferView": 1, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 27942, 
+      "count": 27948, 
       "type": "SCALAR"
     }, 
     {
@@ -148,11 +148,11 @@
       "bufferView": 12, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -165,18 +165,18 @@
       "bufferView": 13, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 14, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -189,18 +189,18 @@
       "bufferView": 15, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 16, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -213,18 +213,18 @@
       "bufferView": 17, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 18, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -237,7 +237,7 @@
       "bufferView": 19, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
@@ -436,7 +436,7 @@
       "bufferView": 36, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 4642, 
+      "count": 4643, 
       "max": [
         32.25, 
         36.1, 
@@ -453,7 +453,7 @@
       "bufferView": 37, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 27948, 
+      "count": 27954, 
       "type": "SCALAR"
     }, 
     {
@@ -580,11 +580,11 @@
       "bufferView": 48, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -597,18 +597,18 @@
       "bufferView": 49, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 50, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -621,18 +621,18 @@
       "bufferView": 51, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 52, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -645,18 +645,18 @@
       "bufferView": 53, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 54, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -669,7 +669,7 @@
       "bufferView": 55, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
@@ -868,7 +868,7 @@
       "bufferView": 72, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 4644, 
+      "count": 4642, 
       "max": [
         32.25, 
         36.1, 
@@ -885,7 +885,7 @@
       "bufferView": 73, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 27960, 
+      "count": 27948, 
       "type": "SCALAR"
     }, 
     {
@@ -1012,11 +1012,11 @@
       "bufferView": 84, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1029,18 +1029,18 @@
       "bufferView": 85, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 86, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1053,18 +1053,18 @@
       "bufferView": 87, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 88, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1077,18 +1077,18 @@
       "bufferView": 89, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 90, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1101,7 +1101,7 @@
       "bufferView": 91, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
@@ -1468,11 +1468,11 @@
       "bufferView": 122, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1485,18 +1485,18 @@
       "bufferView": 123, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 124, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1509,18 +1509,18 @@
       "bufferView": 125, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 126, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1533,18 +1533,18 @@
       "bufferView": 127, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 128, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 879, 
+      "count": 1055, 
       "max": [
         4.375, 
         4.375, 
-        0.1
+        8.6
       ], 
       "min": [
         -4.375, 
@@ -1557,7 +1557,7 @@
       "bufferView": 129, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 5262, 
+      "count": 6354, 
       "type": "SCALAR"
     }, 
     {
@@ -2528,252 +2528,252 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 55692, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 0, 
-      "byteLength": 55884, 
-      "byteOffset": 55692, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 1, 
-      "byteLength": 3432, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 1, 
-      "byteLength": 3408, 
-      "byteOffset": 3432, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 2, 
-      "byteLength": 192, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 2, 
-      "byteLength": 84, 
-      "byteOffset": 192, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 3, 
-      "byteLength": 15072, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 3, 
-      "byteLength": 15144, 
-      "byteOffset": 15072, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 4, 
-      "byteLength": 7488, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 4, 
-      "byteLength": 7560, 
-      "byteOffset": 7488, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 5, 
-      "byteLength": 97680, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 5, 
-      "byteLength": 85872, 
-      "byteOffset": 97680, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 6, 
-      "byteLength": 10548, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 6, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 7, 
-      "byteLength": 10548, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 7, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 8, 
-      "byteLength": 10548, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 8, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 9, 
-      "byteLength": 10548, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 9, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 10, 
-      "byteLength": 7680, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 10, 
-      "byteLength": 7680, 
-      "byteOffset": 7680, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 11, 
-      "byteLength": 8916, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 11, 
-      "byteLength": 8892, 
-      "byteOffset": 8916, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 12, 
-      "byteLength": 7680, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 12, 
-      "byteLength": 7680, 
-      "byteOffset": 7680, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 13, 
-      "byteLength": 8916, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 13, 
-      "byteLength": 8892, 
-      "byteOffset": 8916, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 14, 
-      "byteLength": 7680, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 14, 
-      "byteLength": 7680, 
-      "byteOffset": 7680, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 15, 
-      "byteLength": 8916, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 15, 
-      "byteLength": 8892, 
-      "byteOffset": 8916, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 16, 
-      "byteLength": 7680, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 16, 
-      "byteLength": 7680, 
-      "byteOffset": 7680, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 17, 
-      "byteLength": 8916, 
-      "byteOffset": 0, 
-      "byteStride": 12, 
-      "target": 34962
-    }, 
-    {
-      "buffer": 17, 
-      "byteLength": 8892, 
-      "byteOffset": 8916, 
-      "target": 34963
-    }, 
-    {
-      "buffer": 18, 
       "byteLength": 55704, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
-      "buffer": 18, 
+      "buffer": 0, 
       "byteLength": 55896, 
       "byteOffset": 55704, 
       "target": 34963
     }, 
     {
+      "buffer": 1, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 192, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 84, 
+      "byteOffset": 192, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 15072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 15144, 
+      "byteOffset": 15072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 7488, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 7560, 
+      "byteOffset": 7488, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 97680, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 85872, 
+      "byteOffset": 97680, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 12660, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 12660, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 12660, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 9, 
+      "byteLength": 12660, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 9, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 10, 
+      "byteLength": 7680, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 10, 
+      "byteLength": 7680, 
+      "byteOffset": 7680, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 11, 
+      "byteLength": 8916, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 11, 
+      "byteLength": 8892, 
+      "byteOffset": 8916, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 12, 
+      "byteLength": 7680, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 12, 
+      "byteLength": 7680, 
+      "byteOffset": 7680, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 13, 
+      "byteLength": 8916, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 13, 
+      "byteLength": 8892, 
+      "byteOffset": 8916, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 14, 
+      "byteLength": 7680, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 14, 
+      "byteLength": 7680, 
+      "byteOffset": 7680, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 15, 
+      "byteLength": 8916, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 15, 
+      "byteLength": 8892, 
+      "byteOffset": 8916, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 16, 
+      "byteLength": 7680, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 16, 
+      "byteLength": 7680, 
+      "byteOffset": 7680, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 17, 
+      "byteLength": 8916, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 17, 
+      "byteLength": 8892, 
+      "byteOffset": 8916, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 18, 
+      "byteLength": 55716, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 18, 
+      "byteLength": 55908, 
+      "byteOffset": 55716, 
+      "target": 34963
+    }, 
+    {
       "buffer": 19, 
       "byteLength": 3432, 
       "byteOffset": 0, 
@@ -2840,54 +2840,54 @@
     }, 
     {
       "buffer": 24, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 24, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 25, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 25, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 26, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 26, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 27, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 27, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
@@ -2996,15 +2996,15 @@
     }, 
     {
       "buffer": 36, 
-      "byteLength": 55728, 
+      "byteLength": 55704, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 36, 
-      "byteLength": 55920, 
-      "byteOffset": 55728, 
+      "byteLength": 55896, 
+      "byteOffset": 55704, 
       "target": 34963
     }, 
     {
@@ -3074,54 +3074,54 @@
     }, 
     {
       "buffer": 42, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 42, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 43, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 43, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 44, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 44, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 45, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 45, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
@@ -3321,54 +3321,54 @@
     }, 
     {
       "buffer": 61, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 61, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 62, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 62, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 63, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 63, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
       "buffer": 64, 
-      "byteLength": 10548, 
+      "byteLength": 12660, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 64, 
-      "byteLength": 10524, 
-      "byteOffset": 10548, 
+      "byteLength": 12708, 
+      "byteOffset": 12660, 
       "target": 34963
     }, 
     {
@@ -3894,424 +3894,424 @@
   ], 
   "buffers": [
     {
-      "byteLength": 111576, 
-      "uri": "out.Rdrive_f.mount.bin"
+      "byteLength": 111600, 
+      "uri": "out-Rdrive_f-mount.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out.Rdrive_f.stepper.shaft.bin"
+      "uri": "out-Rdrive_f-stepper-shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out.Rdrive_f.stepper.stator.bin"
+      "uri": "out-Rdrive_f-stepper-stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out.Rdrive_f.stepper.topcap.bin"
+      "uri": "out-Rdrive_f-stepper-topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out.Rdrive_f.stepper.botcap.bin"
+      "uri": "out-Rdrive_f-stepper-botcap.bin"
     }, 
     {
       "byteLength": 183552, 
-      "uri": "out.Rdrive_f.driven.bin"
+      "uri": "out-Rdrive_f-driven.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_f.screw_000.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_f-screw_000.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_f.screw_001.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_f-screw_001.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_f.screw_002.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_f-screw_002.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_f.screw_003.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Rdrive_f.mount_screw_000.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Rdrive_f.mount_screw_000.bolt.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_f-screw_003.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Rdrive_f.mount_screw_001.nut.bin"
+      "uri": "out-Rdrive_f-mount_screw_000-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Rdrive_f.mount_screw_001.bolt.bin"
+      "uri": "out-Rdrive_f-mount_screw_000-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Rdrive_f.mount_screw_002.nut.bin"
+      "uri": "out-Rdrive_f-mount_screw_001-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Rdrive_f.mount_screw_002.bolt.bin"
+      "uri": "out-Rdrive_f-mount_screw_001-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Rdrive_f.mount_screw_003.nut.bin"
+      "uri": "out-Rdrive_f-mount_screw_002-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Rdrive_f.mount_screw_003.bolt.bin"
+      "uri": "out-Rdrive_f-mount_screw_002-bolt.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Rdrive_f-mount_screw_003-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Rdrive_f-mount_screw_003-bolt.bin"
+    }, 
+    {
+      "byteLength": 111624, 
+      "uri": "out-Ldrive_b-mount.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out-Ldrive_b-stepper-shaft.bin"
+    }, 
+    {
+      "byteLength": 276, 
+      "uri": "out-Ldrive_b-stepper-stator.bin"
+    }, 
+    {
+      "byteLength": 30216, 
+      "uri": "out-Ldrive_b-stepper-topcap.bin"
+    }, 
+    {
+      "byteLength": 15048, 
+      "uri": "out-Ldrive_b-stepper-botcap.bin"
+    }, 
+    {
+      "byteLength": 183552, 
+      "uri": "out-Ldrive_b-driven.bin"
+    }, 
+    {
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_b-screw_000.bin"
+    }, 
+    {
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_b-screw_001.bin"
+    }, 
+    {
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_b-screw_002.bin"
+    }, 
+    {
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_b-screw_003.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Ldrive_b-mount_screw_000-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Ldrive_b-mount_screw_000-bolt.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Ldrive_b-mount_screw_001-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Ldrive_b-mount_screw_001-bolt.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Ldrive_b-mount_screw_002-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Ldrive_b-mount_screw_002-bolt.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Ldrive_b-mount_screw_003-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Ldrive_b-mount_screw_003-bolt.bin"
     }, 
     {
       "byteLength": 111600, 
-      "uri": "out.Ldrive_b.mount.bin"
+      "uri": "out-Rdrive_b-mount.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out.Ldrive_b.stepper.shaft.bin"
+      "uri": "out-Rdrive_b-stepper-shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out.Ldrive_b.stepper.stator.bin"
+      "uri": "out-Rdrive_b-stepper-stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out.Ldrive_b.stepper.topcap.bin"
+      "uri": "out-Rdrive_b-stepper-topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out.Ldrive_b.stepper.botcap.bin"
+      "uri": "out-Rdrive_b-stepper-botcap.bin"
     }, 
     {
       "byteLength": 183552, 
-      "uri": "out.Ldrive_b.driven.bin"
+      "uri": "out-Rdrive_b-driven.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_b.screw_000.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_b-screw_000.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_b.screw_001.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_b-screw_001.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_b.screw_002.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_b-screw_002.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_b.screw_003.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Ldrive_b.mount_screw_000.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Ldrive_b.mount_screw_000.bolt.bin"
+      "byteLength": 25368, 
+      "uri": "out-Rdrive_b-screw_003.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_b.mount_screw_001.nut.bin"
+      "uri": "out-Rdrive_b-mount_screw_000-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_b.mount_screw_001.bolt.bin"
+      "uri": "out-Rdrive_b-mount_screw_000-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_b.mount_screw_002.nut.bin"
+      "uri": "out-Rdrive_b-mount_screw_001-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_b.mount_screw_002.bolt.bin"
+      "uri": "out-Rdrive_b-mount_screw_001-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_b.mount_screw_003.nut.bin"
+      "uri": "out-Rdrive_b-mount_screw_002-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_b.mount_screw_003.bolt.bin"
-    }, 
-    {
-      "byteLength": 111648, 
-      "uri": "out.Rdrive_b.mount.bin"
-    }, 
-    {
-      "byteLength": 6840, 
-      "uri": "out.Rdrive_b.stepper.shaft.bin"
-    }, 
-    {
-      "byteLength": 276, 
-      "uri": "out.Rdrive_b.stepper.stator.bin"
-    }, 
-    {
-      "byteLength": 30216, 
-      "uri": "out.Rdrive_b.stepper.topcap.bin"
-    }, 
-    {
-      "byteLength": 15048, 
-      "uri": "out.Rdrive_b.stepper.botcap.bin"
-    }, 
-    {
-      "byteLength": 183552, 
-      "uri": "out.Rdrive_b.driven.bin"
-    }, 
-    {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_b.screw_000.bin"
-    }, 
-    {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_b.screw_001.bin"
-    }, 
-    {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_b.screw_002.bin"
-    }, 
-    {
-      "byteLength": 21072, 
-      "uri": "out.Rdrive_b.screw_003.bin"
+      "uri": "out-Rdrive_b-mount_screw_002-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Rdrive_b.mount_screw_000.nut.bin"
+      "uri": "out-Rdrive_b-mount_screw_003-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Rdrive_b.mount_screw_000.bolt.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Rdrive_b.mount_screw_001.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Rdrive_b.mount_screw_001.bolt.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Rdrive_b.mount_screw_002.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Rdrive_b.mount_screw_002.bolt.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Rdrive_b.mount_screw_003.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Rdrive_b.mount_screw_003.bolt.bin"
+      "uri": "out-Rdrive_b-mount_screw_003-bolt.bin"
     }, 
     {
       "byteLength": 339144, 
-      "uri": "out.base.bin"
+      "uri": "out-base.bin"
     }, 
     {
       "byteLength": 111576, 
-      "uri": "out.Ldrive_f.mount.bin"
+      "uri": "out-Ldrive_f-mount.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out.Ldrive_f.stepper.shaft.bin"
+      "uri": "out-Ldrive_f-stepper-shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out.Ldrive_f.stepper.stator.bin"
+      "uri": "out-Ldrive_f-stepper-stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out.Ldrive_f.stepper.topcap.bin"
+      "uri": "out-Ldrive_f-stepper-topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out.Ldrive_f.stepper.botcap.bin"
+      "uri": "out-Ldrive_f-stepper-botcap.bin"
     }, 
     {
       "byteLength": 183552, 
-      "uri": "out.Ldrive_f.driven.bin"
+      "uri": "out-Ldrive_f-driven.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_f.screw_000.bin"
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_f-screw_000.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_f.screw_001.bin"
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_f-screw_001.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_f.screw_002.bin"
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_f-screw_002.bin"
     }, 
     {
-      "byteLength": 21072, 
-      "uri": "out.Ldrive_f.screw_003.bin"
-    }, 
-    {
-      "byteLength": 15360, 
-      "uri": "out.Ldrive_f.mount_screw_000.nut.bin"
-    }, 
-    {
-      "byteLength": 17808, 
-      "uri": "out.Ldrive_f.mount_screw_000.bolt.bin"
+      "byteLength": 25368, 
+      "uri": "out-Ldrive_f-screw_003.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_f.mount_screw_001.nut.bin"
+      "uri": "out-Ldrive_f-mount_screw_000-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_f.mount_screw_001.bolt.bin"
+      "uri": "out-Ldrive_f-mount_screw_000-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_f.mount_screw_002.nut.bin"
+      "uri": "out-Ldrive_f-mount_screw_001-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_f.mount_screw_002.bolt.bin"
+      "uri": "out-Ldrive_f-mount_screw_001-bolt.bin"
     }, 
     {
       "byteLength": 15360, 
-      "uri": "out.Ldrive_f.mount_screw_003.nut.bin"
+      "uri": "out-Ldrive_f-mount_screw_002-nut.bin"
     }, 
     {
       "byteLength": 17808, 
-      "uri": "out.Ldrive_f.mount_screw_003.bolt.bin"
+      "uri": "out-Ldrive_f-mount_screw_002-bolt.bin"
+    }, 
+    {
+      "byteLength": 15360, 
+      "uri": "out-Ldrive_f-mount_screw_003-nut.bin"
+    }, 
+    {
+      "byteLength": 17808, 
+      "uri": "out-Ldrive_f-mount_screw_003-bolt.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.electronics.battpack.battery_004.bin"
+      "uri": "out-electronics-battpack-battery_004.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.electronics.battpack.battery_001.bin"
+      "uri": "out-electronics-battpack-battery_001.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.electronics.battpack.battery_000.bin"
+      "uri": "out-electronics-battpack-battery_000.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.electronics.battpack.battery_003.bin"
+      "uri": "out-electronics-battpack-battery_003.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out.electronics.battpack.battery_002.bin"
+      "uri": "out-electronics-battpack-battery_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.motorcontroller.standoff_002.bin"
+      "uri": "out-electronics-motorcontroller-standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.motorcontroller.standoff_003.bin"
+      "uri": "out-electronics-motorcontroller-standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.motorcontroller.standoff_000.bin"
+      "uri": "out-electronics-motorcontroller-standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.motorcontroller.standoff_001.bin"
+      "uri": "out-electronics-motorcontroller-standoff_001.bin"
     }, 
     {
       "byteLength": 20232, 
-      "uri": "out.electronics.motorcontroller.board.bin"
+      "uri": "out-electronics-motorcontroller-board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.motorcontroller.screw_000.bin"
+      "uri": "out-electronics-motorcontroller-screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.motorcontroller.screw_001.bin"
+      "uri": "out-electronics-motorcontroller-screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.motorcontroller.screw_002.bin"
+      "uri": "out-electronics-motorcontroller-screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.motorcontroller.screw_003.bin"
+      "uri": "out-electronics-motorcontroller-screw_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.controller.standoff_002.bin"
+      "uri": "out-electronics-controller-standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.controller.standoff_003.bin"
+      "uri": "out-electronics-controller-standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.controller.standoff_000.bin"
+      "uri": "out-electronics-controller-standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.electronics.controller.standoff_001.bin"
+      "uri": "out-electronics-controller-standoff_001.bin"
     }, 
     {
       "byteLength": 20232, 
-      "uri": "out.electronics.controller.board.bin"
+      "uri": "out-electronics-controller-board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.controller.screw_000.bin"
+      "uri": "out-electronics-controller-screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.controller.screw_001.bin"
+      "uri": "out-electronics-controller-screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.controller.screw_002.bin"
+      "uri": "out-electronics-controller-screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.electronics.controller.screw_003.bin"
+      "uri": "out-electronics-controller-screw_003.bin"
     }, 
     {
       "byteLength": 132, 
-      "uri": "out.sensors.pitch.bin"
+      "uri": "out-sensors-pitch.bin"
     }, 
     {
       "byteLength": 19272, 
-      "uri": "out.sensors.yaw.bin"
+      "uri": "out-sensors-yaw.bin"
     }, 
     {
       "byteLength": 44424, 
-      "uri": "out.sensors.base.bin"
+      "uri": "out-sensors-base.bin"
     }, 
     {
       "byteLength": 6552, 
-      "uri": "out.sensors.yaw_servo.shaft.bin"
+      "uri": "out-sensors-yaw_servo-shaft.bin"
     }, 
     {
       "byteLength": 13344, 
-      "uri": "out.sensors.yaw_servo.servobody.bin"
+      "uri": "out-sensors-yaw_servo-servobody.bin"
     }, 
     {
       "byteLength": 50160, 
-      "uri": "out.sensors.yaw_servo.horn.bin"
+      "uri": "out-sensors-yaw_servo-horn.bin"
     }, 
     {
       "byteLength": 6552, 
-      "uri": "out.sensors.pitch_servo.shaft.bin"
+      "uri": "out-sensors-pitch_servo-shaft.bin"
     }, 
     {
       "byteLength": 13344, 
-      "uri": "out.sensors.pitch_servo.servobody.bin"
+      "uri": "out-sensors-pitch_servo-servobody.bin"
     }, 
     {
       "byteLength": 50160, 
-      "uri": "out.sensors.pitch_servo.horn.bin"
+      "uri": "out-sensors-pitch_servo-horn.bin"
     }
   ], 
   "materials": [
@@ -5788,7 +5788,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.Rdrive_f.mount", 
+      "name": "out-Rdrive_f-mount", 
       "primitives": [
         {
           "attributes": {
@@ -5801,7 +5801,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.stepper.shaft", 
+      "name": "out-Rdrive_f-stepper-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -5814,7 +5814,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.stepper.stator", 
+      "name": "out-Rdrive_f-stepper-stator", 
       "primitives": [
         {
           "attributes": {
@@ -5827,7 +5827,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.stepper.topcap", 
+      "name": "out-Rdrive_f-stepper-topcap", 
       "primitives": [
         {
           "attributes": {
@@ -5840,7 +5840,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.stepper.botcap", 
+      "name": "out-Rdrive_f-stepper-botcap", 
       "primitives": [
         {
           "attributes": {
@@ -5853,7 +5853,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.driven", 
+      "name": "out-Rdrive_f-driven", 
       "primitives": [
         {
           "attributes": {
@@ -5866,7 +5866,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.screw_000", 
+      "name": "out-Rdrive_f-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -5879,7 +5879,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.screw_001", 
+      "name": "out-Rdrive_f-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -5892,7 +5892,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.screw_002", 
+      "name": "out-Rdrive_f-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -5905,7 +5905,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.screw_003", 
+      "name": "out-Rdrive_f-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -5918,7 +5918,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_000.nut", 
+      "name": "out-Rdrive_f-mount_screw_000-nut", 
       "primitives": [
         {
           "attributes": {
@@ -5931,7 +5931,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_000.bolt", 
+      "name": "out-Rdrive_f-mount_screw_000-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -5944,7 +5944,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_001.nut", 
+      "name": "out-Rdrive_f-mount_screw_001-nut", 
       "primitives": [
         {
           "attributes": {
@@ -5957,7 +5957,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_001.bolt", 
+      "name": "out-Rdrive_f-mount_screw_001-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -5970,7 +5970,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_002.nut", 
+      "name": "out-Rdrive_f-mount_screw_002-nut", 
       "primitives": [
         {
           "attributes": {
@@ -5983,7 +5983,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_002.bolt", 
+      "name": "out-Rdrive_f-mount_screw_002-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -5996,7 +5996,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_003.nut", 
+      "name": "out-Rdrive_f-mount_screw_003-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6009,7 +6009,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_f.mount_screw_003.bolt", 
+      "name": "out-Rdrive_f-mount_screw_003-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6022,7 +6022,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount", 
+      "name": "out-Ldrive_b-mount", 
       "primitives": [
         {
           "attributes": {
@@ -6035,7 +6035,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.stepper.shaft", 
+      "name": "out-Ldrive_b-stepper-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -6048,7 +6048,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.stepper.stator", 
+      "name": "out-Ldrive_b-stepper-stator", 
       "primitives": [
         {
           "attributes": {
@@ -6061,7 +6061,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.stepper.topcap", 
+      "name": "out-Ldrive_b-stepper-topcap", 
       "primitives": [
         {
           "attributes": {
@@ -6074,7 +6074,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.stepper.botcap", 
+      "name": "out-Ldrive_b-stepper-botcap", 
       "primitives": [
         {
           "attributes": {
@@ -6087,7 +6087,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.driven", 
+      "name": "out-Ldrive_b-driven", 
       "primitives": [
         {
           "attributes": {
@@ -6100,7 +6100,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.screw_000", 
+      "name": "out-Ldrive_b-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -6113,7 +6113,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.screw_001", 
+      "name": "out-Ldrive_b-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -6126,7 +6126,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.screw_002", 
+      "name": "out-Ldrive_b-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -6139,7 +6139,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.screw_003", 
+      "name": "out-Ldrive_b-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -6152,7 +6152,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_000.nut", 
+      "name": "out-Ldrive_b-mount_screw_000-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6165,7 +6165,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_000.bolt", 
+      "name": "out-Ldrive_b-mount_screw_000-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6178,7 +6178,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_001.nut", 
+      "name": "out-Ldrive_b-mount_screw_001-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6191,7 +6191,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_001.bolt", 
+      "name": "out-Ldrive_b-mount_screw_001-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6204,7 +6204,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_002.nut", 
+      "name": "out-Ldrive_b-mount_screw_002-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6217,7 +6217,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_002.bolt", 
+      "name": "out-Ldrive_b-mount_screw_002-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6230,7 +6230,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_003.nut", 
+      "name": "out-Ldrive_b-mount_screw_003-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6243,7 +6243,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_b.mount_screw_003.bolt", 
+      "name": "out-Ldrive_b-mount_screw_003-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6256,7 +6256,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount", 
+      "name": "out-Rdrive_b-mount", 
       "primitives": [
         {
           "attributes": {
@@ -6269,7 +6269,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.stepper.shaft", 
+      "name": "out-Rdrive_b-stepper-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -6282,7 +6282,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.stepper.stator", 
+      "name": "out-Rdrive_b-stepper-stator", 
       "primitives": [
         {
           "attributes": {
@@ -6295,7 +6295,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.stepper.topcap", 
+      "name": "out-Rdrive_b-stepper-topcap", 
       "primitives": [
         {
           "attributes": {
@@ -6308,7 +6308,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.stepper.botcap", 
+      "name": "out-Rdrive_b-stepper-botcap", 
       "primitives": [
         {
           "attributes": {
@@ -6321,7 +6321,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.driven", 
+      "name": "out-Rdrive_b-driven", 
       "primitives": [
         {
           "attributes": {
@@ -6334,7 +6334,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.screw_000", 
+      "name": "out-Rdrive_b-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -6347,7 +6347,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.screw_001", 
+      "name": "out-Rdrive_b-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -6360,7 +6360,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.screw_002", 
+      "name": "out-Rdrive_b-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -6373,7 +6373,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.screw_003", 
+      "name": "out-Rdrive_b-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -6386,7 +6386,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_000.nut", 
+      "name": "out-Rdrive_b-mount_screw_000-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6399,7 +6399,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_000.bolt", 
+      "name": "out-Rdrive_b-mount_screw_000-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6412,7 +6412,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_001.nut", 
+      "name": "out-Rdrive_b-mount_screw_001-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6425,7 +6425,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_001.bolt", 
+      "name": "out-Rdrive_b-mount_screw_001-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6438,7 +6438,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_002.nut", 
+      "name": "out-Rdrive_b-mount_screw_002-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6451,7 +6451,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_002.bolt", 
+      "name": "out-Rdrive_b-mount_screw_002-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6464,7 +6464,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_003.nut", 
+      "name": "out-Rdrive_b-mount_screw_003-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6477,7 +6477,7 @@
       ]
     }, 
     {
-      "name": "out.Rdrive_b.mount_screw_003.bolt", 
+      "name": "out-Rdrive_b-mount_screw_003-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6490,7 +6490,7 @@
       ]
     }, 
     {
-      "name": "out.base", 
+      "name": "out-base", 
       "primitives": [
         {
           "attributes": {
@@ -6503,7 +6503,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount", 
+      "name": "out-Ldrive_f-mount", 
       "primitives": [
         {
           "attributes": {
@@ -6516,7 +6516,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.stepper.shaft", 
+      "name": "out-Ldrive_f-stepper-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -6529,7 +6529,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.stepper.stator", 
+      "name": "out-Ldrive_f-stepper-stator", 
       "primitives": [
         {
           "attributes": {
@@ -6542,7 +6542,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.stepper.topcap", 
+      "name": "out-Ldrive_f-stepper-topcap", 
       "primitives": [
         {
           "attributes": {
@@ -6555,7 +6555,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.stepper.botcap", 
+      "name": "out-Ldrive_f-stepper-botcap", 
       "primitives": [
         {
           "attributes": {
@@ -6568,7 +6568,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.driven", 
+      "name": "out-Ldrive_f-driven", 
       "primitives": [
         {
           "attributes": {
@@ -6581,7 +6581,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.screw_000", 
+      "name": "out-Ldrive_f-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -6594,7 +6594,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.screw_001", 
+      "name": "out-Ldrive_f-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -6607,7 +6607,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.screw_002", 
+      "name": "out-Ldrive_f-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -6620,7 +6620,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.screw_003", 
+      "name": "out-Ldrive_f-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -6633,7 +6633,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_000.nut", 
+      "name": "out-Ldrive_f-mount_screw_000-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6646,7 +6646,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_000.bolt", 
+      "name": "out-Ldrive_f-mount_screw_000-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6659,7 +6659,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_001.nut", 
+      "name": "out-Ldrive_f-mount_screw_001-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6672,7 +6672,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_001.bolt", 
+      "name": "out-Ldrive_f-mount_screw_001-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6685,7 +6685,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_002.nut", 
+      "name": "out-Ldrive_f-mount_screw_002-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6698,7 +6698,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_002.bolt", 
+      "name": "out-Ldrive_f-mount_screw_002-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6711,7 +6711,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_003.nut", 
+      "name": "out-Ldrive_f-mount_screw_003-nut", 
       "primitives": [
         {
           "attributes": {
@@ -6724,7 +6724,7 @@
       ]
     }, 
     {
-      "name": "out.Ldrive_f.mount_screw_003.bolt", 
+      "name": "out-Ldrive_f-mount_screw_003-bolt", 
       "primitives": [
         {
           "attributes": {
@@ -6737,7 +6737,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.battpack.battery_004", 
+      "name": "out-electronics-battpack-battery_004", 
       "primitives": [
         {
           "attributes": {
@@ -6750,7 +6750,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.battpack.battery_001", 
+      "name": "out-electronics-battpack-battery_001", 
       "primitives": [
         {
           "attributes": {
@@ -6763,7 +6763,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.battpack.battery_000", 
+      "name": "out-electronics-battpack-battery_000", 
       "primitives": [
         {
           "attributes": {
@@ -6776,7 +6776,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.battpack.battery_003", 
+      "name": "out-electronics-battpack-battery_003", 
       "primitives": [
         {
           "attributes": {
@@ -6789,7 +6789,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.battpack.battery_002", 
+      "name": "out-electronics-battpack-battery_002", 
       "primitives": [
         {
           "attributes": {
@@ -6802,7 +6802,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.standoff_002", 
+      "name": "out-electronics-motorcontroller-standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -6815,7 +6815,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.standoff_003", 
+      "name": "out-electronics-motorcontroller-standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -6828,7 +6828,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.standoff_000", 
+      "name": "out-electronics-motorcontroller-standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -6841,7 +6841,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.standoff_001", 
+      "name": "out-electronics-motorcontroller-standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -6854,7 +6854,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.board", 
+      "name": "out-electronics-motorcontroller-board", 
       "primitives": [
         {
           "attributes": {
@@ -6867,7 +6867,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.screw_000", 
+      "name": "out-electronics-motorcontroller-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -6880,7 +6880,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.screw_001", 
+      "name": "out-electronics-motorcontroller-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -6893,7 +6893,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.screw_002", 
+      "name": "out-electronics-motorcontroller-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -6906,7 +6906,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.motorcontroller.screw_003", 
+      "name": "out-electronics-motorcontroller-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -6919,7 +6919,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.standoff_002", 
+      "name": "out-electronics-controller-standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -6932,7 +6932,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.standoff_003", 
+      "name": "out-electronics-controller-standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -6945,7 +6945,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.standoff_000", 
+      "name": "out-electronics-controller-standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -6958,7 +6958,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.standoff_001", 
+      "name": "out-electronics-controller-standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -6971,7 +6971,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.board", 
+      "name": "out-electronics-controller-board", 
       "primitives": [
         {
           "attributes": {
@@ -6984,7 +6984,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.screw_000", 
+      "name": "out-electronics-controller-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -6997,7 +6997,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.screw_001", 
+      "name": "out-electronics-controller-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -7010,7 +7010,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.screw_002", 
+      "name": "out-electronics-controller-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -7023,7 +7023,7 @@
       ]
     }, 
     {
-      "name": "out.electronics.controller.screw_003", 
+      "name": "out-electronics-controller-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -7036,7 +7036,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.pitch", 
+      "name": "out-sensors-pitch", 
       "primitives": [
         {
           "attributes": {
@@ -7049,7 +7049,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.yaw", 
+      "name": "out-sensors-yaw", 
       "primitives": [
         {
           "attributes": {
@@ -7062,7 +7062,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.base", 
+      "name": "out-sensors-base", 
       "primitives": [
         {
           "attributes": {
@@ -7075,7 +7075,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.yaw_servo.shaft", 
+      "name": "out-sensors-yaw_servo-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -7088,7 +7088,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.yaw_servo.servobody", 
+      "name": "out-sensors-yaw_servo-servobody", 
       "primitives": [
         {
           "attributes": {
@@ -7101,7 +7101,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.yaw_servo.horn", 
+      "name": "out-sensors-yaw_servo-horn", 
       "primitives": [
         {
           "attributes": {
@@ -7114,7 +7114,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.pitch_servo.shaft", 
+      "name": "out-sensors-pitch_servo-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -7127,7 +7127,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.pitch_servo.servobody", 
+      "name": "out-sensors-pitch_servo-servobody", 
       "primitives": [
         {
           "attributes": {
@@ -7140,7 +7140,7 @@
       ]
     }, 
     {
-      "name": "out.sensors.pitch_servo.horn", 
+      "name": "out-sensors-pitch_servo-horn", 
       "primitives": [
         {
           "attributes": {
@@ -7239,7 +7239,7 @@
         60.0, 
         1.0
       ], 
-      "name": "out.Rdrive_f"
+      "name": "out-Rdrive_f"
     }, 
     {
       "matrix": [
@@ -7261,7 +7261,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.Rdrive_f.mount"
+      "name": "out-Rdrive_f-mount"
     }, 
     {
       "children": [
@@ -7288,7 +7288,7 @@
         32.15, 
         1.0
       ], 
-      "name": "out.Rdrive_f.stepper"
+      "name": "out-Rdrive_f-stepper"
     }, 
     {
       "matrix": [
@@ -7310,7 +7310,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.Rdrive_f.stepper.shaft"
+      "name": "out-Rdrive_f-stepper-shaft"
     }, 
     {
       "matrix": [
@@ -7332,7 +7332,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.Rdrive_f.stepper.stator"
+      "name": "out-Rdrive_f-stepper-stator"
     }, 
     {
       "matrix": [
@@ -7354,7 +7354,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.Rdrive_f.stepper.topcap"
+      "name": "out-Rdrive_f-stepper-topcap"
     }, 
     {
       "matrix": [
@@ -7376,7 +7376,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.Rdrive_f.stepper.botcap"
+      "name": "out-Rdrive_f-stepper-botcap"
     }, 
     {
       "matrix": [
@@ -7398,7 +7398,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.Rdrive_f.driven"
+      "name": "out-Rdrive_f-driven"
     }, 
     {
       "matrix": [
@@ -7416,11 +7416,11 @@
         0.0, 
         -15.499999999999993, 
         -25.0, 
-        47.65, 
+        16.65, 
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.Rdrive_f.screw_000"
+      "name": "out-Rdrive_f-screw_000"
     }, 
     {
       "matrix": [
@@ -7438,11 +7438,11 @@
         0.0, 
         15.5, 
         -25.0, 
-        16.65, 
+        47.65, 
         1.0
       ], 
       "mesh": 7, 
-      "name": "out.Rdrive_f.screw_001"
+      "name": "out-Rdrive_f-screw_001"
     }, 
     {
       "matrix": [
@@ -7458,13 +7458,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        15.5, 
+        -15.499999999999993, 
         -25.0, 
         47.65, 
         1.0
       ], 
       "mesh": 8, 
-      "name": "out.Rdrive_f.screw_002"
+      "name": "out-Rdrive_f-screw_002"
     }, 
     {
       "matrix": [
@@ -7480,13 +7480,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        -15.499999999999993, 
+        15.5, 
         -25.0, 
         16.65, 
         1.0
       ], 
       "mesh": 9, 
-      "name": "out.Rdrive_f.screw_003"
+      "name": "out-Rdrive_f-screw_003"
     }, 
     {
       "children": [
@@ -7507,11 +7507,11 @@
         -1.0, 
         0.0, 
         16.0, 
-        -3.1499999999999986, 
+        21.15, 
         -6.0, 
         1.0
       ], 
-      "name": "out.Rdrive_f.mount_screw_000"
+      "name": "out-Rdrive_f-mount_screw_000"
     }, 
     {
       "matrix": [
@@ -7533,7 +7533,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out.Rdrive_f.mount_screw_000.nut"
+      "name": "out-Rdrive_f-mount_screw_000-nut"
     }, 
     {
       "matrix": [
@@ -7555,7 +7555,7 @@
         1.0
       ], 
       "mesh": 11, 
-      "name": "out.Rdrive_f.mount_screw_000.bolt"
+      "name": "out-Rdrive_f-mount_screw_000-bolt"
     }, 
     {
       "children": [
@@ -7575,12 +7575,12 @@
         0.0, 
         -1.0, 
         0.0, 
-        16.0, 
+        -15.999999999999993, 
         21.15, 
         -6.0, 
         1.0
       ], 
-      "name": "out.Rdrive_f.mount_screw_001"
+      "name": "out-Rdrive_f-mount_screw_001"
     }, 
     {
       "matrix": [
@@ -7602,7 +7602,7 @@
         1.0
       ], 
       "mesh": 12, 
-      "name": "out.Rdrive_f.mount_screw_001.nut"
+      "name": "out-Rdrive_f-mount_screw_001-nut"
     }, 
     {
       "matrix": [
@@ -7624,7 +7624,7 @@
         1.0
       ], 
       "mesh": 13, 
-      "name": "out.Rdrive_f.mount_screw_001.bolt"
+      "name": "out-Rdrive_f-mount_screw_001-bolt"
     }, 
     {
       "children": [
@@ -7644,12 +7644,12 @@
         0.0, 
         -1.0, 
         0.0, 
-        -15.999999999999993, 
-        21.15, 
+        16.0, 
+        -3.1499999999999986, 
         -6.0, 
         1.0
       ], 
-      "name": "out.Rdrive_f.mount_screw_002"
+      "name": "out-Rdrive_f-mount_screw_002"
     }, 
     {
       "matrix": [
@@ -7671,7 +7671,7 @@
         1.0
       ], 
       "mesh": 14, 
-      "name": "out.Rdrive_f.mount_screw_002.nut"
+      "name": "out-Rdrive_f-mount_screw_002-nut"
     }, 
     {
       "matrix": [
@@ -7693,7 +7693,7 @@
         1.0
       ], 
       "mesh": 15, 
-      "name": "out.Rdrive_f.mount_screw_002.bolt"
+      "name": "out-Rdrive_f-mount_screw_002-bolt"
     }, 
     {
       "children": [
@@ -7718,7 +7718,7 @@
         -6.0, 
         1.0
       ], 
-      "name": "out.Rdrive_f.mount_screw_003"
+      "name": "out-Rdrive_f-mount_screw_003"
     }, 
     {
       "matrix": [
@@ -7740,7 +7740,7 @@
         1.0
       ], 
       "mesh": 16, 
-      "name": "out.Rdrive_f.mount_screw_003.nut"
+      "name": "out-Rdrive_f-mount_screw_003-nut"
     }, 
     {
       "matrix": [
@@ -7762,7 +7762,7 @@
         1.0
       ], 
       "mesh": 17, 
-      "name": "out.Rdrive_f.mount_screw_003.bolt"
+      "name": "out-Rdrive_f-mount_screw_003-bolt"
     }, 
     {
       "children": [
@@ -7796,7 +7796,7 @@
         60.0, 
         1.0
       ], 
-      "name": "out.Ldrive_b"
+      "name": "out-Ldrive_b"
     }, 
     {
       "matrix": [
@@ -7818,7 +7818,7 @@
         1.0
       ], 
       "mesh": 18, 
-      "name": "out.Ldrive_b.mount"
+      "name": "out-Ldrive_b-mount"
     }, 
     {
       "children": [
@@ -7845,7 +7845,7 @@
         32.14999999999999, 
         1.0
       ], 
-      "name": "out.Ldrive_b.stepper"
+      "name": "out-Ldrive_b-stepper"
     }, 
     {
       "matrix": [
@@ -7867,7 +7867,7 @@
         1.0
       ], 
       "mesh": 19, 
-      "name": "out.Ldrive_b.stepper.shaft"
+      "name": "out-Ldrive_b-stepper-shaft"
     }, 
     {
       "matrix": [
@@ -7889,7 +7889,7 @@
         1.0
       ], 
       "mesh": 20, 
-      "name": "out.Ldrive_b.stepper.stator"
+      "name": "out-Ldrive_b-stepper-stator"
     }, 
     {
       "matrix": [
@@ -7911,7 +7911,7 @@
         1.0
       ], 
       "mesh": 21, 
-      "name": "out.Ldrive_b.stepper.topcap"
+      "name": "out-Ldrive_b-stepper-topcap"
     }, 
     {
       "matrix": [
@@ -7933,7 +7933,7 @@
         1.0
       ], 
       "mesh": 22, 
-      "name": "out.Ldrive_b.stepper.botcap"
+      "name": "out-Ldrive_b-stepper-botcap"
     }, 
     {
       "matrix": [
@@ -7955,7 +7955,29 @@
         1.0
       ], 
       "mesh": 23, 
-      "name": "out.Ldrive_b.driven"
+      "name": "out-Ldrive_b-driven"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        -15.5, 
+        -25.000000000000007, 
+        16.64999999999999, 
+        1.0
+      ], 
+      "mesh": 24, 
+      "name": "out-Ldrive_b-screw_000"
     }, 
     {
       "matrix": [
@@ -7976,30 +7998,8 @@
         47.64999999999999, 
         1.0
       ], 
-      "mesh": 24, 
-      "name": "out.Ldrive_b.screw_000"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        -1.0, 
-        0.0, 
-        0.0, 
-        15.5, 
-        -25.000000000000007, 
-        16.64999999999999, 
-        1.0
-      ], 
       "mesh": 25, 
-      "name": "out.Ldrive_b.screw_001"
+      "name": "out-Ldrive_b-screw_001"
     }, 
     {
       "matrix": [
@@ -8021,7 +8021,7 @@
         1.0
       ], 
       "mesh": 26, 
-      "name": "out.Ldrive_b.screw_002"
+      "name": "out-Ldrive_b-screw_002"
     }, 
     {
       "matrix": [
@@ -8037,13 +8037,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        -15.5, 
+        15.5, 
         -25.000000000000007, 
         16.64999999999999, 
         1.0
       ], 
       "mesh": 27, 
-      "name": "out.Ldrive_b.screw_003"
+      "name": "out-Ldrive_b-screw_003"
     }, 
     {
       "children": [
@@ -8063,12 +8063,12 @@
         0.0, 
         -1.0, 
         0.0, 
-        16.0, 
-        -3.1500000000000057, 
+        -16.0, 
+        21.14999999999999, 
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Ldrive_b.mount_screw_000"
+      "name": "out-Ldrive_b-mount_screw_000"
     }, 
     {
       "matrix": [
@@ -8090,7 +8090,7 @@
         1.0
       ], 
       "mesh": 28, 
-      "name": "out.Ldrive_b.mount_screw_000.nut"
+      "name": "out-Ldrive_b-mount_screw_000-nut"
     }, 
     {
       "matrix": [
@@ -8112,7 +8112,7 @@
         1.0
       ], 
       "mesh": 29, 
-      "name": "out.Ldrive_b.mount_screw_000.bolt"
+      "name": "out-Ldrive_b-mount_screw_000-bolt"
     }, 
     {
       "children": [
@@ -8133,11 +8133,11 @@
         -1.0, 
         0.0, 
         16.0, 
-        21.14999999999999, 
+        -3.1500000000000057, 
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Ldrive_b.mount_screw_001"
+      "name": "out-Ldrive_b-mount_screw_001"
     }, 
     {
       "matrix": [
@@ -8159,7 +8159,7 @@
         1.0
       ], 
       "mesh": 30, 
-      "name": "out.Ldrive_b.mount_screw_001.nut"
+      "name": "out-Ldrive_b-mount_screw_001-nut"
     }, 
     {
       "matrix": [
@@ -8181,7 +8181,7 @@
         1.0
       ], 
       "mesh": 31, 
-      "name": "out.Ldrive_b.mount_screw_001.bolt"
+      "name": "out-Ldrive_b-mount_screw_001-bolt"
     }, 
     {
       "children": [
@@ -8202,80 +8202,11 @@
         -1.0, 
         0.0, 
         -16.0, 
-        21.14999999999999, 
-        -6.000000000000007, 
-        1.0
-      ], 
-      "name": "out.Ldrive_b.mount_screw_002"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        7.105427357601002e-15, 
-        -11.999999999999993, 
-        1.0
-      ], 
-      "mesh": 32, 
-      "name": "out.Ldrive_b.mount_screw_002.nut"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0
-      ], 
-      "mesh": 33, 
-      "name": "out.Ldrive_b.mount_screw_002.bolt"
-    }, 
-    {
-      "children": [
-        48, 
-        49
-      ], 
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        -1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        -1.0, 
-        0.0, 
-        -16.0, 
         -3.1500000000000057, 
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Ldrive_b.mount_screw_003"
+      "name": "out-Ldrive_b-mount_screw_002"
     }, 
     {
       "matrix": [
@@ -8296,8 +8227,8 @@
         -11.999999999999993, 
         1.0
       ], 
-      "mesh": 34, 
-      "name": "out.Ldrive_b.mount_screw_003.nut"
+      "mesh": 32, 
+      "name": "out-Ldrive_b-mount_screw_002-nut"
     }, 
     {
       "matrix": [
@@ -8318,8 +8249,77 @@
         0.0, 
         1.0
       ], 
+      "mesh": 33, 
+      "name": "out-Ldrive_b-mount_screw_002-bolt"
+    }, 
+    {
+      "children": [
+        48, 
+        49
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        16.0, 
+        21.14999999999999, 
+        -6.000000000000007, 
+        1.0
+      ], 
+      "name": "out-Ldrive_b-mount_screw_003"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        7.105427357601002e-15, 
+        -11.999999999999993, 
+        1.0
+      ], 
+      "mesh": 34, 
+      "name": "out-Ldrive_b-mount_screw_003-nut"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
       "mesh": 35, 
-      "name": "out.Ldrive_b.mount_screw_003.bolt"
+      "name": "out-Ldrive_b-mount_screw_003-bolt"
     }, 
     {
       "children": [
@@ -8353,7 +8353,7 @@
         60.0, 
         1.0
       ], 
-      "name": "out.Rdrive_b"
+      "name": "out-Rdrive_b"
     }, 
     {
       "matrix": [
@@ -8375,7 +8375,7 @@
         1.0
       ], 
       "mesh": 36, 
-      "name": "out.Rdrive_b.mount"
+      "name": "out-Rdrive_b-mount"
     }, 
     {
       "children": [
@@ -8402,7 +8402,7 @@
         32.14999999999999, 
         1.0
       ], 
-      "name": "out.Rdrive_b.stepper"
+      "name": "out-Rdrive_b-stepper"
     }, 
     {
       "matrix": [
@@ -8424,7 +8424,7 @@
         1.0
       ], 
       "mesh": 37, 
-      "name": "out.Rdrive_b.stepper.shaft"
+      "name": "out-Rdrive_b-stepper-shaft"
     }, 
     {
       "matrix": [
@@ -8446,7 +8446,7 @@
         1.0
       ], 
       "mesh": 38, 
-      "name": "out.Rdrive_b.stepper.stator"
+      "name": "out-Rdrive_b-stepper-stator"
     }, 
     {
       "matrix": [
@@ -8468,7 +8468,7 @@
         1.0
       ], 
       "mesh": 39, 
-      "name": "out.Rdrive_b.stepper.topcap"
+      "name": "out-Rdrive_b-stepper-topcap"
     }, 
     {
       "matrix": [
@@ -8490,7 +8490,7 @@
         1.0
       ], 
       "mesh": 40, 
-      "name": "out.Rdrive_b.stepper.botcap"
+      "name": "out-Rdrive_b-stepper-botcap"
     }, 
     {
       "matrix": [
@@ -8512,7 +8512,7 @@
         1.0
       ], 
       "mesh": 41, 
-      "name": "out.Rdrive_b.driven"
+      "name": "out-Rdrive_b-driven"
     }, 
     {
       "matrix": [
@@ -8528,35 +8528,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        15.5, 
+        -15.5, 
         -25.000000000000007, 
-        16.64999999999999, 
+        47.64999999999999, 
         1.0
       ], 
       "mesh": 42, 
-      "name": "out.Rdrive_b.screw_000"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        -1.0, 
-        0.0, 
-        0.0, 
-        -15.5, 
-        -25.000000000000007, 
-        47.64999999999999, 
-        1.0
-      ], 
-      "mesh": 43, 
-      "name": "out.Rdrive_b.screw_001"
+      "name": "out-Rdrive_b-screw_000"
     }, 
     {
       "matrix": [
@@ -8574,11 +8552,11 @@
         0.0, 
         15.5, 
         -25.000000000000007, 
-        47.64999999999999, 
+        16.64999999999999, 
         1.0
       ], 
-      "mesh": 44, 
-      "name": "out.Rdrive_b.screw_002"
+      "mesh": 43, 
+      "name": "out-Rdrive_b-screw_001"
     }, 
     {
       "matrix": [
@@ -8599,8 +8577,30 @@
         16.64999999999999, 
         1.0
       ], 
+      "mesh": 44, 
+      "name": "out-Rdrive_b-screw_002"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        15.5, 
+        -25.000000000000007, 
+        47.64999999999999, 
+        1.0
+      ], 
       "mesh": 45, 
-      "name": "out.Rdrive_b.screw_003"
+      "name": "out-Rdrive_b-screw_003"
     }, 
     {
       "children": [
@@ -8620,34 +8620,12 @@
         0.0, 
         -1.0, 
         0.0, 
-        16.0, 
+        -16.0, 
         -3.1500000000000057, 
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Rdrive_b.mount_screw_000"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        1.4210854715202004e-14, 
-        -11.999999999999993, 
-        1.0
-      ], 
-      "mesh": 46, 
-      "name": "out.Rdrive_b.mount_screw_000.nut"
+      "name": "out-Rdrive_b-mount_screw_000"
     }, 
     {
       "matrix": [
@@ -8665,11 +8643,33 @@
         0.0, 
         0.0, 
         7.105427357601002e-15, 
+        -11.999999999999993, 
+        1.0
+      ], 
+      "mesh": 46, 
+      "name": "out-Rdrive_b-mount_screw_000-nut"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
         0.0, 
         1.0
       ], 
       "mesh": 47, 
-      "name": "out.Rdrive_b.mount_screw_000.bolt"
+      "name": "out-Rdrive_b-mount_screw_000-bolt"
     }, 
     {
       "children": [
@@ -8694,7 +8694,7 @@
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Rdrive_b.mount_screw_001"
+      "name": "out-Rdrive_b-mount_screw_001"
     }, 
     {
       "matrix": [
@@ -8716,7 +8716,7 @@
         1.0
       ], 
       "mesh": 48, 
-      "name": "out.Rdrive_b.mount_screw_001.nut"
+      "name": "out-Rdrive_b-mount_screw_001-nut"
     }, 
     {
       "matrix": [
@@ -8738,7 +8738,7 @@
         1.0
       ], 
       "mesh": 49, 
-      "name": "out.Rdrive_b.mount_screw_001.bolt"
+      "name": "out-Rdrive_b-mount_screw_001-bolt"
     }, 
     {
       "children": [
@@ -8763,7 +8763,7 @@
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Rdrive_b.mount_screw_002"
+      "name": "out-Rdrive_b-mount_screw_002"
     }, 
     {
       "matrix": [
@@ -8785,7 +8785,7 @@
         1.0
       ], 
       "mesh": 50, 
-      "name": "out.Rdrive_b.mount_screw_002.nut"
+      "name": "out-Rdrive_b-mount_screw_002-nut"
     }, 
     {
       "matrix": [
@@ -8807,7 +8807,7 @@
         1.0
       ], 
       "mesh": 51, 
-      "name": "out.Rdrive_b.mount_screw_002.bolt"
+      "name": "out-Rdrive_b-mount_screw_002-bolt"
     }, 
     {
       "children": [
@@ -8827,12 +8827,34 @@
         0.0, 
         -1.0, 
         0.0, 
-        -16.0, 
+        16.0, 
         -3.1500000000000057, 
         -6.000000000000007, 
         1.0
       ], 
-      "name": "out.Rdrive_b.mount_screw_003"
+      "name": "out-Rdrive_b-mount_screw_003"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        1.4210854715202004e-14, 
+        -11.999999999999993, 
+        1.0
+      ], 
+      "mesh": 52, 
+      "name": "out-Rdrive_b-mount_screw_003-nut"
     }, 
     {
       "matrix": [
@@ -8850,33 +8872,11 @@
         0.0, 
         0.0, 
         7.105427357601002e-15, 
-        -11.999999999999993, 
-        1.0
-      ], 
-      "mesh": 52, 
-      "name": "out.Rdrive_b.mount_screw_003.nut"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
         0.0, 
         1.0
       ], 
       "mesh": 53, 
-      "name": "out.Rdrive_b.mount_screw_003.bolt"
+      "name": "out-Rdrive_b-mount_screw_003-bolt"
     }, 
     {
       "matrix": [
@@ -8898,7 +8898,7 @@
         1.0
       ], 
       "mesh": 54, 
-      "name": "out.base"
+      "name": "out-base"
     }, 
     {
       "children": [
@@ -8932,7 +8932,7 @@
         60.0, 
         1.0
       ], 
-      "name": "out.Ldrive_f"
+      "name": "out-Ldrive_f"
     }, 
     {
       "matrix": [
@@ -8954,7 +8954,7 @@
         1.0
       ], 
       "mesh": 55, 
-      "name": "out.Ldrive_f.mount"
+      "name": "out-Ldrive_f-mount"
     }, 
     {
       "children": [
@@ -8981,7 +8981,7 @@
         32.15, 
         1.0
       ], 
-      "name": "out.Ldrive_f.stepper"
+      "name": "out-Ldrive_f-stepper"
     }, 
     {
       "matrix": [
@@ -9003,7 +9003,7 @@
         1.0
       ], 
       "mesh": 56, 
-      "name": "out.Ldrive_f.stepper.shaft"
+      "name": "out-Ldrive_f-stepper-shaft"
     }, 
     {
       "matrix": [
@@ -9025,7 +9025,7 @@
         1.0
       ], 
       "mesh": 57, 
-      "name": "out.Ldrive_f.stepper.stator"
+      "name": "out-Ldrive_f-stepper-stator"
     }, 
     {
       "matrix": [
@@ -9047,7 +9047,7 @@
         1.0
       ], 
       "mesh": 58, 
-      "name": "out.Ldrive_f.stepper.topcap"
+      "name": "out-Ldrive_f-stepper-topcap"
     }, 
     {
       "matrix": [
@@ -9069,7 +9069,7 @@
         1.0
       ], 
       "mesh": 59, 
-      "name": "out.Ldrive_f.stepper.botcap"
+      "name": "out-Ldrive_f-stepper-botcap"
     }, 
     {
       "matrix": [
@@ -9091,7 +9091,29 @@
         1.0
       ], 
       "mesh": 60, 
-      "name": "out.Ldrive_f.driven"
+      "name": "out-Ldrive_f-driven"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        -15.5, 
+        -25.0, 
+        16.65, 
+        1.0
+      ], 
+      "mesh": 61, 
+      "name": "out-Ldrive_f-screw_000"
     }, 
     {
       "matrix": [
@@ -9112,30 +9134,8 @@
         47.65, 
         1.0
       ], 
-      "mesh": 61, 
-      "name": "out.Ldrive_f.screw_000"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        -1.0, 
-        0.0, 
-        0.0, 
-        15.499999999999993, 
-        -25.0, 
-        16.65, 
-        1.0
-      ], 
       "mesh": 62, 
-      "name": "out.Ldrive_f.screw_001"
+      "name": "out-Ldrive_f-screw_001"
     }, 
     {
       "matrix": [
@@ -9157,7 +9157,7 @@
         1.0
       ], 
       "mesh": 63, 
-      "name": "out.Ldrive_f.screw_002"
+      "name": "out-Ldrive_f-screw_002"
     }, 
     {
       "matrix": [
@@ -9173,13 +9173,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        -15.5, 
+        15.499999999999993, 
         -25.0, 
         16.65, 
         1.0
       ], 
       "mesh": 64, 
-      "name": "out.Ldrive_f.screw_003"
+      "name": "out-Ldrive_f-screw_003"
     }, 
     {
       "children": [
@@ -9204,7 +9204,7 @@
         -6.0, 
         1.0
       ], 
-      "name": "out.Ldrive_f.mount_screw_000"
+      "name": "out-Ldrive_f-mount_screw_000"
     }, 
     {
       "matrix": [
@@ -9226,7 +9226,7 @@
         1.0
       ], 
       "mesh": 65, 
-      "name": "out.Ldrive_f.mount_screw_000.nut"
+      "name": "out-Ldrive_f-mount_screw_000-nut"
     }, 
     {
       "matrix": [
@@ -9248,7 +9248,7 @@
         1.0
       ], 
       "mesh": 66, 
-      "name": "out.Ldrive_f.mount_screw_000.bolt"
+      "name": "out-Ldrive_f-mount_screw_000-bolt"
     }, 
     {
       "children": [
@@ -9268,20 +9268,20 @@
         0.0, 
         -1.0, 
         0.0, 
-        15.999999999999993, 
+        -16.0, 
         -3.1499999999999986, 
         -6.0, 
         1.0
       ], 
-      "name": "out.Ldrive_f.mount_screw_001"
+      "name": "out-Ldrive_f-mount_screw_001"
     }, 
     {
       "matrix": [
         1.0, 
-        -1.1102230246251565e-16, 
         0.0, 
         0.0, 
-        1.1102230246251565e-16, 
+        0.0, 
+        0.0, 
         1.0, 
         0.0, 
         0.0, 
@@ -9295,15 +9295,15 @@
         1.0
       ], 
       "mesh": 67, 
-      "name": "out.Ldrive_f.mount_screw_001.nut"
+      "name": "out-Ldrive_f-mount_screw_001-nut"
     }, 
     {
       "matrix": [
         1.0, 
-        -1.1102230246251565e-16, 
         0.0, 
         0.0, 
-        1.1102230246251565e-16, 
+        0.0, 
+        0.0, 
         1.0, 
         0.0, 
         0.0, 
@@ -9317,7 +9317,7 @@
         1.0
       ], 
       "mesh": 68, 
-      "name": "out.Ldrive_f.mount_screw_001.bolt"
+      "name": "out-Ldrive_f-mount_screw_001-bolt"
     }, 
     {
       "children": [
@@ -9342,7 +9342,7 @@
         -6.0, 
         1.0
       ], 
-      "name": "out.Ldrive_f.mount_screw_002"
+      "name": "out-Ldrive_f-mount_screw_002"
     }, 
     {
       "matrix": [
@@ -9364,7 +9364,7 @@
         1.0
       ], 
       "mesh": 69, 
-      "name": "out.Ldrive_f.mount_screw_002.nut"
+      "name": "out-Ldrive_f-mount_screw_002-nut"
     }, 
     {
       "matrix": [
@@ -9386,7 +9386,7 @@
         1.0
       ], 
       "mesh": 70, 
-      "name": "out.Ldrive_f.mount_screw_002.bolt"
+      "name": "out-Ldrive_f-mount_screw_002-bolt"
     }, 
     {
       "children": [
@@ -9406,20 +9406,20 @@
         0.0, 
         -1.0, 
         0.0, 
-        -16.0, 
+        15.999999999999993, 
         -3.1499999999999986, 
         -6.0, 
         1.0
       ], 
-      "name": "out.Ldrive_f.mount_screw_003"
+      "name": "out-Ldrive_f-mount_screw_003"
     }, 
     {
       "matrix": [
         1.0, 
+        -1.1102230246251565e-16, 
         0.0, 
         0.0, 
-        0.0, 
-        0.0, 
+        1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -9433,15 +9433,15 @@
         1.0
       ], 
       "mesh": 71, 
-      "name": "out.Ldrive_f.mount_screw_003.nut"
+      "name": "out-Ldrive_f-mount_screw_003-nut"
     }, 
     {
       "matrix": [
         1.0, 
+        -1.1102230246251565e-16, 
         0.0, 
         0.0, 
-        0.0, 
-        0.0, 
+        1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -9455,7 +9455,7 @@
         1.0
       ], 
       "mesh": 72, 
-      "name": "out.Ldrive_f.mount_screw_003.bolt"
+      "name": "out-Ldrive_f-mount_screw_003-bolt"
     }, 
     {
       "children": [
@@ -9481,7 +9481,7 @@
         66.0, 
         1.0
       ], 
-      "name": "out.electronics"
+      "name": "out-electronics"
     }, 
     {
       "children": [
@@ -9509,7 +9509,7 @@
         9.299999999999997, 
         1.0
       ], 
-      "name": "out.electronics.battpack"
+      "name": "out-electronics-battpack"
     }, 
     {
       "matrix": [
@@ -9531,7 +9531,7 @@
         1.0
       ], 
       "mesh": 73, 
-      "name": "out.electronics.battpack.battery_004"
+      "name": "out-electronics-battpack-battery_004"
     }, 
     {
       "matrix": [
@@ -9553,7 +9553,7 @@
         1.0
       ], 
       "mesh": 74, 
-      "name": "out.electronics.battpack.battery_001"
+      "name": "out-electronics-battpack-battery_001"
     }, 
     {
       "matrix": [
@@ -9575,7 +9575,7 @@
         1.0
       ], 
       "mesh": 75, 
-      "name": "out.electronics.battpack.battery_000"
+      "name": "out-electronics-battpack-battery_000"
     }, 
     {
       "matrix": [
@@ -9597,7 +9597,7 @@
         1.0
       ], 
       "mesh": 76, 
-      "name": "out.electronics.battpack.battery_003"
+      "name": "out-electronics-battpack-battery_003"
     }, 
     {
       "matrix": [
@@ -9619,7 +9619,7 @@
         1.0
       ], 
       "mesh": 77, 
-      "name": "out.electronics.battpack.battery_002"
+      "name": "out-electronics-battpack-battery_002"
     }, 
     {
       "children": [
@@ -9651,7 +9651,29 @@
         0.0, 
         1.0
       ], 
-      "name": "out.electronics.motorcontroller"
+      "name": "out-electronics-motorcontroller"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -45.8, 
+        15.8, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 78, 
+      "name": "out-electronics-motorcontroller-standoff_002"
     }, 
     {
       "matrix": [
@@ -9672,30 +9694,8 @@
         0.0, 
         1.0
       ], 
-      "mesh": 78, 
-      "name": "out.electronics.motorcontroller.standoff_002"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        -45.8, 
-        -15.8, 
-        0.0, 
-        1.0
-      ], 
       "mesh": 79, 
-      "name": "out.electronics.motorcontroller.standoff_003"
+      "name": "out-electronics-motorcontroller-standoff_003"
     }, 
     {
       "matrix": [
@@ -9717,7 +9717,7 @@
         1.0
       ], 
       "mesh": 80, 
-      "name": "out.electronics.motorcontroller.standoff_000"
+      "name": "out-electronics-motorcontroller-standoff_000"
     }, 
     {
       "matrix": [
@@ -9734,12 +9734,12 @@
         1.0, 
         0.0, 
         -45.8, 
-        15.8, 
+        -15.8, 
         0.0, 
         1.0
       ], 
       "mesh": 81, 
-      "name": "out.electronics.motorcontroller.standoff_001"
+      "name": "out-electronics-motorcontroller-standoff_001"
     }, 
     {
       "matrix": [
@@ -9761,7 +9761,7 @@
         1.0
       ], 
       "mesh": 82, 
-      "name": "out.electronics.motorcontroller.board"
+      "name": "out-electronics-motorcontroller-board"
     }, 
     {
       "matrix": [
@@ -9783,7 +9783,29 @@
         1.0
       ], 
       "mesh": 83, 
-      "name": "out.electronics.motorcontroller.screw_000"
+      "name": "out-electronics-motorcontroller-screw_000"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -45.8, 
+        -15.8, 
+        16.0, 
+        1.0
+      ], 
+      "mesh": 84, 
+      "name": "out-electronics-motorcontroller-screw_001"
     }, 
     {
       "matrix": [
@@ -9804,8 +9826,8 @@
         16.0, 
         1.0
       ], 
-      "mesh": 84, 
-      "name": "out.electronics.motorcontroller.screw_001"
+      "mesh": 85, 
+      "name": "out-electronics-motorcontroller-screw_002"
     }, 
     {
       "matrix": [
@@ -9826,30 +9848,8 @@
         16.0, 
         1.0
       ], 
-      "mesh": 85, 
-      "name": "out.electronics.motorcontroller.screw_002"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        -45.8, 
-        -15.8, 
-        16.0, 
-        1.0
-      ], 
       "mesh": 86, 
-      "name": "out.electronics.motorcontroller.screw_003"
+      "name": "out-electronics-motorcontroller-screw_003"
     }, 
     {
       "children": [
@@ -9881,7 +9881,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.electronics.controller"
+      "name": "out-electronics-controller"
     }, 
     {
       "matrix": [
@@ -9903,7 +9903,7 @@
         1.0
       ], 
       "mesh": 87, 
-      "name": "out.electronics.controller.standoff_002"
+      "name": "out-electronics-controller-standoff_002"
     }, 
     {
       "matrix": [
@@ -9919,13 +9919,13 @@
         0.0, 
         1.0, 
         0.0, 
-        -29.0, 
+        29.0, 
         -11.5, 
         0.0, 
         1.0
       ], 
       "mesh": 88, 
-      "name": "out.electronics.controller.standoff_003"
+      "name": "out-electronics-controller-standoff_003"
     }, 
     {
       "matrix": [
@@ -9947,7 +9947,7 @@
         1.0
       ], 
       "mesh": 89, 
-      "name": "out.electronics.controller.standoff_000"
+      "name": "out-electronics-controller-standoff_000"
     }, 
     {
       "matrix": [
@@ -9963,13 +9963,13 @@
         0.0, 
         1.0, 
         0.0, 
-        29.0, 
+        -29.0, 
         -11.5, 
         0.0, 
         1.0
       ], 
       "mesh": 90, 
-      "name": "out.electronics.controller.standoff_001"
+      "name": "out-electronics-controller-standoff_001"
     }, 
     {
       "matrix": [
@@ -9991,7 +9991,7 @@
         1.0
       ], 
       "mesh": 91, 
-      "name": "out.electronics.controller.board"
+      "name": "out-electronics-controller-board"
     }, 
     {
       "matrix": [
@@ -10013,7 +10013,7 @@
         1.0
       ], 
       "mesh": 92, 
-      "name": "out.electronics.controller.screw_000"
+      "name": "out-electronics-controller-screw_000"
     }, 
     {
       "matrix": [
@@ -10029,13 +10029,13 @@
         0.0, 
         1.0, 
         0.0, 
-        29.0, 
+        -29.0, 
         -11.5, 
         21.0, 
         1.0
       ], 
       "mesh": 93, 
-      "name": "out.electronics.controller.screw_001"
+      "name": "out-electronics-controller-screw_001"
     }, 
     {
       "matrix": [
@@ -10057,7 +10057,7 @@
         1.0
       ], 
       "mesh": 94, 
-      "name": "out.electronics.controller.screw_002"
+      "name": "out-electronics-controller-screw_002"
     }, 
     {
       "matrix": [
@@ -10073,13 +10073,13 @@
         0.0, 
         1.0, 
         0.0, 
-        -29.0, 
+        29.0, 
         -11.5, 
         21.0, 
         1.0
       ], 
       "mesh": 95, 
-      "name": "out.electronics.controller.screw_003"
+      "name": "out-electronics-controller-screw_003"
     }, 
     {
       "children": [
@@ -10107,7 +10107,7 @@
         66.0, 
         1.0
       ], 
-      "name": "out.sensors"
+      "name": "out-sensors"
     }, 
     {
       "matrix": [
@@ -10129,7 +10129,7 @@
         1.0
       ], 
       "mesh": 96, 
-      "name": "out.sensors.pitch"
+      "name": "out-sensors-pitch"
     }, 
     {
       "matrix": [
@@ -10151,7 +10151,7 @@
         1.0
       ], 
       "mesh": 97, 
-      "name": "out.sensors.yaw"
+      "name": "out-sensors-yaw"
     }, 
     {
       "matrix": [
@@ -10173,7 +10173,7 @@
         1.0
       ], 
       "mesh": 98, 
-      "name": "out.sensors.base"
+      "name": "out-sensors-base"
     }, 
     {
       "children": [
@@ -10199,7 +10199,7 @@
         5.0, 
         1.0
       ], 
-      "name": "out.sensors.yaw_servo"
+      "name": "out-sensors-yaw_servo"
     }, 
     {
       "matrix": [
@@ -10221,7 +10221,7 @@
         1.0
       ], 
       "mesh": 99, 
-      "name": "out.sensors.yaw_servo.shaft"
+      "name": "out-sensors-yaw_servo-shaft"
     }, 
     {
       "matrix": [
@@ -10243,7 +10243,7 @@
         1.0
       ], 
       "mesh": 100, 
-      "name": "out.sensors.yaw_servo.servobody"
+      "name": "out-sensors-yaw_servo-servobody"
     }, 
     {
       "matrix": [
@@ -10265,7 +10265,7 @@
         1.0
       ], 
       "mesh": 101, 
-      "name": "out.sensors.yaw_servo.horn"
+      "name": "out-sensors-yaw_servo-horn"
     }, 
     {
       "children": [
@@ -10291,7 +10291,7 @@
         48.55199999999999, 
         1.0
       ], 
-      "name": "out.sensors.pitch_servo"
+      "name": "out-sensors-pitch_servo"
     }, 
     {
       "matrix": [
@@ -10313,7 +10313,7 @@
         1.0
       ], 
       "mesh": 102, 
-      "name": "out.sensors.pitch_servo.shaft"
+      "name": "out-sensors-pitch_servo-shaft"
     }, 
     {
       "matrix": [
@@ -10335,7 +10335,7 @@
         1.0
       ], 
       "mesh": 103, 
-      "name": "out.sensors.pitch_servo.servobody"
+      "name": "out-sensors-pitch_servo-servobody"
     }, 
     {
       "matrix": [
@@ -10357,7 +10357,7 @@
         1.0
       ], 
       "mesh": 104, 
-      "name": "out.sensors.pitch_servo.horn"
+      "name": "out-sensors-pitch_servo-horn"
     }
   ], 
   "scene": 0, 

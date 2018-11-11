@@ -4,15 +4,15 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1376, 
+      "count": 1664, 
       "max": [
-        15.1, 
-        15.098736066637253, 
-        10.1
+        25.1, 
+        25.098748742079902, 
+        25.1
       ], 
       "min": [
-        -15.1, 
-        -15.098736066637253, 
+        -25.1, 
+        -25.098748742079902, 
         -0.1
       ], 
       "type": "VEC3"
@@ -21,23 +21,23 @@
       "bufferView": 1, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 8256, 
+      "count": 9984, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 2, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 584, 
+      "count": 500, 
       "max": [
-        5.1, 
-        25.1, 
-        5.1
+        2.5987155405017197, 
+        27.6, 
+        2.6
       ], 
       "min": [
-        -5.1, 
-        -25.1, 
-        -5.1
+        -2.5987155405017197, 
+        -27.6, 
+        -2.6
       ], 
       "type": "VEC3"
     }, 
@@ -45,22 +45,22 @@
       "bufferView": 3, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 3492, 
+      "count": 2988, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 4, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1376, 
+      "count": 1664, 
       "max": [
-        15.1, 
-        15.098736066637253, 
-        10.1
+        25.1, 
+        25.098748742079902, 
+        25.1
       ], 
       "min": [
-        -15.1, 
-        -15.098736066637253, 
+        -25.1, 
+        -25.098748742079902, 
         -0.1
       ], 
       "type": "VEC3"
@@ -69,23 +69,23 @@
       "bufferView": 5, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 8256, 
+      "count": 9984, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 6, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 3212, 
+      "count": 2045, 
       "max": [
         60.1, 
-        30.1, 
+        40.10000000000003, 
         40.1
       ], 
       "min": [
         -60.1, 
-        -30.1, 
-        -0.1000000000000276
+        -40.100000000000044, 
+        -0.10000000000001055
       ], 
       "type": "VEC3"
     }, 
@@ -93,22 +93,22 @@
       "bufferView": 7, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 19260, 
+      "count": 12258, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 8, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1376, 
+      "count": 1664, 
       "max": [
-        15.1, 
-        15.098736066637253, 
-        10.1
+        25.1, 
+        25.098748742079902, 
+        25.1
       ], 
       "min": [
-        -15.1, 
-        -15.098736066637253, 
+        -25.1, 
+        -25.098748742079902, 
         -0.1
       ], 
       "type": "VEC3"
@@ -117,23 +117,23 @@
       "bufferView": 9, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 8256, 
+      "count": 9984, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 10, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 584, 
+      "count": 500, 
       "max": [
-        5.1, 
-        25.1, 
-        5.1
+        2.5987155405017197, 
+        27.6, 
+        2.6
       ], 
       "min": [
-        -5.1, 
-        -25.1, 
-        -5.1
+        -2.5987155405017197, 
+        -27.6, 
+        -2.6
       ], 
       "type": "VEC3"
     }, 
@@ -141,22 +141,22 @@
       "bufferView": 11, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 3492, 
+      "count": 2988, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 12, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1376, 
+      "count": 1664, 
       "max": [
-        15.1, 
-        15.098736066637253, 
-        10.1
+        25.1, 
+        25.098748742079902, 
+        25.1
       ], 
       "min": [
-        -15.1, 
-        -15.098736066637253, 
+        -25.1, 
+        -25.098748742079902, 
         -0.1
       ], 
       "type": "VEC3"
@@ -165,7 +165,7 @@
       "bufferView": 13, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 8256, 
+      "count": 9984, 
       "type": "SCALAR"
     }
   ], 
@@ -176,124 +176,124 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 16512, 
+      "byteLength": 19968, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 16512, 
-      "byteOffset": 16512, 
+      "byteLength": 19968, 
+      "byteOffset": 19968, 
       "target": 34963
     }, 
     {
       "buffer": 1, 
-      "byteLength": 7008, 
+      "byteLength": 6000, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 1, 
-      "byteLength": 6984, 
-      "byteOffset": 7008, 
+      "byteLength": 5976, 
+      "byteOffset": 6000, 
       "target": 34963
     }, 
     {
       "buffer": 2, 
-      "byteLength": 16512, 
+      "byteLength": 19968, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 2, 
-      "byteLength": 16512, 
-      "byteOffset": 16512, 
+      "byteLength": 19968, 
+      "byteOffset": 19968, 
       "target": 34963
     }, 
     {
       "buffer": 3, 
-      "byteLength": 38544, 
+      "byteLength": 24540, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 3, 
-      "byteLength": 38520, 
-      "byteOffset": 38544, 
+      "byteLength": 24516, 
+      "byteOffset": 24540, 
       "target": 34963
     }, 
     {
       "buffer": 4, 
-      "byteLength": 16512, 
+      "byteLength": 19968, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 4, 
-      "byteLength": 16512, 
-      "byteOffset": 16512, 
+      "byteLength": 19968, 
+      "byteOffset": 19968, 
       "target": 34963
     }, 
     {
       "buffer": 5, 
-      "byteLength": 7008, 
+      "byteLength": 6000, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 5, 
-      "byteLength": 6984, 
-      "byteOffset": 7008, 
+      "byteLength": 5976, 
+      "byteOffset": 6000, 
       "target": 34963
     }, 
     {
       "buffer": 6, 
-      "byteLength": 16512, 
+      "byteLength": 19968, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 6, 
-      "byteLength": 16512, 
-      "byteOffset": 16512, 
+      "byteLength": 19968, 
+      "byteOffset": 19968, 
       "target": 34963
     }
   ], 
   "buffers": [
     {
-      "byteLength": 33024, 
-      "uri": "out.front_axle.left_wheel.bin"
+      "byteLength": 39936, 
+      "uri": "out-front_axle-left_wheel.bin"
     }, 
     {
-      "byteLength": 13992, 
-      "uri": "out.front_axle.axle.bin"
+      "byteLength": 11976, 
+      "uri": "out-front_axle-axle.bin"
     }, 
     {
-      "byteLength": 33024, 
-      "uri": "out.front_axle.right_wheel.bin"
+      "byteLength": 39936, 
+      "uri": "out-front_axle-right_wheel.bin"
     }, 
     {
-      "byteLength": 77064, 
-      "uri": "out.chassis.bin"
+      "byteLength": 49056, 
+      "uri": "out-chassis.bin"
     }, 
     {
-      "byteLength": 33024, 
-      "uri": "out.rear_axle.left_wheel.bin"
+      "byteLength": 39936, 
+      "uri": "out-rear_axle-left_wheel.bin"
     }, 
     {
-      "byteLength": 13992, 
-      "uri": "out.rear_axle.axle.bin"
+      "byteLength": 11976, 
+      "uri": "out-rear_axle-axle.bin"
     }, 
     {
-      "byteLength": 33024, 
-      "uri": "out.rear_axle.right_wheel.bin"
+      "byteLength": 39936, 
+      "uri": "out-rear_axle-right_wheel.bin"
     }
   ], 
   "materials": [
@@ -398,7 +398,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.front_axle.left_wheel", 
+      "name": "out-front_axle-left_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -411,7 +411,7 @@
       ]
     }, 
     {
-      "name": "out.front_axle.axle", 
+      "name": "out-front_axle-axle", 
       "primitives": [
         {
           "attributes": {
@@ -424,7 +424,7 @@
       ]
     }, 
     {
-      "name": "out.front_axle.right_wheel", 
+      "name": "out-front_axle-right_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -437,7 +437,7 @@
       ]
     }, 
     {
-      "name": "out.chassis", 
+      "name": "out-chassis", 
       "primitives": [
         {
           "attributes": {
@@ -450,7 +450,7 @@
       ]
     }, 
     {
-      "name": "out.rear_axle.left_wheel", 
+      "name": "out-rear_axle-left_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -463,7 +463,7 @@
       ]
     }, 
     {
-      "name": "out.rear_axle.axle", 
+      "name": "out-rear_axle-axle", 
       "primitives": [
         {
           "attributes": {
@@ -476,7 +476,7 @@
       ]
     }, 
     {
-      "name": "out.rear_axle.right_wheel", 
+      "name": "out-rear_axle-right_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -558,12 +558,12 @@
         0.0, 
         1.0, 
         0.0, 
-        35.0, 
+        45.0, 
         0.0, 
         0.0, 
         1.0
       ], 
-      "name": "out.front_axle"
+      "name": "out-front_axle"
     }, 
     {
       "matrix": [
@@ -580,12 +580,12 @@
         0.0, 
         0.0, 
         0.0, 
-        -25.0, 
+        -27.5, 
         0.0, 
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.front_axle.left_wheel"
+      "name": "out-front_axle-left_wheel"
     }, 
     {
       "matrix": [
@@ -607,7 +607,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.front_axle.axle"
+      "name": "out-front_axle-axle"
     }, 
     {
       "matrix": [
@@ -624,12 +624,12 @@
         0.0, 
         0.0, 
         0.0, 
-        25.0, 
+        27.5, 
         0.0, 
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.front_axle.right_wheel"
+      "name": "out-front_axle-right_wheel"
     }, 
     {
       "matrix": [
@@ -651,7 +651,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.chassis"
+      "name": "out-chassis"
     }, 
     {
       "children": [
@@ -672,12 +672,12 @@
         0.0, 
         1.0, 
         0.0, 
-        -35.0, 
+        -45.0, 
         0.0, 
         0.0, 
         1.0
       ], 
-      "name": "out.rear_axle"
+      "name": "out-rear_axle"
     }, 
     {
       "matrix": [
@@ -694,12 +694,12 @@
         0.0, 
         0.0, 
         0.0, 
-        -25.0, 
+        -27.5, 
         0.0, 
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.rear_axle.left_wheel"
+      "name": "out-rear_axle-left_wheel"
     }, 
     {
       "matrix": [
@@ -721,7 +721,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.rear_axle.axle"
+      "name": "out-rear_axle-axle"
     }, 
     {
       "matrix": [
@@ -738,12 +738,12 @@
         0.0, 
         0.0, 
         0.0, 
-        25.0, 
+        27.5, 
         0.0, 
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.rear_axle.right_wheel"
+      "name": "out-rear_axle-right_wheel"
     }
   ], 
   "scene": 0, 

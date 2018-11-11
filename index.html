@@ -1,147 +1,273 @@
-<!doctype html>
-<html>
-   <head>
-    <link rel="stylesheet" href="/static/css/bulma.css">
-   </head>
-  <body style="margin:0;">
-        <div class="container">
-            <section class="hero">
-                <div class="hero-body">
-                    <h1 class="title is-1 has-text-centered">CQparts geometry server</h1>
-                </div>
-            </section>
-            <h1 class="title is-3">Showcase</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>CQParts , pythonic stuff</title>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+  <!-- Bulma Version 0.7.2-->
+  <link rel="stylesheet" href="/static/css/bulma.css" />
+  <!-- <link href="https://unpkg.com/bulma-fluent@0.3.13/css/bulma.min.css" rel="stylesheet"> -->
+  <script async type="text/javascript" src="../js/bulma.js"></script>
+</head>
+
+<body>
+  <!-- Navigation bar -->
+  <nav class="navbar is-link is-fixed-top">
+    <div class="navbar-start">
+        <a class="navbar-item" href="#home">
+          <span>CQParts</span>
+        </a>
+    </div>
+    <div class="navbar-brand">
+      <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div id="navbarExampleTransparentExample" class="navbar-menu">
+      <div class="navbar-end">
+        
+        <a class="navbar-item" href="#about">
+          <span>about </span>
+        </a>
+        
+        <a class="navbar-item" href="#examples">
+          <span>examples </span>
+        </a>
+        
+        <a class="navbar-item" href="#develop">
+          <span>develop </span>
+        </a>
+        
+        <a class="navbar-item" href="#install">
+          <span>install </span>
+        </a>
+        
+        <a class="navbar-item" href="#webapi">
+          <span>webapi </span>
+        </a>
+        
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <section class="hero is-link is-fullheight is-fullheight-with-navbar" id="home">
+    <div class="hero-body">
+      <div class="container">
+        <img src="/static/media/dark.svg" alt="CQParts"></img>
+        <h2 class="subtitle is-3">
+            Build tangible programmatic desgins in python.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- about-->
+  <section class="section is-fullheight is-fullheight-with-navbar" id="about">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">About</h3>
+      <h4 class="subtitle is-5">Build tangible objects with python</h4>
+      <div class="container">
+            <h1> about section </h1>
+      </div>
+    </div>
+  </section>
+
+  <!-- examples-->
+  <section class="section is-fullheight is-fullheight-with-navbar" id="examples">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">Examples</h3>
+      <h4 class="subtitle is-5">Showcase examples of what CQParts can do</h4>
+      <div class="container">
             
-            <div class="columns ">
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/Electronics">
-                        <div class="box">
-                        Electronics
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/Electronics">
-                        <img src="/img/Electronics.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/FlipBox">
-                        <div class="box">
-                        FlipBox
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/FlipBox">
-                        <img src="/img/FlipBox.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/CompleteFlux">
-                        <div class="box">
-                        CompleteFlux
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/CompleteFlux">
-                        <img src="/img/CompleteFlux.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/MercanumWheel">
-                        <div class="box">
-                        MercanumWheel
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/MercanumWheel">
-                        <img src="/img/MercanumWheel.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
+<div class="columns ">
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/Electronics">
+            <div class="box">
+            Electronics
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/Electronics">
+            <img src="/img/Electronics.png">
+            </a>
+            </figure>
+            
             </div>
-            
-            <div class="columns ">
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/MountedStepper">
-                        <div class="box">
-                        MountedStepper
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/MountedStepper">
-                        <img src="/img/MountedStepper.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/PizeroBoard">
-                        <div class="box">
-                        PizeroBoard
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/PizeroBoard">
-                        <img src="/img/PizeroBoard.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/Rover">
-                        <div class="box">
-                        Rover
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/Rover">
-                        <img src="/img/Rover.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <div class="column is-one-fifth-quarter">
-                        <a href="/cqparts/export/showcase/TurbineAssembly">
-                        <div class="box">
-                        TurbineAssembly
-                        
-                        <figure class="image">
-                        <a href="/cqparts/export/showcase/TurbineAssembly">
-                        <img src="/img/TurbineAssembly.png">
-                        </a>
-                        </figure>
-                        
-                        </div>
-                        </a>
-                    </div>
-                    
-            </div>
-            
-            <h1 class="title is-3">Everything Else</h1>
-            <a class="button is-big" href="/cqparts/">Everything Else</a>
+            </a>
         </div>
-   </body>
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/FlipBox">
+            <div class="box">
+            FlipBox
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/FlipBox">
+            <img src="/img/FlipBox.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/CompleteFlux">
+            <div class="box">
+            CompleteFlux
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/CompleteFlux">
+            <img src="/img/CompleteFlux.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+</div>
+
+<div class="columns ">
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/MercanumWheel">
+            <div class="box">
+            MercanumWheel
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/MercanumWheel">
+            <img src="/img/MercanumWheel.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/MountedStepper">
+            <div class="box">
+            MountedStepper
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/MountedStepper">
+            <img src="/img/MountedStepper.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/PizeroBoard">
+            <div class="box">
+            PizeroBoard
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/PizeroBoard">
+            <img src="/img/PizeroBoard.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+</div>
+
+<div class="columns ">
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/Rover">
+            <div class="box">
+            Rover
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/Rover">
+            <img src="/img/Rover.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+        <div class="column is-one-third">
+            <a href="/examples/export/showcase/TurbineAssembly">
+            <div class="box">
+            TurbineAssembly
+            
+            <figure class="image">
+            <a href="/examples/export/showcase/TurbineAssembly">
+            <img src="/img/TurbineAssembly.png">
+            </a>
+            </figure>
+            
+            </div>
+            </a>
+        </div>
+        
+</div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- develop-->
+  <section class="section is-fullheight is-fullheight-with-navbar" id="develop">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">Develop</h3>
+      <h4 class="subtitle is-5">We need your help</h4>
+      <div class="container">
+            
+      </div>
+    </div>
+  </section>
+
+  <!-- install-->
+  <section class="section is-fullheight is-fullheight-with-navbar" id="install">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">Install</h3>
+      <h4 class="subtitle is-5">The bits that you need</h4>
+      <div class="container">
+            <h1> put the description here </h1>
+      </div>
+    </div>
+  </section>
+
+  <!-- webapi-->
+  <section class="section is-fullheight is-fullheight-with-navbar" id="webapi">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">Webapi</h3>
+      <h4 class="subtitle is-5">rest interface and html pages</h4>
+      <div class="container">
+            Describe web api
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="section-heading">
+      <p>
+        <strong>CQparts</strong> <a target="_blank" href="https://github.com/cqparts/cqparts">Github</a>
+      </p>
+    </div>
+  </footer>
+</body>
+
 </html>

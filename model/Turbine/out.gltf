@@ -4,15 +4,15 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 1044, 
+      "count": 2286, 
       "max": [
         20.10000000000019, 
-        19.855402179965644, 
+        20.099888773821366, 
         20.1
       ], 
       "min": [
-        -20.098588926036744, 
-        -19.85540217996564, 
+        -20.099888773821178, 
+        -20.099888773821366, 
         -0.1
       ], 
       "type": "VEC3"
@@ -21,7 +21,7 @@
       "bufferView": 1, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 6252, 
+      "count": 13704, 
       "type": "SCALAR"
     }
   ], 
@@ -32,21 +32,21 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 12528, 
+      "byteLength": 27432, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 12504, 
-      "byteOffset": 12528, 
+      "byteLength": 27408, 
+      "byteOffset": 27432, 
       "target": 34963
     }
   ], 
   "buffers": [
     {
-      "byteLength": 25032, 
+      "byteLength": 54840, 
       "uri": "out.bin"
     }
   ], 

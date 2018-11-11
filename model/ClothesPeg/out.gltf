@@ -121,15 +121,15 @@
   "buffers": [
     {
       "byteLength": 7968, 
-      "uri": "out.spring.bin"
+      "uri": "out-spring.bin"
     }, 
     {
       "byteLength": 4452, 
-      "uri": "out.top.bin"
+      "uri": "out-top.bin"
     }, 
     {
       "byteLength": 4452, 
-      "uri": "out.bottom.bin"
+      "uri": "out-bottom.bin"
     }
   ], 
   "materials": [
@@ -178,7 +178,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.spring", 
+      "name": "out-spring", 
       "primitives": [
         {
           "attributes": {
@@ -191,7 +191,7 @@
       ]
     }, 
     {
-      "name": "out.top", 
+      "name": "out-top", 
       "primitives": [
         {
           "attributes": {
@@ -204,7 +204,7 @@
       ]
     }, 
     {
-      "name": "out.bottom", 
+      "name": "out-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -287,7 +287,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.spring"
+      "name": "out-spring"
     }, 
     {
       "matrix": [
@@ -309,7 +309,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.top"
+      "name": "out-top"
     }, 
     {
       "matrix": [
@@ -331,7 +331,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.bottom"
+      "name": "out-bottom"
     }
   ], 
   "scene": 0, 

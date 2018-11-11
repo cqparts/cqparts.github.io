@@ -232,27 +232,27 @@
   "buffers": [
     {
       "byteLength": 17160, 
-      "uri": "out.right.bin"
+      "uri": "out-right.bin"
     }, 
     {
       "byteLength": 7656, 
-      "uri": "out.bottom.bin"
+      "uri": "out-bottom.bin"
     }, 
     {
       "byteLength": 1476, 
-      "uri": "out.front.bin"
+      "uri": "out-front.bin"
     }, 
     {
       "byteLength": 2148, 
-      "uri": "out.top.bin"
+      "uri": "out-top.bin"
     }, 
     {
       "byteLength": 1476, 
-      "uri": "out.back.bin"
+      "uri": "out-back.bin"
     }, 
     {
       "byteLength": 17256, 
-      "uri": "out.left.bin"
+      "uri": "out-left.bin"
     }
   ], 
   "materials": [
@@ -343,7 +343,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.right", 
+      "name": "out-right", 
       "primitives": [
         {
           "attributes": {
@@ -356,7 +356,7 @@
       ]
     }, 
     {
-      "name": "out.bottom", 
+      "name": "out-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -369,7 +369,7 @@
       ]
     }, 
     {
-      "name": "out.front", 
+      "name": "out-front", 
       "primitives": [
         {
           "attributes": {
@@ -382,7 +382,7 @@
       ]
     }, 
     {
-      "name": "out.top", 
+      "name": "out-top", 
       "primitives": [
         {
           "attributes": {
@@ -395,7 +395,7 @@
       ]
     }, 
     {
-      "name": "out.back", 
+      "name": "out-back", 
       "primitives": [
         {
           "attributes": {
@@ -408,7 +408,7 @@
       ]
     }, 
     {
-      "name": "out.left", 
+      "name": "out-left", 
       "primitives": [
         {
           "attributes": {
@@ -494,7 +494,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.right"
+      "name": "out-right"
     }, 
     {
       "matrix": [
@@ -516,7 +516,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.bottom"
+      "name": "out-bottom"
     }, 
     {
       "matrix": [
@@ -538,7 +538,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.front"
+      "name": "out-front"
     }, 
     {
       "matrix": [
@@ -560,7 +560,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.top"
+      "name": "out-top"
     }, 
     {
       "matrix": [
@@ -582,7 +582,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.back"
+      "name": "out-back"
     }, 
     {
       "matrix": [
@@ -604,7 +604,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.left"
+      "name": "out-left"
     }
   ], 
   "scene": 0, 

@@ -10,6 +10,7 @@
   <!-- Bulma Version 0.7.2-->
   <link rel="stylesheet" href="/static/css/bulma.css" />
   <link rel="stylesheet" href="/static/css/landing.css" />
+  <link rel="stylesheet" href="/static/css/materialdesignicons.min.css" />
   <!-- <link href="https://unpkg.com/bulma-fluent@0.3.13/css/bulma.min.css" rel="stylesheet"> -->
   <script async type="text/javascript" src="/static/js/bulma.js"></script>
 </head>
@@ -33,26 +34,44 @@
       <div class="navbar-end">
         
         <a class="navbar-item" href="#about">
+          
+          <span class="icon"><i class="mdi mdi-information-outline"></i></span>
+          
           <span>About </span>
         </a>
         
         <a class="navbar-item" href="#documentation">
+          
+          <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
+          
           <span>Documentation </span>
         </a>
         
         <a class="navbar-item" href="#examples">
+          
+          <span class="icon"><i class="mdi mdi-file-document"></i></span>
+          
           <span>Examples </span>
         </a>
         
         <a class="navbar-item" href="#develop">
+          
+          <span class="icon"><i class="mdi mdi-github-box"></i></span>
+          
           <span>Develop </span>
         </a>
         
         <a class="navbar-item" href="#install">
+          
+          <span class="icon"><i class="mdi mdi-cloud-download"></i></span>
+          
           <span>Install </span>
         </a>
         
         <a class="navbar-item" href="#webapi">
+          
+          <span class="icon"><i class="mdi mdi-cloud-print-outline"></i></span>
+          
           <span>Webapi </span>
         </a>
         
@@ -73,11 +92,15 @@
   </section>
 
   <!-- about-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="about">
+  <section class="section " id="about">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">About</h3>
-      <h4 class="subtitle is-5">Build tangible objects with python</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-information-outline"></i></span>
+      
+      About</h3>
+      <h4 class="subtitle is-6">Build tangible objects with python</h4>
       <div class="container">
             <h1> about section </h1>
       </div>
@@ -85,11 +108,15 @@
   </section>
 
   <!-- documentation-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="documentation">
+  <section class="section " id="documentation">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">Documentation</h3>
-      <h4 class="subtitle is-5">How to use it</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
+      
+      Documentation</h3>
+      <h4 class="subtitle is-6">How to use it</h4>
       <div class="container">
             <a target="_blank" href="https://cqparts.github.io/cqparts/">CQParts Documentation</a>
 <br>
@@ -99,16 +126,20 @@
   </section>
 
   <!-- examples-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="examples">
+  <section class="section " id="examples">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">Examples</h3>
-      <h4 class="subtitle is-5">Showcase examples of what CQParts can do</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-file-document"></i></span>
+      
+      Examples</h3>
+      <h4 class="subtitle is-6">Showcase examples of what CQParts can do</h4>
       <div class="container">
             
 <div class="columns ">
         
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/Electronics">
             <div class="box">
             Electronics
@@ -123,7 +154,7 @@
             </a>
         </div>
         
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/FlipBox">
             <div class="box">
             FlipBox
@@ -138,7 +169,7 @@
             </a>
         </div>
         
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/CompleteFlux">
             <div class="box">
             CompleteFlux
@@ -153,11 +184,7 @@
             </a>
         </div>
         
-</div>
-
-<div class="columns ">
-        
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/MercanumWheel">
             <div class="box">
             MercanumWheel
@@ -172,7 +199,11 @@
             </a>
         </div>
         
-        <div class="column is-one-third">
+</div>
+
+<div class="columns ">
+        
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/MountedStepper">
             <div class="box">
             MountedStepper
@@ -187,7 +218,7 @@
             </a>
         </div>
         
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/PizeroBoard">
             <div class="box">
             PizeroBoard
@@ -202,11 +233,7 @@
             </a>
         </div>
         
-</div>
-
-<div class="columns ">
-        
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/Rover">
             <div class="box">
             Rover
@@ -221,7 +248,7 @@
             </a>
         </div>
         
-        <div class="column is-one-third">
+        <div class="column is-one-quarter">
             <a href="/examples/export/showcase/TurbineAssembly">
             <div class="box">
             TurbineAssembly
@@ -238,16 +265,21 @@
         
 </div>
 
+<a class="button is-link" href="/examples">Everything Else</a>
       </div>
     </div>
   </section>
 
   <!-- develop-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="develop">
+  <section class="section " id="develop">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">Develop</h3>
-      <h4 class="subtitle is-5">We need your help</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-github-box"></i></span>
+      
+      Develop</h3>
+      <h4 class="subtitle is-6">We need your help</h4>
       <div class="container">
             dev instructions here
       </div>
@@ -255,11 +287,15 @@
   </section>
 
   <!-- install-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="install">
+  <section class="section " id="install">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">Install</h3>
-      <h4 class="subtitle is-5">The bits that you need</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-cloud-download"></i></span>
+      
+      Install</h3>
+      <h4 class="subtitle is-6">The bits that you need</h4>
       <div class="container">
             <h1> put the description here </h1>
       </div>
@@ -267,13 +303,17 @@
   </section>
 
   <!-- webapi-->
-  <section class="section is-fullheight is-fullheight-with-navbar" id="webapi">
+  <section class="section " id="webapi">
     <!-- Title -->
     <div class="section-heading">
-      <h3 class="title is-2">Webapi</h3>
-      <h4 class="subtitle is-5">rest interface and html pages</h4>
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-cloud-print-outline"></i></span>
+      
+      Webapi</h3>
+      <h4 class="subtitle is-6">rest interface and html pages</h4>
       <div class="container">
-            Describe web api
+            The cool thing about the cqparts_webapi is that it built this website.
       </div>
     </div>
   </section>

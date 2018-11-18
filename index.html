@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="/static/css/materialdesignicons.min.css" />
   <!-- <link href="https://unpkg.com/bulma-fluent@0.3.13/css/bulma.min.css" rel="stylesheet"> -->
   <script async type="text/javascript" src="/static/js/bulma.js"></script>
+  <link rel="stylesheet" href="/static/css/logo.css" />
 </head>
 
 <body>
@@ -21,7 +22,7 @@
 
     <div class="navbar-brand">
         <a class="navbar-item" href="#home">
-          <span>CQParts</span>
+          <span class="cq-logo">cq</span><span class="cq-logo-plugin cqparts">parts</span>
         </a>
       <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
         <span></span>
@@ -32,49 +33,49 @@
 
     <div id="navbarExampleTransparentExample" class="navbar-menu">
       <div class="navbar-end">
-        
+
         <a class="navbar-item" href="#about">
-          
+
           <span class="icon"><i class="mdi mdi-information-outline"></i></span>
-          
+
           <span>About </span>
         </a>
-        
+
         <a class="navbar-item" href="#examples">
-          
+
           <span class="icon"><i class="mdi mdi-file-document"></i></span>
-          
+
           <span>Examples </span>
         </a>
-        
+
         <a class="navbar-item" href="#install">
-          
+
           <span class="icon"><i class="mdi mdi-cloud-download"></i></span>
-          
+
           <span>Install </span>
         </a>
-        
+
         <a class="navbar-item" href="#documentation">
-          
+
           <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
-          
+
           <span>Documentation </span>
         </a>
-        
+
         <a class="navbar-item" href="#develop">
-          
+
           <span class="icon"><i class="mdi mdi-github-box"></i></span>
-          
+
           <span>Develop </span>
         </a>
-        
+
         <a class="navbar-item" href="#webapi">
-          
+
           <span class="icon"><i class="mdi mdi-cloud-print-outline"></i></span>
-          
+
           <span>Webapi </span>
         </a>
-        
+
       </div>
     </div>
   </nav>
@@ -92,171 +93,170 @@
   </section>
 
   <!-- about-->
-  <section class="section " id="about">
+  <section class="section" id="about">
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
-      <span class="icon"><i class="mdi mdi-information-outline"></i></span>
-      
-      About</h3>
-      <h4 class="subtitle is-6">What is it?</h4>
+        <span class="icon"><i class="mdi mdi-information-outline"></i></span>
+        About
+      </h3>
       </div>
       <div class="container">
-            <h3 class="subtitle"> What is cqparts ? </h3>
-<div class="section">
-Cqparts is CAD for Python programmers, short for <a target="_blank" href="https://github.com/cadquery/cadquery">cadquery</a> parts.
-<p> Using cqparts you can wrap geometry made with cadquery to build complex and deeply parametric models.
-</div>
-<h3 class="subtitle"> What can it do? </h3>
-<div class="section">
-You can build solid geometry in the same way you write an application; your geometry can be *built* on a headless system, automated, and revision controlled to your hearts content. You can export your models ready to be processed for 3d printing, or milling, or to be displayed / imported to another 3d app.
-</div>
+        <h3 class="subtitle is-3">What is <span class="cq-logo">cq</span><span class="cq-logo-plugin cqparts">parts</span>?</h3>
+        <div class="section">
+          <p>cqparts is CAD for Python programmers, short for <a target="_blank" href="https://github.com/cadquery/cadquery">cadquery</a> parts.</p>
+          <p>Using cqparts you can wrap geometry made with cadquery to build complex and deeply parametric models.</p>
+        </div>
+
+        <h3 class="subtitle is-3"> What can it do?</h3>
+          <div class="section">
+          <p>You can build solid geometry in the same way you write an application; your geometry can be <i>built</i> on a headless system, automated, and revision controlled to your hearts content.</p>
+          <p>You can also export your models ready to be processed for 3D printing, milling, or to be displayed / imported to another application.</p>
+        </div>
       </div>
   </section>
 
   <!-- examples-->
-  <section class="section " id="examples">
+  <section class="section" id="examples">
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
-      <span class="icon"><i class="mdi mdi-file-document"></i></span>
-      
-      Examples</h3>
-      <h4 class="subtitle is-6">Showcase examples of what CQParts can do</h4>
-      </div>
-      <div class="container">
-            All of these models are python programs, with inheritance , instancing and parameters.<p> Click on the links to view a 3d rendering. From the model the source code is linked for each design.
-<hr>
+        <span class="icon"><i class="mdi mdi-file-document"></i></span>
+        Examples
+      </h3>
+    </div>
 
-<div class="columns ">
-        
+    <div class="container">
+      All of these models are python programs, with inheritance , instancing and parameters.<p> Click on the links to view a 3d rendering. From the model the source code is linked for each design.
+        <hr>
+
+        <div class="columns ">
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/Electronics">
             <div class="box">
             Electronics
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/Electronics">
             <img src="/img/Electronics.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/FlipBox">
             <div class="box">
             FlipBox
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/FlipBox">
             <img src="/img/FlipBox.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/CompleteFlux">
             <div class="box">
             CompleteFlux
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/CompleteFlux">
             <img src="/img/CompleteFlux.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/MercanumWheel">
             <div class="box">
             MercanumWheel
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/MercanumWheel">
             <img src="/img/MercanumWheel.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
-</div>
 
-<div class="columns ">
-        
+        </div>
+
+        <div class="columns ">
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/MountedStepper">
             <div class="box">
             MountedStepper
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/MountedStepper">
             <img src="/img/MountedStepper.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/PizeroBoard">
             <div class="box">
             PizeroBoard
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/PizeroBoard">
             <img src="/img/PizeroBoard.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/Rover">
             <div class="box">
             Rover
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/Rover">
             <img src="/img/Rover.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
+
         <div class="column is-one-quarter">
             <a href="/examples/export/showcase/TurbineAssembly">
             <div class="box">
             TurbineAssembly
-            
+
             <figure class="image">
             <a href="/examples/export/showcase/TurbineAssembly">
             <img src="/img/TurbineAssembly.png">
             </a>
             </figure>
-            
+
             </div>
             </a>
         </div>
-        
-</div>
+
+        </div>
 
 <a class="button is-link" href="/examples">Everything Else</a>
       </div>
@@ -267,9 +267,9 @@ You can build solid geometry in the same way you write an application; your geom
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
+
       <span class="icon"><i class="mdi mdi-cloud-download"></i></span>
-      
+
       Install</h3>
       <h4 class="subtitle is-6">The bits that you need</h4>
       </div>
@@ -283,9 +283,9 @@ You can build solid geometry in the same way you write an application; your geom
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
+
       <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
-      
+
       Documentation</h3>
       <h4 class="subtitle is-6">How to use it</h4>
       </div>
@@ -301,9 +301,9 @@ You can build solid geometry in the same way you write an application; your geom
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
+
       <span class="icon"><i class="mdi mdi-github-box"></i></span>
-      
+
       Develop</h3>
       <h4 class="subtitle is-6">We need your help</h4>
       </div>
@@ -317,9 +317,9 @@ You can build solid geometry in the same way you write an application; your geom
     <!-- Title -->
     <div class="section-heading">
       <h3 class="title is-2">
-      
+
       <span class="icon"><i class="mdi mdi-cloud-print-outline"></i></span>
-      
+
       Webapi</h3>
       <h4 class="subtitle is-6">rest interface and html pages</h4>
       </div>
@@ -333,7 +333,7 @@ You can build solid geometry in the same way you write an application; your geom
   <footer class="footer">
     <div class="section-heading">
       <p>
-        <strong>CQparts</strong> <a target="_blank" href="https://github.com/cqparts/cqparts">Github</a>
+        <span class="cq-logo">cq</span><span class="cq-logo-plugin cqparts">parts</span> on <a target="_blank" href="https://github.com/cqparts/cqparts">Github</a>
       </p>
     </div>
   </footer>

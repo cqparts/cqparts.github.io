@@ -17,6 +17,7 @@
                 
                 </div>
 		<div id="info" class="box panel" style="position: absolute">
+                    <progress id="progress" class="progress is-small is-success " value="0" max="100"></progress>
 			<button id="hide" class="button" onclick="showHide()">Hide</button>
 			<h1 class="title is-4">Turbine</h1>
 			
@@ -55,11 +56,11 @@
 				</tr>
 				
 				<tr>
-					<td>pitch </td><td> 15.0</td>
+					<td>pitch </td><td> 45.0</td>
 				</tr>
 				
 				<tr>
-					<td>blades </td><td> 28.0</td>
+					<td>blades </td><td> 6</td>
 				</tr>
 				
 			</table>
@@ -80,8 +81,8 @@
 		<script src="/static/js/app.js"></script>
 		<script>
 			load('/model/Turbine/out.gltf');
-                        camera.position.set(0.0255413,0.0583011,0.0408202);
-                        controls.target.set(3.12506e-08,0.01,0.00999997);
+                        camera.position.set(0.025542,0.0583011,0.0406979);
+                        controls.target.set(7.05537e-07,0.01,0.0098777);
 		</script>
 	</body>
 </html>

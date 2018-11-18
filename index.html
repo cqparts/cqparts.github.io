@@ -40,13 +40,6 @@
           <span>About </span>
         </a>
         
-        <a class="navbar-item" href="#documentation">
-          
-          <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
-          
-          <span>Documentation </span>
-        </a>
-        
         <a class="navbar-item" href="#examples">
           
           <span class="icon"><i class="mdi mdi-file-document"></i></span>
@@ -54,18 +47,25 @@
           <span>Examples </span>
         </a>
         
-        <a class="navbar-item" href="#develop">
-          
-          <span class="icon"><i class="mdi mdi-github-box"></i></span>
-          
-          <span>Develop </span>
-        </a>
-        
         <a class="navbar-item" href="#install">
           
           <span class="icon"><i class="mdi mdi-cloud-download"></i></span>
           
           <span>Install </span>
+        </a>
+        
+        <a class="navbar-item" href="#documentation">
+          
+          <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
+          
+          <span>Documentation </span>
+        </a>
+        
+        <a class="navbar-item" href="#develop">
+          
+          <span class="icon"><i class="mdi mdi-github-box"></i></span>
+          
+          <span>Develop </span>
         </a>
         
         <a class="navbar-item" href="#webapi">
@@ -100,29 +100,19 @@
       <span class="icon"><i class="mdi mdi-information-outline"></i></span>
       
       About</h3>
-      <h4 class="subtitle is-6">Build tangible objects with python</h4>
-      <div class="container">
-            <h1> about section </h1>
+      <h4 class="subtitle is-6">What is it?</h4>
       </div>
-    </div>
-  </section>
-
-  <!-- documentation-->
-  <section class="section " id="documentation">
-    <!-- Title -->
-    <div class="section-heading">
-      <h3 class="title is-2">
-      
-      <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
-      
-      Documentation</h3>
-      <h4 class="subtitle is-6">How to use it</h4>
       <div class="container">
-            <a target="_blank" href="https://cqparts.github.io/cqparts/">CQParts Documentation</a>
-<br>
-<a target="_blank" href="http://dcowden.github.io/cadquery/">CadQuery Documentation</a>
+            <h3 class="subtitle"> What is cqparts ? </h3>
+<div class="section">
+Cqparts is CAD for Python programmers, short for <a target="_blank" href="https://github.com/cadquery/cadquery">cadquery</a> parts.
+<p> Using cqparts you can wrap geometry made with cadquery to build complex and deeply parametric models.
+</div>
+<h3 class="subtitle"> What can it do? </h3>
+<div class="section">
+You can build solid geometry in the same way you write an application; your geometry can be *built* on a headless system, automated, and revision controlled to your hearts content. You can export your models ready to be processed for 3d printing, or milling, or to be displayed / imported to another 3d app.
+</div>
       </div>
-    </div>
   </section>
 
   <!-- examples-->
@@ -135,8 +125,11 @@
       
       Examples</h3>
       <h4 class="subtitle is-6">Showcase examples of what CQParts can do</h4>
+      </div>
       <div class="container">
-            
+            All of these models are python programs, with inheritance , instancing and parameters.<p> Click on the links to view a 3d rendering. From the model the source code is linked for each design.
+<hr>
+
 <div class="columns ">
         
         <div class="column is-one-quarter">
@@ -267,23 +260,6 @@
 
 <a class="button is-link" href="/examples">Everything Else</a>
       </div>
-    </div>
-  </section>
-
-  <!-- develop-->
-  <section class="section " id="develop">
-    <!-- Title -->
-    <div class="section-heading">
-      <h3 class="title is-2">
-      
-      <span class="icon"><i class="mdi mdi-github-box"></i></span>
-      
-      Develop</h3>
-      <h4 class="subtitle is-6">We need your help</h4>
-      <div class="container">
-            dev instructions here
-      </div>
-    </div>
   </section>
 
   <!-- install-->
@@ -296,10 +272,44 @@
       
       Install</h3>
       <h4 class="subtitle is-6">The bits that you need</h4>
+      </div>
       <div class="container">
             <h1> put the description here </h1>
       </div>
-    </div>
+  </section>
+
+  <!-- documentation-->
+  <section class="section " id="documentation">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-file-document-box"></i></span>
+      
+      Documentation</h3>
+      <h4 class="subtitle is-6">How to use it</h4>
+      </div>
+      <div class="container">
+            <a target="_blank" href="https://cqparts.github.io/cqparts/">CQParts Documentation</a>
+<br>
+<a target="_blank" href="http://dcowden.github.io/cadquery/">CadQuery Documentation</a>
+      </div>
+  </section>
+
+  <!-- develop-->
+  <section class="section " id="develop">
+    <!-- Title -->
+    <div class="section-heading">
+      <h3 class="title is-2">
+      
+      <span class="icon"><i class="mdi mdi-github-box"></i></span>
+      
+      Develop</h3>
+      <h4 class="subtitle is-6">We need your help</h4>
+      </div>
+      <div class="container">
+            dev instructions here
+      </div>
   </section>
 
   <!-- webapi-->
@@ -312,10 +322,10 @@
       
       Webapi</h3>
       <h4 class="subtitle is-6">rest interface and html pages</h4>
+      </div>
       <div class="container">
             The cool thing about the cqparts_webapi is that it built this website.
       </div>
-    </div>
   </section>
 
 <hr>

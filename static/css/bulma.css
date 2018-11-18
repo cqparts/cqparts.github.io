@@ -404,6 +404,7 @@ pre {
   /* padding: 1.25rem 1.5rem; */
   white-space: pre;
   word-wrap: normal;
+  margin-left: 1.5rem;
 }
 
 pre code {

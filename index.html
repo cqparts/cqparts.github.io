@@ -128,27 +128,27 @@
 
       <h3 class="subtitle is-3">A Cube</h3>
       <div class="section">
-        <p>The "Hello World" of 3D geometry is the cube.</p>
+        <p>The "Hello World" of 3D geometry:</p>
         <pre><code class="python">
-  import cadquery
-  import cqparts
-  from cqparts.params import PositiveFloat
+import cadquery
+import cqparts
+from cqparts.params import PositiveFloat
 
-  class Cube(cqparts.Part):
-      size = PositiveFloat(1, doc="length along one side")
+class Cube(cqparts.Part):
+    size = PositiveFloat(1, doc="length along one side")
 
-      def make(self):
-          return cadquery.Workplane('XY').box(
-              self.size, self.size, self.size,
-              centered=(True, True, False),
-          )
+    def make(self):
+        return cadquery.Workplane('XY').box(
+            self.size, self.size, self.size,
+            centered=(True, True, False),
+        )
 
-  # Create an instance
-  my_cube = Cube(size=10)  # changed size to 10
+# Create an instance
+my_cube = Cube(size=10)  # changed size to 10
 
-  # Dispaly it
-  from cqparts.display import display
-  display(my_cube)
+# Dispaly it
+from cqparts.display import display
+display(my_cube)
         </code></pre>
 
         <p>The cqparts <a href="#documentation">documentation</a> has a much more

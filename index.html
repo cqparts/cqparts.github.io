@@ -14,6 +14,11 @@
   <!-- <link href="https://unpkg.com/bulma-fluent@0.3.13/css/bulma.min.css" rel="stylesheet"> -->
   <script async type="text/javascript" src="/static/js/bulma.js"></script>
   <link rel="stylesheet" href="/static/css/logo.css" />
+
+  <!-- code syntax highlighting -->
+  <link rel="stylesheet" href="/static/css/highlight.js/idea.css" />
+  <script async type="text/javascript" src="/static/js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
 </head>
 
 <body>
@@ -108,8 +113,8 @@
           <p>Using cqparts you can wrap geometry made with cadquery to build complex and deeply parametric models.</p>
         </div>
 
-        <h3 class="subtitle is-3"> What can it do?</h3>
-          <div class="section">
+        <h3 class="subtitle is-3">What can it do?</h3>
+        <div class="section">
           <p>You can build solid geometry in the same way you write an application; your geometry can be <i>built</i> on a headless system, automated, and revision controlled to your hearts content.</p>
           <p>You can also export your models ready to be processed for 3D printing, milling, or to be displayed / imported to another application.</p>
         </div>
@@ -127,7 +132,41 @@
     </div>
 
     <div class="container">
-      All of these models are python programs, with inheritance , instancing and parameters.<p> Click on the links to view a 3d rendering. From the model the source code is linked for each design.
+
+      <h3 class="subtitle is-3">A Cube</h3>
+      <div class="section">
+        <p>The "Hello World" of 3D geometry is the cube.</p>
+        <pre><code class="python">
+  import cadquery
+  import cqparts
+  from cqparts.params import *
+
+  class Cube(cqparts.Part):
+      size = PositiveFloat(1, doc="length along one side")
+
+      def make(self):
+          return cadquery.Workplane('XY').box(
+              self.size, self.size, self.size,
+              centered=(True, True, False),
+          )
+
+  # Create an instance
+  my_cube = Cube(size=10)  # changed size to 10
+
+  # Dispaly it
+  from cqparts.display import display
+  display(my_cube)
+        </code></pre>
+
+        <p>The cqparts <a href="#documentation">documentation</a> has a much more
+        comprehensive set of simple examples to get you started.</p>
+      </div>
+
+      <h3 class="subtitle is-3">Parts Library</h3>
+      <div class="section">
+        <p>All the models below are python programs just like the cube above.</p>
+        <p>They have the full power of Python and any imported libraries to use when building the geometry.</p>
+        <p>Select any of the following examples for a 3D render of the object, and links to their source code.</p>
         <hr>
 
         <div class="columns ">
@@ -260,6 +299,7 @@
 
 <a class="button is-link" href="/examples">Everything Else</a>
       </div>
+  </div>
   </section>
 
   <!-- install-->

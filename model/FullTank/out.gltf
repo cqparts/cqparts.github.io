@@ -417,47 +417,47 @@
   "buffers": [
     {
       "byteLength": 119280, 
-      "uri": "out-wheel_001-rwheel.bin"
+      "uri": "out.wheel_001.rwheel.bin"
     }, 
     {
       "byteLength": 10104, 
-      "uri": "out-wheel_001-axle.bin"
+      "uri": "out.wheel_001.axle.bin"
     }, 
     {
       "byteLength": 119280, 
-      "uri": "out-wheel_001-lwheel.bin"
+      "uri": "out.wheel_001.lwheel.bin"
     }, 
     {
       "byteLength": 119280, 
-      "uri": "out-wheel_000-rwheel.bin"
+      "uri": "out.wheel_000.rwheel.bin"
     }, 
     {
       "byteLength": 10104, 
-      "uri": "out-wheel_000-axle.bin"
+      "uri": "out.wheel_000.axle.bin"
     }, 
     {
       "byteLength": 119280, 
-      "uri": "out-wheel_000-lwheel.bin"
+      "uri": "out.wheel_000.lwheel.bin"
     }, 
     {
       "byteLength": 3516, 
-      "uri": "out-front_coupling-magnet.bin"
+      "uri": "out.front_coupling.magnet.bin"
     }, 
     {
       "byteLength": 24840, 
-      "uri": "out-front_coupling-cover.bin"
+      "uri": "out.front_coupling.cover.bin"
     }, 
     {
       "byteLength": 3516, 
-      "uri": "out-back_coupling-magnet.bin"
+      "uri": "out.back_coupling.magnet.bin"
     }, 
     {
       "byteLength": 24840, 
-      "uri": "out-back_coupling-cover.bin"
+      "uri": "out.back_coupling.cover.bin"
     }, 
     {
       "byteLength": 18840, 
-      "uri": "out-pan.bin"
+      "uri": "out.pan.bin"
     }
   ], 
   "materials": [
@@ -618,7 +618,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-wheel_001-rwheel", 
+      "name": "out.wheel_001.rwheel", 
       "primitives": [
         {
           "attributes": {
@@ -631,7 +631,7 @@
       ]
     }, 
     {
-      "name": "out-wheel_001-axle", 
+      "name": "out.wheel_001.axle", 
       "primitives": [
         {
           "attributes": {
@@ -644,7 +644,7 @@
       ]
     }, 
     {
-      "name": "out-wheel_001-lwheel", 
+      "name": "out.wheel_001.lwheel", 
       "primitives": [
         {
           "attributes": {
@@ -657,7 +657,7 @@
       ]
     }, 
     {
-      "name": "out-wheel_000-rwheel", 
+      "name": "out.wheel_000.rwheel", 
       "primitives": [
         {
           "attributes": {
@@ -670,7 +670,7 @@
       ]
     }, 
     {
-      "name": "out-wheel_000-axle", 
+      "name": "out.wheel_000.axle", 
       "primitives": [
         {
           "attributes": {
@@ -683,7 +683,7 @@
       ]
     }, 
     {
-      "name": "out-wheel_000-lwheel", 
+      "name": "out.wheel_000.lwheel", 
       "primitives": [
         {
           "attributes": {
@@ -696,7 +696,7 @@
       ]
     }, 
     {
-      "name": "out-front_coupling-magnet", 
+      "name": "out.front_coupling.magnet", 
       "primitives": [
         {
           "attributes": {
@@ -709,7 +709,7 @@
       ]
     }, 
     {
-      "name": "out-front_coupling-cover", 
+      "name": "out.front_coupling.cover", 
       "primitives": [
         {
           "attributes": {
@@ -722,7 +722,7 @@
       ]
     }, 
     {
-      "name": "out-back_coupling-magnet", 
+      "name": "out.back_coupling.magnet", 
       "primitives": [
         {
           "attributes": {
@@ -735,7 +735,7 @@
       ]
     }, 
     {
-      "name": "out-back_coupling-cover", 
+      "name": "out.back_coupling.cover", 
       "primitives": [
         {
           "attributes": {
@@ -748,7 +748,7 @@
       ]
     }, 
     {
-      "name": "out-pan", 
+      "name": "out.pan", 
       "primitives": [
         {
           "attributes": {
@@ -837,7 +837,7 @@
         6.8, 
         1.0
       ], 
-      "name": "out-wheel_001"
+      "name": "out.wheel_001"
     }, 
     {
       "matrix": [
@@ -859,7 +859,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-wheel_001-rwheel"
+      "name": "out.wheel_001.rwheel"
     }, 
     {
       "matrix": [
@@ -881,7 +881,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-wheel_001-axle"
+      "name": "out.wheel_001.axle"
     }, 
     {
       "matrix": [
@@ -903,7 +903,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-wheel_001-lwheel"
+      "name": "out.wheel_001.lwheel"
     }, 
     {
       "children": [
@@ -929,7 +929,7 @@
         6.8, 
         1.0
       ], 
-      "name": "out-wheel_000"
+      "name": "out.wheel_000"
     }, 
     {
       "matrix": [
@@ -951,7 +951,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-wheel_000-rwheel"
+      "name": "out.wheel_000.rwheel"
     }, 
     {
       "matrix": [
@@ -973,7 +973,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-wheel_000-axle"
+      "name": "out.wheel_000.axle"
     }, 
     {
       "matrix": [
@@ -995,7 +995,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-wheel_000-lwheel"
+      "name": "out.wheel_000.lwheel"
     }, 
     {
       "children": [
@@ -1020,7 +1020,7 @@
         9.0, 
         1.0
       ], 
-      "name": "out-front_coupling"
+      "name": "out.front_coupling"
     }, 
     {
       "matrix": [
@@ -1042,7 +1042,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-front_coupling-magnet"
+      "name": "out.front_coupling.magnet"
     }, 
     {
       "matrix": [
@@ -1064,7 +1064,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-front_coupling-cover"
+      "name": "out.front_coupling.cover"
     }, 
     {
       "children": [
@@ -1089,7 +1089,7 @@
         9.0, 
         1.0
       ], 
-      "name": "out-back_coupling"
+      "name": "out.back_coupling"
     }, 
     {
       "matrix": [
@@ -1111,7 +1111,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-back_coupling-magnet"
+      "name": "out.back_coupling.magnet"
     }, 
     {
       "matrix": [
@@ -1133,7 +1133,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out-back_coupling-cover"
+      "name": "out.back_coupling.cover"
     }, 
     {
       "matrix": [
@@ -1155,7 +1155,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out-pan"
+      "name": "out.pan"
     }
   ], 
   "scene": 0, 

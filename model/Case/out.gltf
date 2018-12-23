@@ -7,12 +7,12 @@
       "count": 3296, 
       "max": [
         25.1, 
-        25.1, 
+        50.10000000000001, 
         4.3000000000000025
       ], 
       "min": [
         -25.1, 
-        -25.1, 
+        -50.10000000000001, 
         -0.1
       ], 
       "type": "VEC3"
@@ -127,12 +127,12 @@
       "count": 3296, 
       "max": [
         25.1, 
-        25.1, 
+        50.10000000000001, 
         4.3
       ], 
       "min": [
         -25.1, 
-        -25.1, 
+        -50.10000000000001, 
         -0.1
       ], 
       "type": "VEC3"
@@ -247,12 +247,12 @@
       "count": 3440, 
       "max": [
         25.1, 
-        25.1, 
-        50.100000000000016
+        50.1, 
+        50.10000000000002
       ], 
       "min": [
         -25.1, 
-        -25.1, 
+        -50.1, 
         -0.1
       ], 
       "type": "VEC3"
@@ -417,47 +417,47 @@
   "buffers": [
     {
       "byteLength": 79176, 
-      "uri": "out-upper-case.bin"
+      "uri": "out.upper.case.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-upper-screw_000-screw.bin"
+      "uri": "out.upper.screw_000.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-upper-screw_002-screw.bin"
+      "uri": "out.upper.screw_002.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-upper-screw_003-screw.bin"
+      "uri": "out.upper.screw_003.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-upper-screw_001-screw.bin"
+      "uri": "out.upper.screw_001.screw.bin"
     }, 
     {
       "byteLength": 79176, 
-      "uri": "out-lower-case.bin"
+      "uri": "out.lower.case.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-lower-screw_000-screw.bin"
+      "uri": "out.lower.screw_000.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-lower-screw_002-screw.bin"
+      "uri": "out.lower.screw_002.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-lower-screw_003-screw.bin"
+      "uri": "out.lower.screw_003.screw.bin"
     }, 
     {
       "byteLength": 34776, 
-      "uri": "out-lower-screw_001-screw.bin"
+      "uri": "out.lower.screw_001.screw.bin"
     }, 
     {
       "byteLength": 82560, 
-      "uri": "out-middle.bin"
+      "uri": "out.middle.bin"
     }
   ], 
   "materials": [
@@ -618,7 +618,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-upper-case", 
+      "name": "out.upper.case", 
       "primitives": [
         {
           "attributes": {
@@ -631,7 +631,7 @@
       ]
     }, 
     {
-      "name": "out-upper-screw_000-screw", 
+      "name": "out.upper.screw_000.screw", 
       "primitives": [
         {
           "attributes": {
@@ -644,7 +644,7 @@
       ]
     }, 
     {
-      "name": "out-upper-screw_002-screw", 
+      "name": "out.upper.screw_002.screw", 
       "primitives": [
         {
           "attributes": {
@@ -657,7 +657,7 @@
       ]
     }, 
     {
-      "name": "out-upper-screw_003-screw", 
+      "name": "out.upper.screw_003.screw", 
       "primitives": [
         {
           "attributes": {
@@ -670,7 +670,7 @@
       ]
     }, 
     {
-      "name": "out-upper-screw_001-screw", 
+      "name": "out.upper.screw_001.screw", 
       "primitives": [
         {
           "attributes": {
@@ -683,7 +683,7 @@
       ]
     }, 
     {
-      "name": "out-lower-case", 
+      "name": "out.lower.case", 
       "primitives": [
         {
           "attributes": {
@@ -696,7 +696,7 @@
       ]
     }, 
     {
-      "name": "out-lower-screw_000-screw", 
+      "name": "out.lower.screw_000.screw", 
       "primitives": [
         {
           "attributes": {
@@ -709,7 +709,7 @@
       ]
     }, 
     {
-      "name": "out-lower-screw_002-screw", 
+      "name": "out.lower.screw_002.screw", 
       "primitives": [
         {
           "attributes": {
@@ -722,7 +722,7 @@
       ]
     }, 
     {
-      "name": "out-lower-screw_003-screw", 
+      "name": "out.lower.screw_003.screw", 
       "primitives": [
         {
           "attributes": {
@@ -735,7 +735,7 @@
       ]
     }, 
     {
-      "name": "out-lower-screw_001-screw", 
+      "name": "out.lower.screw_001.screw", 
       "primitives": [
         {
           "attributes": {
@@ -748,7 +748,7 @@
       ]
     }, 
     {
-      "name": "out-middle", 
+      "name": "out.middle", 
       "primitives": [
         {
           "attributes": {
@@ -837,7 +837,7 @@
         50.0, 
         1.0
       ], 
-      "name": "out-upper"
+      "name": "out.upper"
     }, 
     {
       "matrix": [
@@ -859,7 +859,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-upper-case"
+      "name": "out.upper.case"
     }, 
     {
       "children": [
@@ -879,24 +879,24 @@
         1.0, 
         0.0, 
         19.35, 
-        19.35, 
+        -44.35, 
         4.200000000000003, 
         1.0
       ], 
-      "name": "out-upper-screw_000"
+      "name": "out.upper.screw_000"
     }, 
     {
       "matrix": [
         1.0, 
-        -3.0814879110195774e-33, 
+        6.162975822039155e-33, 
         -5.551115123125783e-17, 
         0.0, 
         0.0, 
         1.0, 
-        -5.551115123125783e-17, 
+        1.1102230246251565e-16, 
         0.0, 
         5.551115123125783e-17, 
-        5.551115123125783e-17, 
+        -1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -905,7 +905,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-upper-screw_000-screw"
+      "name": "out.upper.screw_000.screw"
     }, 
     {
       "children": [
@@ -925,24 +925,24 @@
         1.0, 
         0.0, 
         19.35, 
-        -19.35, 
+        44.35, 
         4.200000000000003, 
         1.0
       ], 
-      "name": "out-upper-screw_002"
+      "name": "out.upper.screw_002"
     }, 
     {
       "matrix": [
         1.0, 
-        3.0814879110195774e-33, 
+        -6.162975822039155e-33, 
         -5.551115123125783e-17, 
         0.0, 
         0.0, 
         1.0, 
-        5.551115123125783e-17, 
+        -1.1102230246251565e-16, 
         0.0, 
         5.551115123125783e-17, 
-        -5.551115123125783e-17, 
+        1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -951,7 +951,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-upper-screw_002-screw"
+      "name": "out.upper.screw_002.screw"
     }, 
     {
       "children": [
@@ -971,24 +971,24 @@
         1.0, 
         0.0, 
         -19.35, 
-        -19.35, 
+        44.35, 
         4.200000000000003, 
         1.0
       ], 
-      "name": "out-upper-screw_003"
+      "name": "out.upper.screw_003"
     }, 
     {
       "matrix": [
         1.0, 
-        -3.0814879110195774e-33, 
+        6.162975822039155e-33, 
         5.551115123125783e-17, 
         0.0, 
         0.0, 
         1.0, 
-        5.551115123125783e-17, 
+        -1.1102230246251565e-16, 
         0.0, 
         -5.551115123125783e-17, 
-        -5.551115123125783e-17, 
+        1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -997,7 +997,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-upper-screw_003-screw"
+      "name": "out.upper.screw_003.screw"
     }, 
     {
       "children": [
@@ -1017,24 +1017,24 @@
         1.0, 
         0.0, 
         -19.35, 
-        19.35, 
+        -44.35, 
         4.200000000000003, 
         1.0
       ], 
-      "name": "out-upper-screw_001"
+      "name": "out.upper.screw_001"
     }, 
     {
       "matrix": [
         1.0, 
-        3.0814879110195774e-33, 
+        -6.162975822039155e-33, 
         5.551115123125783e-17, 
         0.0, 
         0.0, 
         1.0, 
-        -5.551115123125783e-17, 
+        1.1102230246251565e-16, 
         0.0, 
         -5.551115123125783e-17, 
-        5.551115123125783e-17, 
+        -1.1102230246251565e-16, 
         1.0, 
         0.0, 
         0.0, 
@@ -1043,7 +1043,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-upper-screw_001-screw"
+      "name": "out.upper.screw_001.screw"
     }, 
     {
       "children": [
@@ -1071,7 +1071,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-lower"
+      "name": "out.lower"
     }, 
     {
       "matrix": [
@@ -1093,7 +1093,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-lower-case"
+      "name": "out.lower.case"
     }, 
     {
       "children": [
@@ -1113,11 +1113,11 @@
         1.0, 
         0.0, 
         19.35, 
-        19.35, 
+        -44.35, 
         4.2, 
         1.0
       ], 
-      "name": "out-lower-screw_000"
+      "name": "out.lower.screw_000"
     }, 
     {
       "matrix": [
@@ -1139,7 +1139,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-lower-screw_000-screw"
+      "name": "out.lower.screw_000.screw"
     }, 
     {
       "children": [
@@ -1158,12 +1158,12 @@
         0.0, 
         1.0, 
         0.0, 
-        19.35, 
         -19.35, 
+        -44.35, 
         4.2, 
         1.0
       ], 
-      "name": "out-lower-screw_002"
+      "name": "out.lower.screw_002"
     }, 
     {
       "matrix": [
@@ -1185,7 +1185,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-lower-screw_002-screw"
+      "name": "out.lower.screw_002.screw"
     }, 
     {
       "children": [
@@ -1204,12 +1204,12 @@
         0.0, 
         1.0, 
         0.0, 
-        -19.35, 
-        -19.35, 
+        19.35, 
+        44.35, 
         4.2, 
         1.0
       ], 
-      "name": "out-lower-screw_003"
+      "name": "out.lower.screw_003"
     }, 
     {
       "matrix": [
@@ -1231,7 +1231,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-lower-screw_003-screw"
+      "name": "out.lower.screw_003.screw"
     }, 
     {
       "children": [
@@ -1251,11 +1251,11 @@
         1.0, 
         0.0, 
         -19.35, 
-        19.35, 
+        44.35, 
         4.2, 
         1.0
       ], 
-      "name": "out-lower-screw_001"
+      "name": "out.lower.screw_001"
     }, 
     {
       "matrix": [
@@ -1277,7 +1277,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out-lower-screw_001-screw"
+      "name": "out.lower.screw_001.screw"
     }, 
     {
       "matrix": [
@@ -1299,7 +1299,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out-middle"
+      "name": "out.middle"
     }
   ], 
   "scene": 0, 

@@ -343,39 +343,39 @@
   "buffers": [
     {
       "byteLength": 132, 
-      "uri": "out-pitch.bin"
+      "uri": "out.pitch.bin"
     }, 
     {
       "byteLength": 19272, 
-      "uri": "out-yaw.bin"
+      "uri": "out.yaw.bin"
     }, 
     {
       "byteLength": 44424, 
-      "uri": "out-base.bin"
+      "uri": "out.base.bin"
     }, 
     {
       "byteLength": 6552, 
-      "uri": "out-yaw_servo-shaft.bin"
+      "uri": "out.yaw_servo.shaft.bin"
     }, 
     {
       "byteLength": 13344, 
-      "uri": "out-yaw_servo-servobody.bin"
+      "uri": "out.yaw_servo.servobody.bin"
     }, 
     {
       "byteLength": 50160, 
-      "uri": "out-yaw_servo-horn.bin"
+      "uri": "out.yaw_servo.horn.bin"
     }, 
     {
       "byteLength": 6552, 
-      "uri": "out-pitch_servo-shaft.bin"
+      "uri": "out.pitch_servo.shaft.bin"
     }, 
     {
       "byteLength": 13344, 
-      "uri": "out-pitch_servo-servobody.bin"
+      "uri": "out.pitch_servo.servobody.bin"
     }, 
     {
       "byteLength": 50160, 
-      "uri": "out-pitch_servo-horn.bin"
+      "uri": "out.pitch_servo.horn.bin"
     }
   ], 
   "materials": [
@@ -508,7 +508,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-pitch", 
+      "name": "out.pitch", 
       "primitives": [
         {
           "attributes": {
@@ -521,7 +521,7 @@
       ]
     }, 
     {
-      "name": "out-yaw", 
+      "name": "out.yaw", 
       "primitives": [
         {
           "attributes": {
@@ -534,7 +534,7 @@
       ]
     }, 
     {
-      "name": "out-base", 
+      "name": "out.base", 
       "primitives": [
         {
           "attributes": {
@@ -547,7 +547,7 @@
       ]
     }, 
     {
-      "name": "out-yaw_servo-shaft", 
+      "name": "out.yaw_servo.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -560,7 +560,7 @@
       ]
     }, 
     {
-      "name": "out-yaw_servo-servobody", 
+      "name": "out.yaw_servo.servobody", 
       "primitives": [
         {
           "attributes": {
@@ -573,7 +573,7 @@
       ]
     }, 
     {
-      "name": "out-yaw_servo-horn", 
+      "name": "out.yaw_servo.horn", 
       "primitives": [
         {
           "attributes": {
@@ -586,7 +586,7 @@
       ]
     }, 
     {
-      "name": "out-pitch_servo-shaft", 
+      "name": "out.pitch_servo.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -599,7 +599,7 @@
       ]
     }, 
     {
-      "name": "out-pitch_servo-servobody", 
+      "name": "out.pitch_servo.servobody", 
       "primitives": [
         {
           "attributes": {
@@ -612,7 +612,7 @@
       ]
     }, 
     {
-      "name": "out-pitch_servo-horn", 
+      "name": "out.pitch_servo.horn", 
       "primitives": [
         {
           "attributes": {
@@ -697,7 +697,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-pitch"
+      "name": "out.pitch"
     }, 
     {
       "matrix": [
@@ -719,7 +719,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-yaw"
+      "name": "out.yaw"
     }, 
     {
       "matrix": [
@@ -741,7 +741,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-base"
+      "name": "out.base"
     }, 
     {
       "children": [
@@ -767,7 +767,7 @@
         5.0, 
         1.0
       ], 
-      "name": "out-yaw_servo"
+      "name": "out.yaw_servo"
     }, 
     {
       "matrix": [
@@ -789,7 +789,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-yaw_servo-shaft"
+      "name": "out.yaw_servo.shaft"
     }, 
     {
       "matrix": [
@@ -811,7 +811,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-yaw_servo-servobody"
+      "name": "out.yaw_servo.servobody"
     }, 
     {
       "matrix": [
@@ -833,7 +833,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-yaw_servo-horn"
+      "name": "out.yaw_servo.horn"
     }, 
     {
       "children": [
@@ -859,7 +859,7 @@
         48.552, 
         1.0
       ], 
-      "name": "out-pitch_servo"
+      "name": "out.pitch_servo"
     }, 
     {
       "matrix": [
@@ -881,7 +881,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-pitch_servo-shaft"
+      "name": "out.pitch_servo.shaft"
     }, 
     {
       "matrix": [
@@ -903,7 +903,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-pitch_servo-servobody"
+      "name": "out.pitch_servo.servobody"
     }, 
     {
       "matrix": [
@@ -925,7 +925,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-pitch_servo-horn"
+      "name": "out.pitch_servo.horn"
     }
   ], 
   "scene": 0, 

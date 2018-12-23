@@ -52,7 +52,7 @@
       "bufferView": 4, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 3793, 
+      "count": 3794, 
       "max": [
         32.25, 
         36.1, 
@@ -69,7 +69,7 @@
       "bufferView": 5, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 22806, 
+      "count": 22812, 
       "type": "SCALAR"
     }, 
     {
@@ -250,15 +250,15 @@
     }, 
     {
       "buffer": 2, 
-      "byteLength": 45516, 
+      "byteLength": 45528, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 2, 
-      "byteLength": 45612, 
-      "byteOffset": 45516, 
+      "byteLength": 45624, 
+      "byteOffset": 45528, 
       "target": 34963
     }, 
     {
@@ -343,39 +343,39 @@
   "buffers": [
     {
       "byteLength": 25368, 
-      "uri": "out-screw_000.bin"
+      "uri": "out.screw_000.bin"
     }, 
     {
       "byteLength": 25368, 
-      "uri": "out-screw_001.bin"
+      "uri": "out.screw_001.bin"
     }, 
     {
-      "byteLength": 91128, 
-      "uri": "out-mount.bin"
+      "byteLength": 91152, 
+      "uri": "out.mount.bin"
     }, 
     {
       "byteLength": 25368, 
-      "uri": "out-screw_003.bin"
+      "uri": "out.screw_003.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out-stepper-shaft.bin"
+      "uri": "out.stepper.shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out-stepper-stator.bin"
+      "uri": "out.stepper.stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out-stepper-topcap.bin"
+      "uri": "out.stepper.topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out-stepper-botcap.bin"
+      "uri": "out.stepper.botcap.bin"
     }, 
     {
       "byteLength": 25368, 
-      "uri": "out-screw_002.bin"
+      "uri": "out.screw_002.bin"
     }
   ], 
   "materials": [
@@ -508,7 +508,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-screw_000", 
+      "name": "out.screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -521,7 +521,7 @@
       ]
     }, 
     {
-      "name": "out-screw_001", 
+      "name": "out.screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -534,7 +534,7 @@
       ]
     }, 
     {
-      "name": "out-mount", 
+      "name": "out.mount", 
       "primitives": [
         {
           "attributes": {
@@ -547,7 +547,7 @@
       ]
     }, 
     {
-      "name": "out-screw_003", 
+      "name": "out.screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -560,7 +560,7 @@
       ]
     }, 
     {
-      "name": "out-stepper-shaft", 
+      "name": "out.stepper.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -573,7 +573,7 @@
       ]
     }, 
     {
-      "name": "out-stepper-stator", 
+      "name": "out.stepper.stator", 
       "primitives": [
         {
           "attributes": {
@@ -586,7 +586,7 @@
       ]
     }, 
     {
-      "name": "out-stepper-topcap", 
+      "name": "out.stepper.topcap", 
       "primitives": [
         {
           "attributes": {
@@ -599,7 +599,7 @@
       ]
     }, 
     {
-      "name": "out-stepper-botcap", 
+      "name": "out.stepper.botcap", 
       "primitives": [
         {
           "attributes": {
@@ -612,7 +612,7 @@
       ]
     }, 
     {
-      "name": "out-screw_002", 
+      "name": "out.screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -692,13 +692,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        -15.5, 
+        15.5, 
         -25.0, 
         47.65, 
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-screw_000"
+      "name": "out.screw_000"
     }, 
     {
       "matrix": [
@@ -714,13 +714,13 @@
         -1.0, 
         0.0, 
         0.0, 
-        15.5, 
+        -15.5, 
         -25.0, 
         47.65, 
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-screw_001"
+      "name": "out.screw_001"
     }, 
     {
       "matrix": [
@@ -742,7 +742,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-mount"
+      "name": "out.mount"
     }, 
     {
       "matrix": [
@@ -764,7 +764,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-screw_003"
+      "name": "out.screw_003"
     }, 
     {
       "children": [
@@ -791,7 +791,7 @@
         32.15, 
         1.0
       ], 
-      "name": "out-stepper"
+      "name": "out.stepper"
     }, 
     {
       "matrix": [
@@ -813,7 +813,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-stepper-shaft"
+      "name": "out.stepper.shaft"
     }, 
     {
       "matrix": [
@@ -835,7 +835,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-stepper-stator"
+      "name": "out.stepper.stator"
     }, 
     {
       "matrix": [
@@ -857,7 +857,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-stepper-topcap"
+      "name": "out.stepper.topcap"
     }, 
     {
       "matrix": [
@@ -879,7 +879,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-stepper-botcap"
+      "name": "out.stepper.botcap"
     }, 
     {
       "matrix": [
@@ -901,7 +901,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-screw_002"
+      "name": "out.screw_002"
     }
   ], 
   "scene": 0, 

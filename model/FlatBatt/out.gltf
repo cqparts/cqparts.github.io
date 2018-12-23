@@ -195,23 +195,23 @@
   "buffers": [
     {
       "byteLength": 14088, 
-      "uri": "out-m-battery_004.bin"
+      "uri": "out.m.battery_004.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out-m-battery_001.bin"
+      "uri": "out.m.battery_001.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out-m-battery_000.bin"
+      "uri": "out.m.battery_000.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out-m-battery_003.bin"
+      "uri": "out.m.battery_003.bin"
     }, 
     {
       "byteLength": 14088, 
-      "uri": "out-m-battery_002.bin"
+      "uri": "out.m.battery_002.bin"
     }
   ], 
   "materials": [
@@ -288,7 +288,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-m-battery_004", 
+      "name": "out.m.battery_004", 
       "primitives": [
         {
           "attributes": {
@@ -301,7 +301,7 @@
       ]
     }, 
     {
-      "name": "out-m-battery_001", 
+      "name": "out.m.battery_001", 
       "primitives": [
         {
           "attributes": {
@@ -314,7 +314,7 @@
       ]
     }, 
     {
-      "name": "out-m-battery_000", 
+      "name": "out.m.battery_000", 
       "primitives": [
         {
           "attributes": {
@@ -327,7 +327,7 @@
       ]
     }, 
     {
-      "name": "out-m-battery_003", 
+      "name": "out.m.battery_003", 
       "primitives": [
         {
           "attributes": {
@@ -340,7 +340,7 @@
       ]
     }, 
     {
-      "name": "out-m-battery_002", 
+      "name": "out.m.battery_002", 
       "primitives": [
         {
           "attributes": {
@@ -427,7 +427,7 @@
         9.3, 
         1.0
       ], 
-      "name": "out-m"
+      "name": "out.m"
     }, 
     {
       "matrix": [
@@ -449,7 +449,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-m-battery_004"
+      "name": "out.m.battery_004"
     }, 
     {
       "matrix": [
@@ -471,7 +471,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-m-battery_001"
+      "name": "out.m.battery_001"
     }, 
     {
       "matrix": [
@@ -493,7 +493,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-m-battery_000"
+      "name": "out.m.battery_000"
     }, 
     {
       "matrix": [
@@ -515,7 +515,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-m-battery_003"
+      "name": "out.m.battery_003"
     }, 
     {
       "matrix": [
@@ -537,7 +537,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-m-battery_002"
+      "name": "out.m.battery_002"
     }
   ], 
   "scene": 0, 

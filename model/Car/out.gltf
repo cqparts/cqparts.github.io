@@ -85,7 +85,7 @@
       "min": [
         -60.1, 
         -30.1, 
-        -0.1000000000000276
+        -0.10000000000002743
       ], 
       "type": "VEC3"
     }, 
@@ -269,31 +269,31 @@
   "buffers": [
     {
       "byteLength": 33024, 
-      "uri": "out-front_axle-left_wheel.bin"
+      "uri": "out.front_axle.left_wheel.bin"
     }, 
     {
       "byteLength": 13992, 
-      "uri": "out-front_axle-axle.bin"
+      "uri": "out.front_axle.axle.bin"
     }, 
     {
       "byteLength": 33024, 
-      "uri": "out-front_axle-right_wheel.bin"
+      "uri": "out.front_axle.right_wheel.bin"
     }, 
     {
       "byteLength": 77064, 
-      "uri": "out-chassis.bin"
+      "uri": "out.chassis.bin"
     }, 
     {
       "byteLength": 33024, 
-      "uri": "out-rear_axle-left_wheel.bin"
+      "uri": "out.rear_axle.left_wheel.bin"
     }, 
     {
       "byteLength": 13992, 
-      "uri": "out-rear_axle-axle.bin"
+      "uri": "out.rear_axle.axle.bin"
     }, 
     {
       "byteLength": 33024, 
-      "uri": "out-rear_axle-right_wheel.bin"
+      "uri": "out.rear_axle.right_wheel.bin"
     }
   ], 
   "materials": [
@@ -398,7 +398,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-front_axle-left_wheel", 
+      "name": "out.front_axle.left_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -411,7 +411,7 @@
       ]
     }, 
     {
-      "name": "out-front_axle-axle", 
+      "name": "out.front_axle.axle", 
       "primitives": [
         {
           "attributes": {
@@ -424,7 +424,7 @@
       ]
     }, 
     {
-      "name": "out-front_axle-right_wheel", 
+      "name": "out.front_axle.right_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -437,7 +437,7 @@
       ]
     }, 
     {
-      "name": "out-chassis", 
+      "name": "out.chassis", 
       "primitives": [
         {
           "attributes": {
@@ -450,7 +450,7 @@
       ]
     }, 
     {
-      "name": "out-rear_axle-left_wheel", 
+      "name": "out.rear_axle.left_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -463,7 +463,7 @@
       ]
     }, 
     {
-      "name": "out-rear_axle-axle", 
+      "name": "out.rear_axle.axle", 
       "primitives": [
         {
           "attributes": {
@@ -476,7 +476,7 @@
       ]
     }, 
     {
-      "name": "out-rear_axle-right_wheel", 
+      "name": "out.rear_axle.right_wheel", 
       "primitives": [
         {
           "attributes": {
@@ -563,7 +563,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-front_axle"
+      "name": "out.front_axle"
     }, 
     {
       "matrix": [
@@ -585,7 +585,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-front_axle-left_wheel"
+      "name": "out.front_axle.left_wheel"
     }, 
     {
       "matrix": [
@@ -607,7 +607,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-front_axle-axle"
+      "name": "out.front_axle.axle"
     }, 
     {
       "matrix": [
@@ -629,7 +629,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-front_axle-right_wheel"
+      "name": "out.front_axle.right_wheel"
     }, 
     {
       "matrix": [
@@ -651,7 +651,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-chassis"
+      "name": "out.chassis"
     }, 
     {
       "children": [
@@ -677,7 +677,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-rear_axle"
+      "name": "out.rear_axle"
     }, 
     {
       "matrix": [
@@ -699,7 +699,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-rear_axle-left_wheel"
+      "name": "out.rear_axle.left_wheel"
     }, 
     {
       "matrix": [
@@ -721,7 +721,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-rear_axle-axle"
+      "name": "out.rear_axle.axle"
     }, 
     {
       "matrix": [
@@ -743,7 +743,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-rear_axle-right_wheel"
+      "name": "out.rear_axle.right_wheel"
     }
   ], 
   "scene": 0, 

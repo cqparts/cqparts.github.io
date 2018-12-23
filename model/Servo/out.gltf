@@ -121,15 +121,15 @@
   "buffers": [
     {
       "byteLength": 4560, 
-      "uri": "out-shaft.bin"
+      "uri": "out.shaft.bin"
     }, 
     {
       "byteLength": 19608, 
-      "uri": "out-servobody.bin"
+      "uri": "out.servobody.bin"
     }, 
     {
       "byteLength": 50160, 
-      "uri": "out-horn.bin"
+      "uri": "out.horn.bin"
     }
   ], 
   "materials": [
@@ -178,7 +178,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-shaft", 
+      "name": "out.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -191,7 +191,7 @@
       ]
     }, 
     {
-      "name": "out-servobody", 
+      "name": "out.servobody", 
       "primitives": [
         {
           "attributes": {
@@ -204,7 +204,7 @@
       ]
     }, 
     {
-      "name": "out-horn", 
+      "name": "out.horn", 
       "primitives": [
         {
           "attributes": {
@@ -287,7 +287,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-shaft"
+      "name": "out.shaft"
     }, 
     {
       "matrix": [
@@ -309,7 +309,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-servobody"
+      "name": "out.servobody"
     }, 
     {
       "matrix": [
@@ -331,7 +331,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-horn"
+      "name": "out.horn"
     }
   ], 
   "scene": 0, 

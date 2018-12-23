@@ -158,19 +158,19 @@
   "buffers": [
     {
       "byteLength": 6840, 
-      "uri": "out-shaft.bin"
+      "uri": "out.shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out-stator.bin"
+      "uri": "out.stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out-topcap.bin"
+      "uri": "out.topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out-botcap.bin"
+      "uri": "out.botcap.bin"
     }
   ], 
   "materials": [
@@ -233,7 +233,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-shaft", 
+      "name": "out.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -246,7 +246,7 @@
       ]
     }, 
     {
-      "name": "out-stator", 
+      "name": "out.stator", 
       "primitives": [
         {
           "attributes": {
@@ -259,7 +259,7 @@
       ]
     }, 
     {
-      "name": "out-topcap", 
+      "name": "out.topcap", 
       "primitives": [
         {
           "attributes": {
@@ -272,7 +272,7 @@
       ]
     }, 
     {
-      "name": "out-botcap", 
+      "name": "out.botcap", 
       "primitives": [
         {
           "attributes": {
@@ -356,7 +356,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-shaft"
+      "name": "out.shaft"
     }, 
     {
       "matrix": [
@@ -378,7 +378,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-stator"
+      "name": "out.stator"
     }, 
     {
       "matrix": [
@@ -400,7 +400,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-topcap"
+      "name": "out.topcap"
     }, 
     {
       "matrix": [
@@ -422,7 +422,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-botcap"
+      "name": "out.botcap"
     }
   ], 
   "scene": 0, 

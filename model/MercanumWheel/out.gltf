@@ -861,95 +861,95 @@
   "buffers": [
     {
       "byteLength": 3372, 
-      "uri": "out-roller_007-shaft.bin"
+      "uri": "out.roller_007.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_007-roller.bin"
+      "uri": "out.roller_007.roller.bin"
     }, 
     {
       "byteLength": 124992, 
-      "uri": "out-hub.bin"
+      "uri": "out.hub.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_010-shaft.bin"
+      "uri": "out.roller_010.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_010-roller.bin"
+      "uri": "out.roller_010.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_006-shaft.bin"
+      "uri": "out.roller_006.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_006-roller.bin"
+      "uri": "out.roller_006.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_005-shaft.bin"
+      "uri": "out.roller_005.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_005-roller.bin"
+      "uri": "out.roller_005.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_004-shaft.bin"
+      "uri": "out.roller_004.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_004-roller.bin"
+      "uri": "out.roller_004.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_003-shaft.bin"
+      "uri": "out.roller_003.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_003-roller.bin"
+      "uri": "out.roller_003.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_002-shaft.bin"
+      "uri": "out.roller_002.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_002-roller.bin"
+      "uri": "out.roller_002.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_001-shaft.bin"
+      "uri": "out.roller_001.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_001-roller.bin"
+      "uri": "out.roller_001.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_000-shaft.bin"
+      "uri": "out.roller_000.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_000-roller.bin"
+      "uri": "out.roller_000.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_009-shaft.bin"
+      "uri": "out.roller_009.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_009-roller.bin"
+      "uri": "out.roller_009.roller.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out-roller_008-shaft.bin"
+      "uri": "out.roller_008.shaft.bin"
     }, 
     {
       "byteLength": 177888, 
-      "uri": "out-roller_008-roller.bin"
+      "uri": "out.roller_008.roller.bin"
     }
   ], 
   "materials": [
@@ -1278,7 +1278,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-roller_007-shaft", 
+      "name": "out.roller_007.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1291,7 +1291,7 @@
       ]
     }, 
     {
-      "name": "out-roller_007-roller", 
+      "name": "out.roller_007.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1304,7 +1304,7 @@
       ]
     }, 
     {
-      "name": "out-hub", 
+      "name": "out.hub", 
       "primitives": [
         {
           "attributes": {
@@ -1317,7 +1317,7 @@
       ]
     }, 
     {
-      "name": "out-roller_010-shaft", 
+      "name": "out.roller_010.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1330,7 +1330,7 @@
       ]
     }, 
     {
-      "name": "out-roller_010-roller", 
+      "name": "out.roller_010.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1343,7 +1343,7 @@
       ]
     }, 
     {
-      "name": "out-roller_006-shaft", 
+      "name": "out.roller_006.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1356,7 +1356,7 @@
       ]
     }, 
     {
-      "name": "out-roller_006-roller", 
+      "name": "out.roller_006.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1369,7 +1369,7 @@
       ]
     }, 
     {
-      "name": "out-roller_005-shaft", 
+      "name": "out.roller_005.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1382,7 +1382,7 @@
       ]
     }, 
     {
-      "name": "out-roller_005-roller", 
+      "name": "out.roller_005.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1395,7 +1395,7 @@
       ]
     }, 
     {
-      "name": "out-roller_004-shaft", 
+      "name": "out.roller_004.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1408,7 +1408,7 @@
       ]
     }, 
     {
-      "name": "out-roller_004-roller", 
+      "name": "out.roller_004.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1421,7 +1421,7 @@
       ]
     }, 
     {
-      "name": "out-roller_003-shaft", 
+      "name": "out.roller_003.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1434,7 +1434,7 @@
       ]
     }, 
     {
-      "name": "out-roller_003-roller", 
+      "name": "out.roller_003.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1447,7 +1447,7 @@
       ]
     }, 
     {
-      "name": "out-roller_002-shaft", 
+      "name": "out.roller_002.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1460,7 +1460,7 @@
       ]
     }, 
     {
-      "name": "out-roller_002-roller", 
+      "name": "out.roller_002.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1473,7 +1473,7 @@
       ]
     }, 
     {
-      "name": "out-roller_001-shaft", 
+      "name": "out.roller_001.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1486,7 +1486,7 @@
       ]
     }, 
     {
-      "name": "out-roller_001-roller", 
+      "name": "out.roller_001.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1499,7 +1499,7 @@
       ]
     }, 
     {
-      "name": "out-roller_000-shaft", 
+      "name": "out.roller_000.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1512,7 +1512,7 @@
       ]
     }, 
     {
-      "name": "out-roller_000-roller", 
+      "name": "out.roller_000.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1525,7 +1525,7 @@
       ]
     }, 
     {
-      "name": "out-roller_009-shaft", 
+      "name": "out.roller_009.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1538,7 +1538,7 @@
       ]
     }, 
     {
-      "name": "out-roller_009-roller", 
+      "name": "out.roller_009.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1551,7 +1551,7 @@
       ]
     }, 
     {
-      "name": "out-roller_008-shaft", 
+      "name": "out.roller_008.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -1564,7 +1564,7 @@
       ]
     }, 
     {
-      "name": "out-roller_008-roller", 
+      "name": "out.roller_008.roller", 
       "primitives": [
         {
           "attributes": {
@@ -1659,7 +1659,7 @@
         -10.606601717798226, 
         1.0
       ], 
-      "name": "out-roller_007"
+      "name": "out.roller_007"
     }, 
     {
       "matrix": [
@@ -1681,7 +1681,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-roller_007-shaft"
+      "name": "out.roller_007.shaft"
     }, 
     {
       "matrix": [
@@ -1703,7 +1703,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-roller_007-roller"
+      "name": "out.roller_007.roller"
     }, 
     {
       "matrix": [
@@ -1725,7 +1725,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-hub"
+      "name": "out.hub"
     }, 
     {
       "children": [
@@ -1750,7 +1750,7 @@
         -10.606601717798211, 
         1.0
       ], 
-      "name": "out-roller_010"
+      "name": "out.roller_010"
     }, 
     {
       "matrix": [
@@ -1772,7 +1772,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-roller_010-shaft"
+      "name": "out.roller_010.shaft"
     }, 
     {
       "matrix": [
@@ -1794,7 +1794,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-roller_010-roller"
+      "name": "out.roller_010.roller"
     }, 
     {
       "children": [
@@ -1819,7 +1819,7 @@
         -10.60660171779821, 
         1.0
       ], 
-      "name": "out-roller_006"
+      "name": "out.roller_006"
     }, 
     {
       "matrix": [
@@ -1841,7 +1841,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-roller_006-shaft"
+      "name": "out.roller_006.shaft"
     }, 
     {
       "matrix": [
@@ -1863,7 +1863,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-roller_006-roller"
+      "name": "out.roller_006.roller"
     }, 
     {
       "children": [
@@ -1888,7 +1888,7 @@
         -10.60660171779821, 
         1.0
       ], 
-      "name": "out-roller_005"
+      "name": "out.roller_005"
     }, 
     {
       "matrix": [
@@ -1910,7 +1910,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-roller_005-shaft"
+      "name": "out.roller_005.shaft"
     }, 
     {
       "matrix": [
@@ -1932,7 +1932,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-roller_005-roller"
+      "name": "out.roller_005.roller"
     }, 
     {
       "children": [
@@ -1957,7 +1957,7 @@
         -10.606601717798226, 
         1.0
       ], 
-      "name": "out-roller_004"
+      "name": "out.roller_004"
     }, 
     {
       "matrix": [
@@ -1979,7 +1979,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out-roller_004-shaft"
+      "name": "out.roller_004.shaft"
     }, 
     {
       "matrix": [
@@ -2001,7 +2001,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out-roller_004-roller"
+      "name": "out.roller_004.roller"
     }, 
     {
       "children": [
@@ -2026,7 +2026,7 @@
         -10.606601717798217, 
         1.0
       ], 
-      "name": "out-roller_003"
+      "name": "out.roller_003"
     }, 
     {
       "matrix": [
@@ -2048,7 +2048,7 @@
         1.0
       ], 
       "mesh": 11, 
-      "name": "out-roller_003-shaft"
+      "name": "out.roller_003.shaft"
     }, 
     {
       "matrix": [
@@ -2070,7 +2070,7 @@
         1.0
       ], 
       "mesh": 12, 
-      "name": "out-roller_003-roller"
+      "name": "out.roller_003.roller"
     }, 
     {
       "children": [
@@ -2095,7 +2095,7 @@
         -10.606601717798219, 
         1.0
       ], 
-      "name": "out-roller_002"
+      "name": "out.roller_002"
     }, 
     {
       "matrix": [
@@ -2117,7 +2117,7 @@
         1.0
       ], 
       "mesh": 13, 
-      "name": "out-roller_002-shaft"
+      "name": "out.roller_002.shaft"
     }, 
     {
       "matrix": [
@@ -2139,7 +2139,7 @@
         1.0
       ], 
       "mesh": 14, 
-      "name": "out-roller_002-roller"
+      "name": "out.roller_002.roller"
     }, 
     {
       "children": [
@@ -2164,7 +2164,7 @@
         -10.606601717798224, 
         1.0
       ], 
-      "name": "out-roller_001"
+      "name": "out.roller_001"
     }, 
     {
       "matrix": [
@@ -2186,7 +2186,7 @@
         1.0
       ], 
       "mesh": 15, 
-      "name": "out-roller_001-shaft"
+      "name": "out.roller_001.shaft"
     }, 
     {
       "matrix": [
@@ -2208,7 +2208,7 @@
         1.0
       ], 
       "mesh": 16, 
-      "name": "out-roller_001-roller"
+      "name": "out.roller_001.roller"
     }, 
     {
       "children": [
@@ -2233,7 +2233,7 @@
         -10.606601717798213, 
         1.0
       ], 
-      "name": "out-roller_000"
+      "name": "out.roller_000"
     }, 
     {
       "matrix": [
@@ -2255,7 +2255,7 @@
         1.0
       ], 
       "mesh": 17, 
-      "name": "out-roller_000-shaft"
+      "name": "out.roller_000.shaft"
     }, 
     {
       "matrix": [
@@ -2277,7 +2277,7 @@
         1.0
       ], 
       "mesh": 18, 
-      "name": "out-roller_000-roller"
+      "name": "out.roller_000.roller"
     }, 
     {
       "children": [
@@ -2302,7 +2302,7 @@
         -10.606601717798219, 
         1.0
       ], 
-      "name": "out-roller_009"
+      "name": "out.roller_009"
     }, 
     {
       "matrix": [
@@ -2324,7 +2324,7 @@
         1.0
       ], 
       "mesh": 19, 
-      "name": "out-roller_009-shaft"
+      "name": "out.roller_009.shaft"
     }, 
     {
       "matrix": [
@@ -2346,7 +2346,7 @@
         1.0
       ], 
       "mesh": 20, 
-      "name": "out-roller_009-roller"
+      "name": "out.roller_009.roller"
     }, 
     {
       "children": [
@@ -2371,7 +2371,7 @@
         -10.606601717798217, 
         1.0
       ], 
-      "name": "out-roller_008"
+      "name": "out.roller_008"
     }, 
     {
       "matrix": [
@@ -2393,7 +2393,7 @@
         1.0
       ], 
       "mesh": 21, 
-      "name": "out-roller_008-shaft"
+      "name": "out.roller_008.shaft"
     }, 
     {
       "matrix": [
@@ -2415,7 +2415,7 @@
         1.0
       ], 
       "mesh": 22, 
-      "name": "out-roller_008-roller"
+      "name": "out.roller_008.roller"
     }
   ], 
   "scene": 0, 

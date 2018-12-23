@@ -417,47 +417,47 @@
   "buffers": [
     {
       "byteLength": 132, 
-      "uri": "out-carriage-box.bin"
+      "uri": "out.carriage.box.bin"
     }, 
     {
       "byteLength": 132, 
-      "uri": "out-idle_end-box.bin"
+      "uri": "out.idle_end.box.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out-drive-stepper-shaft.bin"
+      "uri": "out.drive.stepper.shaft.bin"
     }, 
     {
       "byteLength": 276, 
-      "uri": "out-drive-stepper-stator.bin"
+      "uri": "out.drive.stepper.stator.bin"
     }, 
     {
       "byteLength": 30216, 
-      "uri": "out-drive-stepper-topcap.bin"
+      "uri": "out.drive.stepper.topcap.bin"
     }, 
     {
       "byteLength": 15048, 
-      "uri": "out-drive-stepper-botcap.bin"
+      "uri": "out.drive.stepper.botcap.bin"
     }, 
     {
       "byteLength": 11040, 
-      "uri": "out-drive-coupling.bin"
+      "uri": "out.drive.coupling.bin"
     }, 
     {
       "byteLength": 6840, 
-      "uri": "out-drive-thread.bin"
+      "uri": "out.drive.thread.bin"
     }, 
     {
       "byteLength": 8760, 
-      "uri": "out-rails-rail_0000.bin"
+      "uri": "out.rails.rail_0000.bin"
     }, 
     {
       "byteLength": 8760, 
-      "uri": "out-rails-rail_0001.bin"
+      "uri": "out.rails.rail_0001.bin"
     }, 
     {
       "byteLength": 132, 
-      "uri": "out-drive_end-box.bin"
+      "uri": "out.drive_end.box.bin"
     }
   ], 
   "materials": [
@@ -618,7 +618,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-carriage-box", 
+      "name": "out.carriage.box", 
       "primitives": [
         {
           "attributes": {
@@ -631,7 +631,7 @@
       ]
     }, 
     {
-      "name": "out-idle_end-box", 
+      "name": "out.idle_end.box", 
       "primitives": [
         {
           "attributes": {
@@ -644,7 +644,7 @@
       ]
     }, 
     {
-      "name": "out-drive-stepper-shaft", 
+      "name": "out.drive.stepper.shaft", 
       "primitives": [
         {
           "attributes": {
@@ -657,7 +657,7 @@
       ]
     }, 
     {
-      "name": "out-drive-stepper-stator", 
+      "name": "out.drive.stepper.stator", 
       "primitives": [
         {
           "attributes": {
@@ -670,7 +670,7 @@
       ]
     }, 
     {
-      "name": "out-drive-stepper-topcap", 
+      "name": "out.drive.stepper.topcap", 
       "primitives": [
         {
           "attributes": {
@@ -683,7 +683,7 @@
       ]
     }, 
     {
-      "name": "out-drive-stepper-botcap", 
+      "name": "out.drive.stepper.botcap", 
       "primitives": [
         {
           "attributes": {
@@ -696,7 +696,7 @@
       ]
     }, 
     {
-      "name": "out-drive-coupling", 
+      "name": "out.drive.coupling", 
       "primitives": [
         {
           "attributes": {
@@ -709,7 +709,7 @@
       ]
     }, 
     {
-      "name": "out-drive-thread", 
+      "name": "out.drive.thread", 
       "primitives": [
         {
           "attributes": {
@@ -722,7 +722,7 @@
       ]
     }, 
     {
-      "name": "out-rails-rail_0000", 
+      "name": "out.rails.rail_0000", 
       "primitives": [
         {
           "attributes": {
@@ -735,7 +735,7 @@
       ]
     }, 
     {
-      "name": "out-rails-rail_0001", 
+      "name": "out.rails.rail_0001", 
       "primitives": [
         {
           "attributes": {
@@ -748,7 +748,7 @@
       ]
     }, 
     {
-      "name": "out-drive_end-box", 
+      "name": "out.drive_end.box", 
       "primitives": [
         {
           "attributes": {
@@ -835,7 +835,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-carriage"
+      "name": "out.carriage"
     }, 
     {
       "matrix": [
@@ -857,7 +857,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out-carriage-box"
+      "name": "out.carriage.box"
     }, 
     {
       "children": [
@@ -881,7 +881,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-idle_end"
+      "name": "out.idle_end"
     }, 
     {
       "matrix": [
@@ -903,7 +903,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out-idle_end-box"
+      "name": "out.idle_end.box"
     }, 
     {
       "children": [
@@ -929,7 +929,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-drive"
+      "name": "out.drive"
     }, 
     {
       "children": [
@@ -956,7 +956,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-drive-stepper"
+      "name": "out.drive.stepper"
     }, 
     {
       "matrix": [
@@ -978,7 +978,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out-drive-stepper-shaft"
+      "name": "out.drive.stepper.shaft"
     }, 
     {
       "matrix": [
@@ -1000,7 +1000,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out-drive-stepper-stator"
+      "name": "out.drive.stepper.stator"
     }, 
     {
       "matrix": [
@@ -1022,7 +1022,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-drive-stepper-topcap"
+      "name": "out.drive.stepper.topcap"
     }, 
     {
       "matrix": [
@@ -1044,7 +1044,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-drive-stepper-botcap"
+      "name": "out.drive.stepper.botcap"
     }, 
     {
       "matrix": [
@@ -1066,7 +1066,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-drive-coupling"
+      "name": "out.drive.coupling"
     }, 
     {
       "matrix": [
@@ -1088,7 +1088,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out-drive-thread"
+      "name": "out.drive.thread"
     }, 
     {
       "children": [
@@ -1113,7 +1113,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-rails"
+      "name": "out.rails"
     }, 
     {
       "matrix": [
@@ -1135,7 +1135,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out-rails-rail_0000"
+      "name": "out.rails.rail_0000"
     }, 
     {
       "matrix": [
@@ -1157,7 +1157,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out-rails-rail_0001"
+      "name": "out.rails.rail_0001"
     }, 
     {
       "children": [
@@ -1181,7 +1181,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out-drive_end"
+      "name": "out.drive_end"
     }, 
     {
       "matrix": [
@@ -1203,7 +1203,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out-drive_end-box"
+      "name": "out.drive_end.box"
     }
   ], 
   "scene": 0, 

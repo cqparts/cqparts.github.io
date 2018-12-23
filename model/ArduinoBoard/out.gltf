@@ -491,55 +491,55 @@
   "buffers": [
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_002.bin"
+      "uri": "out.standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_003.bin"
+      "uri": "out.standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_000.bin"
+      "uri": "out.standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_001.bin"
+      "uri": "out.standoff_001.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_004.bin"
+      "uri": "out.standoff_004.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out-standoff_005.bin"
+      "uri": "out.standoff_005.bin"
     }, 
     {
       "byteLength": 22104, 
-      "uri": "out-board.bin"
+      "uri": "out.board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_000.bin"
+      "uri": "out.screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_001.bin"
+      "uri": "out.screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_002.bin"
+      "uri": "out.screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_003.bin"
+      "uri": "out.screw_003.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_004.bin"
+      "uri": "out.screw_004.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out-screw_005.bin"
+      "uri": "out.screw_005.bin"
     }
   ], 
   "materials": [
@@ -728,7 +728,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-standoff_002", 
+      "name": "out.standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -741,7 +741,7 @@
       ]
     }, 
     {
-      "name": "out-standoff_003", 
+      "name": "out.standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -754,7 +754,7 @@
       ]
     }, 
     {
-      "name": "out-standoff_000", 
+      "name": "out.standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -767,7 +767,7 @@
       ]
     }, 
     {
-      "name": "out-standoff_001", 
+      "name": "out.standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -780,7 +780,7 @@
       ]
     }, 
     {
-      "name": "out-standoff_004", 
+      "name": "out.standoff_004", 
       "primitives": [
         {
           "attributes": {
@@ -793,7 +793,7 @@
       ]
     }, 
     {
-      "name": "out-standoff_005", 
+      "name": "out.standoff_005", 
       "primitives": [
         {
           "attributes": {
@@ -806,7 +806,7 @@
       ]
     }, 
     {
-      "name": "out-board", 
+      "name": "out.board", 
       "primitives": [
         {
           "attributes": {
@@ -819,7 +819,7 @@
       ]
     }, 
     {
-      "name": "out-screw_000", 
+      "name": "out.screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -832,7 +832,7 @@
       ]
     }, 
     {
-      "name": "out-screw_001", 
+      "name": "out.screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -845,7 +845,7 @@
       ]
     }, 
     {
-      "name": "out-screw_002", 
+      "name": "out.screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -858,7 +858,7 @@
       ]
     }, 
     {
-      "name": "out-screw_003", 
+      "name": "out.screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -871,7 +871,7 @@
       ]
     }, 
     {
-      "name": "out-screw_004", 
+      "name": "out.screw_004", 
       "primitives": [
         {
           "attributes": {
@@ -884,7 +884,7 @@
       ]
     }, 
     {
-      "name": "out-screw_005", 
+      "name": "out.screw_005", 
       "primitives": [
         {
           "attributes": {
@@ -971,57 +971,35 @@
         0.0, 
         1.0, 
         0.0, 
+        -20.299999999999997, 
+        -24.15, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out.standoff_002"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
         -18.999999999999996, 
         23.85, 
         0.0, 
         1.0
       ], 
-      "mesh": 0, 
-      "name": "out-standoff_002"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        31.200000000000003, 
-        8.350000000000001, 
-        0.0, 
-        1.0
-      ], 
       "mesh": 1, 
-      "name": "out-standoff_003"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        31.200000000000003, 
-        8.350000000000001, 
-        0.0, 
-        1.0
-      ], 
-      "mesh": 2, 
-      "name": "out-standoff_000"
+      "name": "out.standoff_003"
     }, 
     {
       "matrix": [
@@ -1042,8 +1020,8 @@
         0.0, 
         1.0
       ], 
-      "mesh": 3, 
-      "name": "out-standoff_001"
+      "mesh": 2, 
+      "name": "out.standoff_000"
     }, 
     {
       "matrix": [
@@ -1059,13 +1037,35 @@
         0.0, 
         1.0, 
         0.0, 
-        -20.299999999999997, 
-        -24.15, 
+        31.200000000000003, 
+        8.350000000000001, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 3, 
+      "name": "out.standoff_001"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        31.200000000000003, 
+        8.350000000000001, 
         0.0, 
         1.0
       ], 
       "mesh": 4, 
-      "name": "out-standoff_004"
+      "name": "out.standoff_004"
     }, 
     {
       "matrix": [
@@ -1087,7 +1087,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out-standoff_005"
+      "name": "out.standoff_005"
     }, 
     {
       "matrix": [
@@ -1109,29 +1109,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out-board"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        31.200000000000003, 
-        8.350000000000001, 
-        11.0, 
-        1.0
-      ], 
-      "mesh": 7, 
-      "name": "out-screw_000"
+      "name": "out.board"
     }, 
     {
       "matrix": [
@@ -1152,30 +1130,8 @@
         11.0, 
         1.0
       ], 
-      "mesh": 8, 
-      "name": "out-screw_001"
-    }, 
-    {
-      "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        -18.999999999999996, 
-        23.85, 
-        11.0, 
-        1.0
-      ], 
-      "mesh": 9, 
-      "name": "out-screw_002"
+      "mesh": 7, 
+      "name": "out.screw_000"
     }, 
     {
       "matrix": [
@@ -1196,8 +1152,8 @@
         11.0, 
         1.0
       ], 
-      "mesh": 10, 
-      "name": "out-screw_003"
+      "mesh": 8, 
+      "name": "out.screw_001"
     }, 
     {
       "matrix": [
@@ -1218,8 +1174,52 @@
         11.0, 
         1.0
       ], 
+      "mesh": 9, 
+      "name": "out.screw_002"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -18.999999999999996, 
+        23.85, 
+        11.0, 
+        1.0
+      ], 
+      "mesh": 10, 
+      "name": "out.screw_003"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        31.200000000000003, 
+        8.350000000000001, 
+        11.0, 
+        1.0
+      ], 
       "mesh": 11, 
-      "name": "out-screw_004"
+      "name": "out.screw_004"
     }, 
     {
       "matrix": [
@@ -1241,7 +1241,7 @@
         1.0
       ], 
       "mesh": 12, 
-      "name": "out-screw_005"
+      "name": "out.screw_005"
     }
   ], 
   "scene": 0, 

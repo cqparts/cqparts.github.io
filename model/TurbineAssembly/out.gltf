@@ -232,27 +232,27 @@
   "buffers": [
     {
       "byteLength": 61968, 
-      "uri": "out.spinner.bin"
+      "uri": "out-spinner.bin"
     }, 
     {
       "byteLength": 24696, 
-      "uri": "out.turbine.bin"
+      "uri": "out-turbine.bin"
     }, 
     {
       "byteLength": 13512, 
-      "uri": "out.motor.body.bin"
+      "uri": "out-motor-body.bin"
     }, 
     {
       "byteLength": 3372, 
-      "uri": "out.motor.shaft.bin"
+      "uri": "out-motor-shaft.bin"
     }, 
     {
       "byteLength": 3948, 
-      "uri": "out.motor.back.bin"
+      "uri": "out-motor-back.bin"
     }, 
     {
       "byteLength": 49536, 
-      "uri": "out.cowl.bin"
+      "uri": "out-cowl.bin"
     }
   ], 
   "materials": [
@@ -343,7 +343,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.spinner", 
+      "name": "out-spinner", 
       "primitives": [
         {
           "attributes": {
@@ -356,7 +356,7 @@
       ]
     }, 
     {
-      "name": "out.turbine", 
+      "name": "out-turbine", 
       "primitives": [
         {
           "attributes": {
@@ -369,7 +369,7 @@
       ]
     }, 
     {
-      "name": "out.motor.body", 
+      "name": "out-motor-body", 
       "primitives": [
         {
           "attributes": {
@@ -382,7 +382,7 @@
       ]
     }, 
     {
-      "name": "out.motor.shaft", 
+      "name": "out-motor-shaft", 
       "primitives": [
         {
           "attributes": {
@@ -395,7 +395,7 @@
       ]
     }, 
     {
-      "name": "out.motor.back", 
+      "name": "out-motor-back", 
       "primitives": [
         {
           "attributes": {
@@ -408,7 +408,7 @@
       ]
     }, 
     {
-      "name": "out.cowl", 
+      "name": "out-cowl", 
       "primitives": [
         {
           "attributes": {
@@ -492,7 +492,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.spinner"
+      "name": "out-spinner"
     }, 
     {
       "matrix": [
@@ -514,7 +514,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.turbine"
+      "name": "out-turbine"
     }, 
     {
       "children": [
@@ -540,7 +540,7 @@
         20.0, 
         1.0
       ], 
-      "name": "out.motor"
+      "name": "out-motor"
     }, 
     {
       "matrix": [
@@ -562,7 +562,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.motor.body"
+      "name": "out-motor-body"
     }, 
     {
       "matrix": [
@@ -584,7 +584,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.motor.shaft"
+      "name": "out-motor-shaft"
     }, 
     {
       "matrix": [
@@ -606,7 +606,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.motor.back"
+      "name": "out-motor-back"
     }, 
     {
       "matrix": [
@@ -628,7 +628,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.cowl"
+      "name": "out-cowl"
     }
   ], 
   "scene": 0, 

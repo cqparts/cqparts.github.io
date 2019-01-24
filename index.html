@@ -159,13 +159,13 @@ import cqparts
 from cqparts.params import PositiveFloat
 
 class Cube(cqparts.Part):
-size = PositiveFloat(1, doc="length along one side")
+    size = PositiveFloat(1, doc="length along one side")
 
-def make(self):
-  return cadquery.Workplane('XY').box(
-      self.size, self.size, self.size,
-      centered=(True, True, False),
-  )
+    def make(self):
+      return cadquery.Workplane('XY').box(
+          self.size, self.size, self.size,
+          centered=(True, True, False),
+      )
 
 # Create an instance
 my_cube = Cube(size=10)  # changed size to 10
@@ -305,6 +305,40 @@ display(my_cube)
       <figure class="image">
       <a href="/examples/export/showcase/TurbineAssembly">
       <img src="/img/TurbineAssembly.png">
+      </a>
+      </figure>
+      
+      </div>
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="columns ">
+    
+    <div class="column is-one-quarter">
+      <a href="/examples/export/showcase/DiscDrive">
+      <div class="box">
+      DiscDrive
+      
+      <figure class="image">
+      <a href="/examples/export/showcase/DiscDrive">
+      <img src="/img/DiscDrive.png">
+      </a>
+      </figure>
+      
+      </div>
+      </a>
+    </div>
+    
+    <div class="column is-one-quarter">
+      <a href="/examples/export/showcase/TurnTable">
+      <div class="box">
+      TurnTable
+      
+      <figure class="image">
+      <a href="/examples/export/showcase/TurnTable">
+      <img src="/img/TurnTable.png">
       </a>
       </figure>
       

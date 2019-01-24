@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CQParts type1</title>
+		<link rel="stylesheet" href="/static/css/bulma.css">
+		<link rel="stylesheet" href="/static/css/viewer.css">
+		<script src="/static/js/three.min.js"></script>
+		<script src="/static/js/OrbitControls.js"></script>
+		<script src="/static/js/GLTFLoader.js"></script>
+	</head>
+	<body style="margin:0; overflow:hidden;">
+		<div id="viewer"></div>
+                <div id="show">
+		<button class="button " onclick="showHide()">Show</button>
+                
+                <a href="/examples/export/electronics">/examples/export/electronics</a>
+                
+                </div>
+		<div id="info" class="box panel" style="position: absolute">
+                    <progress id="progress" class="progress is-small is-success " value="0" max="100"></progress>
+			<button id="hide" class="button" onclick="showHide()">Hide</button>
+			<h1 class="title is-4">type1</h1>
+			
+			<a href="/examples/export/electronics">/examples/export/electronics</a>
+			
+			
+			<br>
+			<span class="tag">cqparts_bucket.electronics.type1</span>
+			<hr>
+			<table class="table is-narrow is-hoverable">
+				<thead>
+					<tr>
+						<th>Param</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				
+				<tr>
+					<td>gap </td><td> 5.0</td>
+				</tr>
+				
+			</table>
+                        <span class="tag is-success">Hint!</span>
+                        <div class="content is-small">
+                        Hover to select,<br>
+                        <span class="tag ">Space </span>to hide
+                        <span class="tag ">a </span>to show all
+                        </div>
+                        <div class="content is-small">
+                        If you had the 
+			<a target="_blank" href="https://github.com/cqparts/cqparts_webapi">webapi</a> 
+                        this would be <br>an interactive form that builds on demand
+                        </div>
+                        <br><a target="_blank" class="tag is-link" href="http://github.com/zignig/cqparts_bucket/blob/master/electronics.py#L103">Source Code</a><br>
+		</div>
+		<script src="/static/js/cqpartsViewer.js"></script>
+		<script src="/static/js/app.js"></script>
+		<script>
+			load('/model/type1/out.gltf');
+                        camera.position.set(0.323505,0.478229,0.306007);
+                        controls.target.set(0.08893,0.034625,0.0229494);
+		</script>
+	</body>
+</html>

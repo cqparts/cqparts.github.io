@@ -750,83 +750,83 @@
   "buffers": [
     {
       "byteLength": 7752, 
-      "uri": "out.box.right.bin"
+      "uri": "out-box-right.bin"
     }, 
     {
       "byteLength": 22344, 
-      "uri": "out.box.bottom.bin"
+      "uri": "out-box-bottom.bin"
     }, 
     {
       "byteLength": 16464, 
-      "uri": "out.box.front.bin"
+      "uri": "out-box-front.bin"
     }, 
     {
       "byteLength": 7656, 
-      "uri": "out.box.top.bin"
+      "uri": "out-box-top.bin"
     }, 
     {
       "byteLength": 1956, 
-      "uri": "out.box.back.bin"
+      "uri": "out-box-back.bin"
     }, 
     {
       "byteLength": 7752, 
-      "uri": "out.box.left.bin"
+      "uri": "out-box-left.bin"
     }, 
     {
       "byteLength": 132, 
-      "uri": "out.buttonB.push.bin"
+      "uri": "out-buttonB-push.bin"
     }, 
     {
       "byteLength": 6696, 
-      "uri": "out.buttonB.stem.bin"
+      "uri": "out-buttonB-stem.bin"
     }, 
     {
       "byteLength": 18120, 
-      "uri": "out.screen.bin"
+      "uri": "out-screen.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.cont.standoff_002.bin"
+      "uri": "out-cont-standoff_002.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.cont.standoff_003.bin"
+      "uri": "out-cont-standoff_003.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.cont.standoff_000.bin"
+      "uri": "out-cont-standoff_000.bin"
     }, 
     {
       "byteLength": 2940, 
-      "uri": "out.cont.standoff_001.bin"
+      "uri": "out-cont-standoff_001.bin"
     }, 
     {
       "byteLength": 20232, 
-      "uri": "out.cont.board.bin"
+      "uri": "out-cont-board.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.cont.screw_000.bin"
+      "uri": "out-cont-screw_000.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.cont.screw_001.bin"
+      "uri": "out-cont-screw_001.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.cont.screw_002.bin"
+      "uri": "out-cont-screw_002.bin"
     }, 
     {
       "byteLength": 13080, 
-      "uri": "out.cont.screw_003.bin"
+      "uri": "out-cont-screw_003.bin"
     }, 
     {
       "byteLength": 132, 
-      "uri": "out.buttonA.push.bin"
+      "uri": "out-buttonA-push.bin"
     }, 
     {
       "byteLength": 6696, 
-      "uri": "out.buttonA.stem.bin"
+      "uri": "out-buttonA-stem.bin"
     }
   ], 
   "materials": [
@@ -947,9 +947,9 @@
       "alphaMode": "BLEND", 
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7529, 
-          0.7529, 
-          0.7529, 
+          0.0392, 
+          0.3922, 
+          0.0392, 
           1.0
         ], 
         "metallicFactor": 0.1, 
@@ -1017,9 +1017,9 @@
       "alphaMode": "BLEND", 
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7529, 
-          0.7529, 
-          0.7529, 
+          0.0392, 
+          0.3922, 
+          0.0392, 
           1.0
         ], 
         "metallicFactor": 0.1, 
@@ -1113,7 +1113,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.box.right", 
+      "name": "out-box-right", 
       "primitives": [
         {
           "attributes": {
@@ -1126,7 +1126,7 @@
       ]
     }, 
     {
-      "name": "out.box.bottom", 
+      "name": "out-box-bottom", 
       "primitives": [
         {
           "attributes": {
@@ -1139,7 +1139,7 @@
       ]
     }, 
     {
-      "name": "out.box.front", 
+      "name": "out-box-front", 
       "primitives": [
         {
           "attributes": {
@@ -1152,7 +1152,7 @@
       ]
     }, 
     {
-      "name": "out.box.top", 
+      "name": "out-box-top", 
       "primitives": [
         {
           "attributes": {
@@ -1165,7 +1165,7 @@
       ]
     }, 
     {
-      "name": "out.box.back", 
+      "name": "out-box-back", 
       "primitives": [
         {
           "attributes": {
@@ -1178,7 +1178,7 @@
       ]
     }, 
     {
-      "name": "out.box.left", 
+      "name": "out-box-left", 
       "primitives": [
         {
           "attributes": {
@@ -1191,7 +1191,7 @@
       ]
     }, 
     {
-      "name": "out.buttonB.push", 
+      "name": "out-buttonB-push", 
       "primitives": [
         {
           "attributes": {
@@ -1204,7 +1204,7 @@
       ]
     }, 
     {
-      "name": "out.buttonB.stem", 
+      "name": "out-buttonB-stem", 
       "primitives": [
         {
           "attributes": {
@@ -1217,7 +1217,7 @@
       ]
     }, 
     {
-      "name": "out.screen", 
+      "name": "out-screen", 
       "primitives": [
         {
           "attributes": {
@@ -1230,7 +1230,7 @@
       ]
     }, 
     {
-      "name": "out.cont.standoff_002", 
+      "name": "out-cont-standoff_002", 
       "primitives": [
         {
           "attributes": {
@@ -1243,7 +1243,7 @@
       ]
     }, 
     {
-      "name": "out.cont.standoff_003", 
+      "name": "out-cont-standoff_003", 
       "primitives": [
         {
           "attributes": {
@@ -1256,7 +1256,7 @@
       ]
     }, 
     {
-      "name": "out.cont.standoff_000", 
+      "name": "out-cont-standoff_000", 
       "primitives": [
         {
           "attributes": {
@@ -1269,7 +1269,7 @@
       ]
     }, 
     {
-      "name": "out.cont.standoff_001", 
+      "name": "out-cont-standoff_001", 
       "primitives": [
         {
           "attributes": {
@@ -1282,7 +1282,7 @@
       ]
     }, 
     {
-      "name": "out.cont.board", 
+      "name": "out-cont-board", 
       "primitives": [
         {
           "attributes": {
@@ -1295,7 +1295,7 @@
       ]
     }, 
     {
-      "name": "out.cont.screw_000", 
+      "name": "out-cont-screw_000", 
       "primitives": [
         {
           "attributes": {
@@ -1308,7 +1308,7 @@
       ]
     }, 
     {
-      "name": "out.cont.screw_001", 
+      "name": "out-cont-screw_001", 
       "primitives": [
         {
           "attributes": {
@@ -1321,7 +1321,7 @@
       ]
     }, 
     {
-      "name": "out.cont.screw_002", 
+      "name": "out-cont-screw_002", 
       "primitives": [
         {
           "attributes": {
@@ -1334,7 +1334,7 @@
       ]
     }, 
     {
-      "name": "out.cont.screw_003", 
+      "name": "out-cont-screw_003", 
       "primitives": [
         {
           "attributes": {
@@ -1347,7 +1347,7 @@
       ]
     }, 
     {
-      "name": "out.buttonA.push", 
+      "name": "out-buttonA-push", 
       "primitives": [
         {
           "attributes": {
@@ -1360,7 +1360,7 @@
       ]
     }, 
     {
-      "name": "out.buttonA.stem", 
+      "name": "out-buttonA-stem", 
       "primitives": [
         {
           "attributes": {
@@ -1452,7 +1452,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.box"
+      "name": "out-box"
     }, 
     {
       "matrix": [
@@ -1474,7 +1474,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.box.right"
+      "name": "out-box-right"
     }, 
     {
       "matrix": [
@@ -1496,7 +1496,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.box.bottom"
+      "name": "out-box-bottom"
     }, 
     {
       "matrix": [
@@ -1518,7 +1518,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.box.front"
+      "name": "out-box-front"
     }, 
     {
       "matrix": [
@@ -1540,7 +1540,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.box.top"
+      "name": "out-box-top"
     }, 
     {
       "matrix": [
@@ -1562,7 +1562,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.box.back"
+      "name": "out-box-back"
     }, 
     {
       "matrix": [
@@ -1584,7 +1584,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.box.left"
+      "name": "out-box-left"
     }, 
     {
       "children": [
@@ -1609,7 +1609,7 @@
         19.0, 
         1.0
       ], 
-      "name": "out.buttonB"
+      "name": "out-buttonB"
     }, 
     {
       "matrix": [
@@ -1631,7 +1631,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.buttonB.push"
+      "name": "out-buttonB-push"
     }, 
     {
       "matrix": [
@@ -1653,7 +1653,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out.buttonB.stem"
+      "name": "out-buttonB-stem"
     }, 
     {
       "matrix": [
@@ -1675,7 +1675,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out.screen"
+      "name": "out-screen"
     }, 
     {
       "children": [
@@ -1707,7 +1707,7 @@
         6.0, 
         1.0
       ], 
-      "name": "out.cont"
+      "name": "out-cont"
     }, 
     {
       "matrix": [
@@ -1729,7 +1729,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out.cont.standoff_002"
+      "name": "out-cont-standoff_002"
     }, 
     {
       "matrix": [
@@ -1751,7 +1751,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out.cont.standoff_003"
+      "name": "out-cont-standoff_003"
     }, 
     {
       "matrix": [
@@ -1773,7 +1773,7 @@
         1.0
       ], 
       "mesh": 11, 
-      "name": "out.cont.standoff_000"
+      "name": "out-cont-standoff_000"
     }, 
     {
       "matrix": [
@@ -1795,7 +1795,7 @@
         1.0
       ], 
       "mesh": 12, 
-      "name": "out.cont.standoff_001"
+      "name": "out-cont-standoff_001"
     }, 
     {
       "matrix": [
@@ -1817,7 +1817,7 @@
         1.0
       ], 
       "mesh": 13, 
-      "name": "out.cont.board"
+      "name": "out-cont-board"
     }, 
     {
       "matrix": [
@@ -1839,7 +1839,7 @@
         1.0
       ], 
       "mesh": 14, 
-      "name": "out.cont.screw_000"
+      "name": "out-cont-screw_000"
     }, 
     {
       "matrix": [
@@ -1861,7 +1861,7 @@
         1.0
       ], 
       "mesh": 15, 
-      "name": "out.cont.screw_001"
+      "name": "out-cont-screw_001"
     }, 
     {
       "matrix": [
@@ -1883,7 +1883,7 @@
         1.0
       ], 
       "mesh": 16, 
-      "name": "out.cont.screw_002"
+      "name": "out-cont-screw_002"
     }, 
     {
       "matrix": [
@@ -1905,7 +1905,7 @@
         1.0
       ], 
       "mesh": 17, 
-      "name": "out.cont.screw_003"
+      "name": "out-cont-screw_003"
     }, 
     {
       "children": [
@@ -1930,7 +1930,7 @@
         19.0, 
         1.0
       ], 
-      "name": "out.buttonA"
+      "name": "out-buttonA"
     }, 
     {
       "matrix": [
@@ -1952,7 +1952,7 @@
         1.0
       ], 
       "mesh": 18, 
-      "name": "out.buttonA.push"
+      "name": "out-buttonA-push"
     }, 
     {
       "matrix": [
@@ -1974,7 +1974,7 @@
         1.0
       ], 
       "mesh": 19, 
-      "name": "out.buttonA.stem"
+      "name": "out-buttonA-stem"
     }
   ], 
   "scene": 0, 

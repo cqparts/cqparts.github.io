@@ -56,9 +56,9 @@
       "alphaMode": "BLEND", 
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7529, 
-          0.7529, 
-          0.7529, 
+          0.0392, 
+          0.3922, 
+          0.0392, 
           1.0
         ], 
         "metallicFactor": 0.1, 

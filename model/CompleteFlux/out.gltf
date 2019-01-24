@@ -565,63 +565,63 @@
   "buffers": [
     {
       "byteLength": 22080, 
-      "uri": "out.box.cover.bin"
+      "uri": "out-box-cover.bin"
     }, 
     {
       "byteLength": 10344, 
-      "uri": "out.box.back.bin"
+      "uri": "out-box-back.bin"
     }, 
     {
       "byteLength": 11688, 
-      "uri": "out.box.seal.bin"
+      "uri": "out-box-seal.bin"
     }, 
     {
       "byteLength": 21864, 
-      "uri": "out.fluxcap.electrode_001.plug.bin"
+      "uri": "out-fluxcap-electrode_001-plug.bin"
     }, 
     {
       "byteLength": 99240, 
-      "uri": "out.fluxcap.electrode_001.pipe.bin"
+      "uri": "out-fluxcap-electrode_001-pipe.bin"
     }, 
     {
       "byteLength": 17544, 
-      "uri": "out.fluxcap.electrode_001.base.bin"
+      "uri": "out-fluxcap-electrode_001-base.bin"
     }, 
     {
       "byteLength": 8928, 
-      "uri": "out.fluxcap.electrode_001.electrode.bin"
+      "uri": "out-fluxcap-electrode_001-electrode.bin"
     }, 
     {
       "byteLength": 22824, 
-      "uri": "out.fluxcap.electrode_000.plug.bin"
+      "uri": "out-fluxcap-electrode_000-plug.bin"
     }, 
     {
       "byteLength": 99240, 
-      "uri": "out.fluxcap.electrode_000.pipe.bin"
+      "uri": "out-fluxcap-electrode_000-pipe.bin"
     }, 
     {
       "byteLength": 18504, 
-      "uri": "out.fluxcap.electrode_000.base.bin"
+      "uri": "out-fluxcap-electrode_000-base.bin"
     }, 
     {
       "byteLength": 8928, 
-      "uri": "out.fluxcap.electrode_000.electrode.bin"
+      "uri": "out-fluxcap-electrode_000-electrode.bin"
     }, 
     {
       "byteLength": 21888, 
-      "uri": "out.fluxcap.electrode_002.plug.bin"
+      "uri": "out-fluxcap-electrode_002-plug.bin"
     }, 
     {
       "byteLength": 99240, 
-      "uri": "out.fluxcap.electrode_002.pipe.bin"
+      "uri": "out-fluxcap-electrode_002-pipe.bin"
     }, 
     {
       "byteLength": 17520, 
-      "uri": "out.fluxcap.electrode_002.base.bin"
+      "uri": "out-fluxcap-electrode_002-base.bin"
     }, 
     {
       "byteLength": 8928, 
-      "uri": "out.fluxcap.electrode_002.electrode.bin"
+      "uri": "out-fluxcap-electrode_002-electrode.bin"
     }
   ], 
   "materials": [
@@ -838,7 +838,7 @@
   ], 
   "meshes": [
     {
-      "name": "out.box.cover", 
+      "name": "out-box-cover", 
       "primitives": [
         {
           "attributes": {
@@ -851,7 +851,7 @@
       ]
     }, 
     {
-      "name": "out.box.back", 
+      "name": "out-box-back", 
       "primitives": [
         {
           "attributes": {
@@ -864,7 +864,7 @@
       ]
     }, 
     {
-      "name": "out.box.seal", 
+      "name": "out-box-seal", 
       "primitives": [
         {
           "attributes": {
@@ -877,7 +877,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_001.plug", 
+      "name": "out-fluxcap-electrode_001-plug", 
       "primitives": [
         {
           "attributes": {
@@ -890,7 +890,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_001.pipe", 
+      "name": "out-fluxcap-electrode_001-pipe", 
       "primitives": [
         {
           "attributes": {
@@ -903,7 +903,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_001.base", 
+      "name": "out-fluxcap-electrode_001-base", 
       "primitives": [
         {
           "attributes": {
@@ -916,7 +916,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_001.electrode", 
+      "name": "out-fluxcap-electrode_001-electrode", 
       "primitives": [
         {
           "attributes": {
@@ -929,7 +929,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_000.plug", 
+      "name": "out-fluxcap-electrode_000-plug", 
       "primitives": [
         {
           "attributes": {
@@ -942,7 +942,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_000.pipe", 
+      "name": "out-fluxcap-electrode_000-pipe", 
       "primitives": [
         {
           "attributes": {
@@ -955,7 +955,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_000.base", 
+      "name": "out-fluxcap-electrode_000-base", 
       "primitives": [
         {
           "attributes": {
@@ -968,7 +968,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_000.electrode", 
+      "name": "out-fluxcap-electrode_000-electrode", 
       "primitives": [
         {
           "attributes": {
@@ -981,7 +981,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_002.plug", 
+      "name": "out-fluxcap-electrode_002-plug", 
       "primitives": [
         {
           "attributes": {
@@ -994,7 +994,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_002.pipe", 
+      "name": "out-fluxcap-electrode_002-pipe", 
       "primitives": [
         {
           "attributes": {
@@ -1007,7 +1007,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_002.base", 
+      "name": "out-fluxcap-electrode_002-base", 
       "primitives": [
         {
           "attributes": {
@@ -1020,7 +1020,7 @@
       ]
     }, 
     {
-      "name": "out.fluxcap.electrode_002.electrode", 
+      "name": "out-fluxcap-electrode_002-electrode", 
       "primitives": [
         {
           "attributes": {
@@ -1106,7 +1106,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.box"
+      "name": "out-box"
     }, 
     {
       "matrix": [
@@ -1128,7 +1128,7 @@
         1.0
       ], 
       "mesh": 0, 
-      "name": "out.box.cover"
+      "name": "out-box-cover"
     }, 
     {
       "matrix": [
@@ -1150,7 +1150,7 @@
         1.0
       ], 
       "mesh": 1, 
-      "name": "out.box.back"
+      "name": "out-box-back"
     }, 
     {
       "matrix": [
@@ -1172,7 +1172,7 @@
         1.0
       ], 
       "mesh": 2, 
-      "name": "out.box.seal"
+      "name": "out-box-seal"
     }, 
     {
       "children": [
@@ -1198,7 +1198,7 @@
         3.0, 
         1.0
       ], 
-      "name": "out.fluxcap"
+      "name": "out-fluxcap"
     }, 
     {
       "children": [
@@ -1225,7 +1225,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.fluxcap.electrode_001"
+      "name": "out-fluxcap-electrode_001"
     }, 
     {
       "matrix": [
@@ -1247,7 +1247,7 @@
         1.0
       ], 
       "mesh": 3, 
-      "name": "out.fluxcap.electrode_001.plug"
+      "name": "out-fluxcap-electrode_001-plug"
     }, 
     {
       "matrix": [
@@ -1269,7 +1269,7 @@
         1.0
       ], 
       "mesh": 4, 
-      "name": "out.fluxcap.electrode_001.pipe"
+      "name": "out-fluxcap-electrode_001-pipe"
     }, 
     {
       "matrix": [
@@ -1291,7 +1291,7 @@
         1.0
       ], 
       "mesh": 5, 
-      "name": "out.fluxcap.electrode_001.base"
+      "name": "out-fluxcap-electrode_001-base"
     }, 
     {
       "matrix": [
@@ -1313,7 +1313,7 @@
         1.0
       ], 
       "mesh": 6, 
-      "name": "out.fluxcap.electrode_001.electrode"
+      "name": "out-fluxcap-electrode_001-electrode"
     }, 
     {
       "children": [
@@ -1340,7 +1340,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.fluxcap.electrode_000"
+      "name": "out-fluxcap-electrode_000"
     }, 
     {
       "matrix": [
@@ -1362,7 +1362,7 @@
         1.0
       ], 
       "mesh": 7, 
-      "name": "out.fluxcap.electrode_000.plug"
+      "name": "out-fluxcap-electrode_000-plug"
     }, 
     {
       "matrix": [
@@ -1384,7 +1384,7 @@
         1.0
       ], 
       "mesh": 8, 
-      "name": "out.fluxcap.electrode_000.pipe"
+      "name": "out-fluxcap-electrode_000-pipe"
     }, 
     {
       "matrix": [
@@ -1406,7 +1406,7 @@
         1.0
       ], 
       "mesh": 9, 
-      "name": "out.fluxcap.electrode_000.base"
+      "name": "out-fluxcap-electrode_000-base"
     }, 
     {
       "matrix": [
@@ -1428,7 +1428,7 @@
         1.0
       ], 
       "mesh": 10, 
-      "name": "out.fluxcap.electrode_000.electrode"
+      "name": "out-fluxcap-electrode_000-electrode"
     }, 
     {
       "children": [
@@ -1455,7 +1455,7 @@
         0.0, 
         1.0
       ], 
-      "name": "out.fluxcap.electrode_002"
+      "name": "out-fluxcap-electrode_002"
     }, 
     {
       "matrix": [
@@ -1477,7 +1477,7 @@
         1.0
       ], 
       "mesh": 11, 
-      "name": "out.fluxcap.electrode_002.plug"
+      "name": "out-fluxcap-electrode_002-plug"
     }, 
     {
       "matrix": [
@@ -1499,7 +1499,7 @@
         1.0
       ], 
       "mesh": 12, 
-      "name": "out.fluxcap.electrode_002.pipe"
+      "name": "out-fluxcap-electrode_002-pipe"
     }, 
     {
       "matrix": [
@@ -1521,7 +1521,7 @@
         1.0
       ], 
       "mesh": 13, 
-      "name": "out.fluxcap.electrode_002.base"
+      "name": "out-fluxcap-electrode_002-base"
     }, 
     {
       "matrix": [
@@ -1543,7 +1543,7 @@
         1.0
       ], 
       "mesh": 14, 
-      "name": "out.fluxcap.electrode_002.electrode"
+      "name": "out-fluxcap-electrode_002-electrode"
     }
   ], 
   "scene": 0, 

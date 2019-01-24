@@ -30,7 +30,7 @@ function load(name){
         },
         function (xhr){
             console.log(xhr.loaded,xhr.total);
-            progress.value = (xhr.loaded/xhr.total * 100);
+            progress.value = (xhr.loaded/(1+xhr.total * 90));
         } );
     }
 
@@ -94,6 +94,12 @@ function onKey( event ) {
         //console.log(event);
         for ( var i in meshlist){
             meshlist[i].visible = true;
+        }
+    };
+    if (event.code == "KeyI"){
+        //console.log(event);
+        for ( var i in meshlist){
+            meshlist[i].visible = !meshlist[i].visible;
         }
     };
     //console.log(event);

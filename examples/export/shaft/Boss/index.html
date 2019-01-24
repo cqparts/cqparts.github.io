@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CQParts Boss</title>
+		<link rel="stylesheet" href="/static/css/bulma.css">
+		<link rel="stylesheet" href="/static/css/viewer.css">
+		<script src="/static/js/three.min.js"></script>
+		<script src="/static/js/OrbitControls.js"></script>
+		<script src="/static/js/GLTFLoader.js"></script>
+	</head>
+	<body style="margin:0; overflow:hidden;">
+		<div id="viewer"></div>
+                <div id="show">
+		<button class="button " onclick="showHide()">Show</button>
+                
+                <a href="/examples/export/shaft">/examples/export/shaft</a>
+                
+                </div>
+		<div id="info" class="box panel" style="position: absolute">
+                    <progress id="progress" class="progress is-small is-success " value="0" max="100"></progress>
+			<button id="hide" class="button" onclick="showHide()">Hide</button>
+			<h1 class="title is-4">Boss</h1>
+			
+			<a href="/examples/export/shaft">/examples/export/shaft</a>
+			
+			
+			<div class="message is-small"> Simple boss </div>
+			
+			<br>
+			<span class="tag">cqparts_bucket.boss.Boss</span>
+			<hr>
+			<table class="table is-narrow is-hoverable">
+				<thead>
+					<tr>
+						<th>Param</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				
+				<tr>
+					<td>boss_length </td><td> 3.0</td>
+				</tr>
+				
+				<tr>
+					<td>stem_length </td><td> 5.0</td>
+				</tr>
+				
+				<tr>
+					<td>holes </td><td> 4</td>
+				</tr>
+				
+				<tr>
+					<td>_simple </td><td> False</td>
+				</tr>
+				
+				<tr>
+					<td>boss_diam </td><td> 20.0</td>
+				</tr>
+				
+				<tr>
+					<td>hole_radius </td><td> 14.0</td>
+				</tr>
+				
+				<tr>
+					<td>shaft_diam </td><td> 5.0</td>
+				</tr>
+				
+				<tr>
+					<td>stem_diam </td><td> 8.0</td>
+				</tr>
+				
+			</table>
+                        <span class="tag is-success">Hint!</span>
+                        <div class="content is-small">
+                        Hover to select,<br>
+                        <span class="tag ">Space </span>to hide
+                        <span class="tag ">a </span>to show all
+                        </div>
+                        <div class="content is-small">
+                        If you had the 
+			<a target="_blank" href="https://github.com/cqparts/cqparts_webapi">webapi</a> 
+                        this would be <br>an interactive form that builds on demand
+                        </div>
+                        <br><a target="_blank" class="tag is-link" href="http://github.com/zignig/cqparts_bucket/blob/master/boss.py#L16">Source Code</a><br>
+		</div>
+		<script src="/static/js/cqpartsViewer.js"></script>
+		<script src="/static/js/app.js"></script>
+		<script>
+			load('/model/Boss/out.gltf');
+                        camera.position.set(0.0114779,0.0177058,0.0148495);
+                        controls.target.set(0,-0.004,0.000999371);
+		</script>
+	</body>
+</html>

@@ -4,24 +4,24 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 8, 
+      "count": 1464, 
       "max": [
-        0.6, 
-        0.6, 
-        0.6
+        33.65, 
+        33.65, 
+        25.1
       ], 
       "min": [
-        -0.6, 
-        -0.6, 
-        -0.6
+        -33.65, 
+        -12.6, 
+        -0.1
       ], 
       "type": "VEC3"
     }, 
     {
       "bufferView": 1, 
       "byteOffset": 0, 
-      "componentType": 5121, 
-      "count": 36, 
+      "componentType": 5123, 
+      "count": 8772, 
       "type": "SCALAR"
     }, 
     {
@@ -224,15 +224,15 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 96, 
+      "byteLength": 17568, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 36, 
-      "byteOffset": 96, 
+      "byteLength": 17544, 
+      "byteOffset": 17568, 
       "target": 34963
     }, 
     {
@@ -342,7 +342,7 @@
   ], 
   "buffers": [
     {
-      "byteLength": 132, 
+      "byteLength": 35112, 
       "uri": "out-pitch.bin"
     }, 
     {

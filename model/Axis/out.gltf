@@ -4,52 +4,124 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 8, 
+      "count": 352, 
       "max": [
-        5.1, 
-        37.6, 
-        5.1
+        8.1, 
+        8.1, 
+        12.1
       ], 
       "min": [
-        -5.1, 
-        -37.6, 
-        -5.1
+        -8.1, 
+        -8.1, 
+        -0.1
       ], 
       "type": "VEC3"
     }, 
     {
       "bufferView": 1, 
       "byteOffset": 0, 
-      "componentType": 5121, 
-      "count": 36, 
+      "componentType": 5123, 
+      "count": 2100, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 2, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 8, 
+      "count": 1048, 
       "max": [
-        5.1, 
-        37.6, 
-        5.1
+        24.1, 
+        112.6, 
+        40.1
       ], 
       "min": [
-        -5.1, 
-        -37.6, 
-        -5.1
+        -0.1, 
+        -112.6, 
+        -0.1
       ], 
       "type": "VEC3"
     }, 
     {
       "bufferView": 3, 
       "byteOffset": 0, 
-      "componentType": 5121, 
-      "count": 36, 
+      "componentType": 5123, 
+      "count": 6300, 
       "type": "SCALAR"
     }, 
     {
       "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 2540, 
+      "max": [
+        7.6, 
+        7.6, 
+        24.1
+      ], 
+      "min": [
+        -7.6, 
+        -7.6, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 15240, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 6, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 2540, 
+      "max": [
+        7.6, 
+        7.6, 
+        24.1
+      ], 
+      "min": [
+        -7.6, 
+        -7.6, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 7, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 15240, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 8, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 504, 
+      "max": [
+        10.1, 
+        112.6, 
+        50.1
+      ], 
+      "min": [
+        -0.1, 
+        -112.6, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 9, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3036, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 10, 
       "byteOffset": 0, 
       "componentType": 5126, 
       "count": 286, 
@@ -66,14 +138,14 @@
       "type": "VEC3"
     }, 
     {
-      "bufferView": 5, 
+      "bufferView": 11, 
       "byteOffset": 0, 
       "componentType": 5123, 
       "count": 1704, 
       "type": "SCALAR"
     }, 
     {
-      "bufferView": 6, 
+      "bufferView": 12, 
       "byteOffset": 0, 
       "componentType": 5126, 
       "count": 366, 
@@ -90,14 +162,14 @@
       "type": "VEC3"
     }, 
     {
-      "bufferView": 7, 
+      "bufferView": 13, 
       "byteOffset": 0, 
       "componentType": 5123, 
       "count": 2184, 
       "type": "SCALAR"
     }, 
     {
-      "bufferView": 8, 
+      "bufferView": 14, 
       "byteOffset": 0, 
       "componentType": 5126, 
       "count": 366, 
@@ -114,34 +186,34 @@
       "type": "VEC3"
     }, 
     {
-      "bufferView": 9, 
+      "bufferView": 15, 
       "byteOffset": 0, 
       "componentType": 5123, 
       "count": 2184, 
       "type": "SCALAR"
     }, 
     {
-      "bufferView": 10, 
+      "bufferView": 16, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 8, 
+      "count": 504, 
       "max": [
-        5.1, 
-        37.6, 
-        5.1
+        10.1, 
+        112.6, 
+        50.1
       ], 
       "min": [
-        -5.1, 
-        -37.6, 
-        -5.1
+        -0.1, 
+        -112.6, 
+        -0.1
       ], 
       "type": "VEC3"
     }, 
     {
-      "bufferView": 11, 
+      "bufferView": 17, 
       "byteOffset": 0, 
-      "componentType": 5121, 
-      "count": 36, 
+      "componentType": 5123, 
+      "count": 3036, 
       "type": "SCALAR"
     }
   ], 
@@ -152,91 +224,142 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 96, 
+      "byteLength": 4224, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 36, 
-      "byteOffset": 96, 
+      "byteLength": 4200, 
+      "byteOffset": 4224, 
       "target": 34963
     }, 
     {
       "buffer": 1, 
-      "byteLength": 96, 
+      "byteLength": 12576, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 1, 
-      "byteLength": 36, 
-      "byteOffset": 96, 
+      "byteLength": 12600, 
+      "byteOffset": 12576, 
       "target": 34963
     }, 
     {
       "buffer": 2, 
+      "byteLength": 30480, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 30480, 
+      "byteOffset": 30480, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 30480, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 30480, 
+      "byteOffset": 30480, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 6048, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 6072, 
+      "byteOffset": 6048, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 5, 
       "byteLength": 3432, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
-      "buffer": 2, 
+      "buffer": 5, 
       "byteLength": 3408, 
       "byteOffset": 3432, 
       "target": 34963
     }, 
     {
-      "buffer": 3, 
+      "buffer": 6, 
       "byteLength": 4392, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
-      "buffer": 3, 
+      "buffer": 6, 
       "byteLength": 4368, 
       "byteOffset": 4392, 
       "target": 34963
     }, 
     {
-      "buffer": 4, 
+      "buffer": 7, 
       "byteLength": 4392, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
-      "buffer": 4, 
+      "buffer": 7, 
       "byteLength": 4368, 
       "byteOffset": 4392, 
       "target": 34963
     }, 
     {
-      "buffer": 5, 
-      "byteLength": 96, 
+      "buffer": 8, 
+      "byteLength": 6048, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
-      "buffer": 5, 
-      "byteLength": 36, 
-      "byteOffset": 96, 
+      "buffer": 8, 
+      "byteLength": 6072, 
+      "byteOffset": 6048, 
       "target": 34963
     }
   ], 
   "buffers": [
     {
-      "byteLength": 132, 
-      "uri": "out-carriage-box.bin"
+      "byteLength": 8424, 
+      "uri": "out-carriage-driven.bin"
     }, 
     {
-      "byteLength": 132, 
-      "uri": "out-idle_end-box.bin"
+      "byteLength": 25176, 
+      "uri": "out-carriage-block.bin"
+    }, 
+    {
+      "byteLength": 60960, 
+      "uri": "out-carriage-rail_0000.bin"
+    }, 
+    {
+      "byteLength": 60960, 
+      "uri": "out-carriage-rail_0001.bin"
+    }, 
+    {
+      "byteLength": 12120, 
+      "uri": "out-idle_end-block.bin"
     }, 
     {
       "byteLength": 6840, 
@@ -251,11 +374,39 @@
       "uri": "out-rails-rail_0001.bin"
     }, 
     {
-      "byteLength": 132, 
-      "uri": "out-drive_end-box.bin"
+      "byteLength": 12120, 
+      "uri": "out-drive_end-block.bin"
     }
   ], 
   "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
     {
       "alphaCutoff": 1.0, 
       "alphaMode": "BLEND", 
@@ -278,6 +429,20 @@
           0.7529, 
           0.7529, 
           0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
           1.0
         ], 
         "metallicFactor": 0.1, 
@@ -331,9 +496,9 @@
       "alphaMode": "BLEND", 
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7529, 
-          0.7529, 
-          0.7529, 
+          0.3294, 
+          0.3294, 
+          0.3294, 
           1.0
         ], 
         "metallicFactor": 0.1, 
@@ -343,7 +508,7 @@
   ], 
   "meshes": [
     {
-      "name": "out-carriage-box", 
+      "name": "out-carriage-driven", 
       "primitives": [
         {
           "attributes": {
@@ -356,7 +521,7 @@
       ]
     }, 
     {
-      "name": "out-idle_end-box", 
+      "name": "out-carriage-block", 
       "primitives": [
         {
           "attributes": {
@@ -369,7 +534,7 @@
       ]
     }, 
     {
-      "name": "out-drive-drive", 
+      "name": "out-carriage-rail_0000", 
       "primitives": [
         {
           "attributes": {
@@ -382,7 +547,7 @@
       ]
     }, 
     {
-      "name": "out-rails-rail_0000", 
+      "name": "out-carriage-rail_0001", 
       "primitives": [
         {
           "attributes": {
@@ -395,7 +560,7 @@
       ]
     }, 
     {
-      "name": "out-rails-rail_0001", 
+      "name": "out-idle_end-block", 
       "primitives": [
         {
           "attributes": {
@@ -408,7 +573,7 @@
       ]
     }, 
     {
-      "name": "out-drive_end-box", 
+      "name": "out-drive-drive", 
       "primitives": [
         {
           "attributes": {
@@ -416,6 +581,45 @@
           }, 
           "indices": 11, 
           "material": 5, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-rails-rail_0000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12
+          }, 
+          "indices": 13, 
+          "material": 6, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-rails-rail_0001", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 14
+          }, 
+          "indices": 15, 
+          "material": 7, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-drive_end-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16
+          }, 
+          "indices": 17, 
+          "material": 8, 
           "mode": 4
         }
       ]
@@ -448,10 +652,10 @@
     {
       "children": [
         2, 
-        4, 
-        6, 
-        8, 
-        11
+        7, 
+        9, 
+        11, 
+        14
       ], 
       "matrix": [
         1.0, 
@@ -475,7 +679,10 @@
     }, 
     {
       "children": [
-        3
+        3, 
+        4, 
+        5, 
+        6
       ], 
       "matrix": [
         1.0, 
@@ -499,6 +706,28 @@
     }, 
     {
       "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        90.0, 
+        0.0, 
+        25.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out-carriage-driven"
+    }, 
+    {
+      "matrix": [
         1.0, 
         0.0, 
         0.0, 
@@ -513,25 +742,69 @@
         0.0, 
         90.0, 
         0.0, 
-        0.0, 
+        10.0, 
         1.0
       ], 
-      "mesh": 0, 
-      "name": "out-carriage-box"
+      "mesh": 1, 
+      "name": "out-carriage-block"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        90.0, 
+        102.5, 
+        35.0, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out-carriage-rail_0000"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        90.0, 
+        -102.5, 
+        35.0, 
+        1.0
+      ], 
+      "mesh": 3, 
+      "name": "out-carriage-rail_0001"
     }, 
     {
       "children": [
-        5
+        8
       ], 
       "matrix": [
-        1.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        0.0, 
-        1.0, 
-        0.0, 
-        0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
         0.0, 
         0.0, 
         1.0, 
@@ -562,12 +835,12 @@
         0.0, 
         1.0
       ], 
-      "mesh": 1, 
-      "name": "out-idle_end-box"
+      "mesh": 4, 
+      "name": "out-idle_end-block"
     }, 
     {
       "children": [
-        7
+        10
       ], 
       "matrix": [
         1.0, 
@@ -584,7 +857,7 @@
         0.0, 
         0.0, 
         0.0, 
-        0.0, 
+        25.0, 
         1.0
       ], 
       "name": "out-drive"
@@ -608,13 +881,13 @@
         0.0, 
         1.0
       ], 
-      "mesh": 2, 
+      "mesh": 5, 
       "name": "out-drive-drive"
     }, 
     {
       "children": [
-        9, 
-        10
+        12, 
+        13
       ], 
       "matrix": [
         1.0, 
@@ -651,11 +924,11 @@
         0.0, 
         0.0, 
         0.0, 
-        27.5, 
-        0.0, 
+        102.5, 
+        35.0, 
         1.0
       ], 
-      "mesh": 3, 
+      "mesh": 6, 
       "name": "out-rails-rail_0000"
     }, 
     {
@@ -673,16 +946,16 @@
         0.0, 
         0.0, 
         0.0, 
-        -27.5, 
-        0.0, 
+        -102.5, 
+        35.0, 
         1.0
       ], 
-      "mesh": 4, 
+      "mesh": 7, 
       "name": "out-rails-rail_0001"
     }, 
     {
       "children": [
-        12
+        15
       ], 
       "matrix": [
         1.0, 
@@ -723,8 +996,8 @@
         0.0, 
         1.0
       ], 
-      "mesh": 5, 
-      "name": "out-drive_end-box"
+      "mesh": 8, 
+      "name": "out-drive_end-block"
     }
   ], 
   "scene": 0, 

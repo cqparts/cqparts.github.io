@@ -4,7 +4,7 @@
       "bufferView": 0, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 2242, 
+      "count": 2402, 
       "max": [
         115.1, 
         25.099996961325726, 
@@ -21,7 +21,7 @@
       "bufferView": 1, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 13452, 
+      "count": 14412, 
       "type": "SCALAR"
     }
   ], 
@@ -32,21 +32,21 @@
   "bufferViews": [
     {
       "buffer": 0, 
-      "byteLength": 26904, 
+      "byteLength": 28824, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 0, 
-      "byteLength": 26904, 
-      "byteOffset": 26904, 
+      "byteLength": 28824, 
+      "byteOffset": 28824, 
       "target": 34963
     }
   ], 
   "buffers": [
     {
-      "byteLength": 53808, 
+      "byteLength": 57648, 
       "uri": "out.bin"
     }
   ], 

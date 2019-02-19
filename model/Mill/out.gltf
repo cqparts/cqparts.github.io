@@ -1,0 +1,2683 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 352, 
+      "max": [
+        8.1, 
+        8.1, 
+        12.1
+      ], 
+      "min": [
+        -8.1, 
+        -8.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 1, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2100, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 2, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 704, 
+      "max": [
+        24.1, 
+        25.1, 
+        55.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 3, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 4224, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 4, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 2540, 
+      "max": [
+        7.6, 
+        7.6, 
+        24.1
+      ], 
+      "min": [
+        -7.6, 
+        -7.6, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 5, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 15240, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 6, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 256, 
+      "max": [
+        10.1, 
+        25.1, 
+        65.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 7, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1536, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 8, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 286, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        24.1
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 9, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1704, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 10, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 16, 
+      "max": [
+        19.75, 
+        19.75, 
+        16.76666666666667
+      ], 
+      "min": [
+        -19.75, 
+        -19.75, 
+        -16.76666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 11, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 84, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 12, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 1256, 
+      "max": [
+        21.25, 
+        21.25, 
+        6.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 13, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 7572, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 14, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 624, 
+      "max": [
+        21.25, 
+        21.25, 
+        4.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 15, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3780, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 16, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 460, 
+      "max": [
+        4.6, 
+        4.6, 
+        12.1
+      ], 
+      "min": [
+        -4.6, 
+        -4.6, 
+        -12.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 17, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2760, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 18, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 286, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        250.1
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 19, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1704, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 20, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 366, 
+      "max": [
+        4.1, 
+        4.1, 
+        250.1
+      ], 
+      "min": [
+        -4.1, 
+        -4.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 21, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2184, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 22, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 256, 
+      "max": [
+        10.1, 
+        25.1, 
+        65.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 23, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1536, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 24, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 216, 
+      "max": [
+        165.1, 
+        180.1, 
+        6.1
+      ], 
+      "min": [
+        -165.1, 
+        -180.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 25, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1284, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 26, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 352, 
+      "max": [
+        8.1, 
+        8.1, 
+        12.1
+      ], 
+      "min": [
+        -8.1, 
+        -8.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 27, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2100, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 28, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 704, 
+      "max": [
+        24.1, 
+        25.1, 
+        55.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 29, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 4224, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 30, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 2540, 
+      "max": [
+        7.6, 
+        7.6, 
+        24.1
+      ], 
+      "min": [
+        -7.6, 
+        -7.6, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 31, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 15240, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 32, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 256, 
+      "max": [
+        10.1, 
+        25.1, 
+        65.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 33, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1536, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 34, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 286, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        24.1
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 35, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1704, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 36, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 16, 
+      "max": [
+        19.75, 
+        19.75, 
+        16.76666666666667
+      ], 
+      "min": [
+        -19.75, 
+        -19.75, 
+        -16.76666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 37, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 84, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 38, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 1256, 
+      "max": [
+        21.25, 
+        21.25, 
+        6.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 39, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 7572, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 40, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 624, 
+      "max": [
+        21.25, 
+        21.25, 
+        4.266666666666667
+      ], 
+      "min": [
+        -21.25, 
+        -21.25, 
+        -4.266666666666667
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 41, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 3780, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 42, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 460, 
+      "max": [
+        4.6, 
+        4.6, 
+        12.1
+      ], 
+      "min": [
+        -4.6, 
+        -4.6, 
+        -12.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 43, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2760, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 44, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 286, 
+      "max": [
+        2.6, 
+        2.5987155405017197, 
+        250.1
+      ], 
+      "min": [
+        -2.6, 
+        -2.5987155405017197, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 45, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 1704, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 46, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 366, 
+      "max": [
+        4.1, 
+        4.1, 
+        250.1
+      ], 
+      "min": [
+        -4.1, 
+        -4.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 47, 
+      "byteOffset": 0, 
+      "componentType": 5123, 
+      "count": 2184, 
+      "type": "SCALAR"
+    }, 
+    {
+      "bufferView": 48, 
+      "byteOffset": 0, 
+      "componentType": 5126, 
+      "count": 256, 
+      "max": [
+        10.1, 
+        25.1, 
+        65.1
+      ], 
+      "min": [
+        -0.1, 
+        -25.1, 
+        -0.1
+      ], 
+      "type": "VEC3"
+    }, 
+    {
+      "bufferView": 49, 
+      "byteOffset": 0, 
+      "componentType": 5121, 
+      "count": 1536, 
+      "type": "SCALAR"
+    }
+  ], 
+  "asset": {
+    "generator": "cqparts_0.2.2.dev1", 
+    "version": "2.0"
+  }, 
+  "bufferViews": [
+    {
+      "buffer": 0, 
+      "byteLength": 4224, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 0, 
+      "byteLength": 4200, 
+      "byteOffset": 4224, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 8448, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 1, 
+      "byteLength": 8448, 
+      "byteOffset": 8448, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 30480, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 2, 
+      "byteLength": 30480, 
+      "byteOffset": 30480, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 3072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 3, 
+      "byteLength": 1536, 
+      "byteOffset": 3072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 4, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 192, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 5, 
+      "byteLength": 84, 
+      "byteOffset": 192, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 15072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 6, 
+      "byteLength": 15144, 
+      "byteOffset": 15072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 7488, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 7, 
+      "byteLength": 7560, 
+      "byteOffset": 7488, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 5520, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 8, 
+      "byteLength": 5520, 
+      "byteOffset": 5520, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 9, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 9, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 10, 
+      "byteLength": 4392, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 10, 
+      "byteLength": 4368, 
+      "byteOffset": 4392, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 11, 
+      "byteLength": 3072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 11, 
+      "byteLength": 1536, 
+      "byteOffset": 3072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 12, 
+      "byteLength": 2592, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 12, 
+      "byteLength": 1284, 
+      "byteOffset": 2592, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 13, 
+      "byteLength": 4224, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 13, 
+      "byteLength": 4200, 
+      "byteOffset": 4224, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 14, 
+      "byteLength": 8448, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 14, 
+      "byteLength": 8448, 
+      "byteOffset": 8448, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 15, 
+      "byteLength": 30480, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 15, 
+      "byteLength": 30480, 
+      "byteOffset": 30480, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 16, 
+      "byteLength": 3072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 16, 
+      "byteLength": 1536, 
+      "byteOffset": 3072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 17, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 17, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 18, 
+      "byteLength": 192, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 18, 
+      "byteLength": 84, 
+      "byteOffset": 192, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 19, 
+      "byteLength": 15072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 19, 
+      "byteLength": 15144, 
+      "byteOffset": 15072, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 20, 
+      "byteLength": 7488, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 20, 
+      "byteLength": 7560, 
+      "byteOffset": 7488, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 21, 
+      "byteLength": 5520, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 21, 
+      "byteLength": 5520, 
+      "byteOffset": 5520, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 22, 
+      "byteLength": 3432, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 22, 
+      "byteLength": 3408, 
+      "byteOffset": 3432, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 23, 
+      "byteLength": 4392, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 23, 
+      "byteLength": 4368, 
+      "byteOffset": 4392, 
+      "target": 34963
+    }, 
+    {
+      "buffer": 24, 
+      "byteLength": 3072, 
+      "byteOffset": 0, 
+      "byteStride": 12, 
+      "target": 34962
+    }, 
+    {
+      "buffer": 24, 
+      "byteLength": 1536, 
+      "byteOffset": 3072, 
+      "target": 34963
+    }
+  ], 
+  "buffers": [
+    {
+      "byteLength": 8424, 
+      "uri": "out-XR-carriage-driven.bin"
+    }, 
+    {
+      "byteLength": 16896, 
+      "uri": "out-XR-carriage-block.bin"
+    }, 
+    {
+      "byteLength": 60960, 
+      "uri": "out-XR-carriage-rail_0000.bin"
+    }, 
+    {
+      "byteLength": 4608, 
+      "uri": "out-XR-idle_end-block.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out-XR-drive-stepper-shaft.bin"
+    }, 
+    {
+      "byteLength": 276, 
+      "uri": "out-XR-drive-stepper-stator.bin"
+    }, 
+    {
+      "byteLength": 30216, 
+      "uri": "out-XR-drive-stepper-topcap.bin"
+    }, 
+    {
+      "byteLength": 15048, 
+      "uri": "out-XR-drive-stepper-botcap.bin"
+    }, 
+    {
+      "byteLength": 11040, 
+      "uri": "out-XR-drive-coupling.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out-XR-drive-thread.bin"
+    }, 
+    {
+      "byteLength": 8760, 
+      "uri": "out-XR-rails-rail_0000.bin"
+    }, 
+    {
+      "byteLength": 4608, 
+      "uri": "out-XR-drive_end-block.bin"
+    }, 
+    {
+      "byteLength": 3876, 
+      "uri": "out-base.bin"
+    }, 
+    {
+      "byteLength": 8424, 
+      "uri": "out-XL-carriage-driven.bin"
+    }, 
+    {
+      "byteLength": 16896, 
+      "uri": "out-XL-carriage-block.bin"
+    }, 
+    {
+      "byteLength": 60960, 
+      "uri": "out-XL-carriage-rail_0000.bin"
+    }, 
+    {
+      "byteLength": 4608, 
+      "uri": "out-XL-idle_end-block.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out-XL-drive-stepper-shaft.bin"
+    }, 
+    {
+      "byteLength": 276, 
+      "uri": "out-XL-drive-stepper-stator.bin"
+    }, 
+    {
+      "byteLength": 30216, 
+      "uri": "out-XL-drive-stepper-topcap.bin"
+    }, 
+    {
+      "byteLength": 15048, 
+      "uri": "out-XL-drive-stepper-botcap.bin"
+    }, 
+    {
+      "byteLength": 11040, 
+      "uri": "out-XL-drive-coupling.bin"
+    }, 
+    {
+      "byteLength": 6840, 
+      "uri": "out-XL-drive-thread.bin"
+    }, 
+    {
+      "byteLength": 8760, 
+      "uri": "out-XL-rails-rail_0000.bin"
+    }, 
+    {
+      "byteLength": 4608, 
+      "uri": "out-XL-drive_end-block.bin"
+    }
+  ], 
+  "materials": [
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          0.1961, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2941, 
+          0.2941, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2941, 
+          0.0196, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9216, 
+          0.5961, 
+          0.3059, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          0.1961, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529, 
+          0.7529, 
+          0.7529, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2941, 
+          0.2941, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2941, 
+          0.0196, 
+          0.1961, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1961, 
+          1.0, 
+          1.0, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }, 
+    {
+      "alphaCutoff": 1.0, 
+      "alphaMode": "BLEND", 
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3294, 
+          0.3294, 
+          0.3294, 
+          1.0
+        ], 
+        "metallicFactor": 0.1, 
+        "roughnessFactor": 0.7
+      }
+    }
+  ], 
+  "meshes": [
+    {
+      "name": "out-XR-carriage-driven", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          }, 
+          "indices": 1, 
+          "material": 0, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-carriage-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 2
+          }, 
+          "indices": 3, 
+          "material": 1, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-carriage-rail_0000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4
+          }, 
+          "indices": 5, 
+          "material": 2, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-idle_end-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6
+          }, 
+          "indices": 7, 
+          "material": 3, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-stepper-shaft", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8
+          }, 
+          "indices": 9, 
+          "material": 4, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-stepper-stator", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10
+          }, 
+          "indices": 11, 
+          "material": 5, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-stepper-topcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12
+          }, 
+          "indices": 13, 
+          "material": 6, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-stepper-botcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 14
+          }, 
+          "indices": 15, 
+          "material": 7, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-coupling", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16
+          }, 
+          "indices": 17, 
+          "material": 8, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive-thread", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 18
+          }, 
+          "indices": 19, 
+          "material": 9, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-rails-rail_0000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20
+          }, 
+          "indices": 21, 
+          "material": 10, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XR-drive_end-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 22
+          }, 
+          "indices": 23, 
+          "material": 11, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-base", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24
+          }, 
+          "indices": 25, 
+          "material": 12, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-carriage-driven", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 26
+          }, 
+          "indices": 27, 
+          "material": 13, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-carriage-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 28
+          }, 
+          "indices": 29, 
+          "material": 14, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-carriage-rail_0000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 30
+          }, 
+          "indices": 31, 
+          "material": 15, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-idle_end-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 32
+          }, 
+          "indices": 33, 
+          "material": 16, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-stepper-shaft", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 34
+          }, 
+          "indices": 35, 
+          "material": 17, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-stepper-stator", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36
+          }, 
+          "indices": 37, 
+          "material": 18, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-stepper-topcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 38
+          }, 
+          "indices": 39, 
+          "material": 19, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-stepper-botcap", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 40
+          }, 
+          "indices": 41, 
+          "material": 20, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-coupling", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 42
+          }, 
+          "indices": 43, 
+          "material": 21, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive-thread", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 44
+          }, 
+          "indices": 45, 
+          "material": 22, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-rails-rail_0000", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 46
+          }, 
+          "indices": 47, 
+          "material": 23, 
+          "mode": 4
+        }
+      ]
+    }, 
+    {
+      "name": "out-XL-drive_end-block", 
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 48
+          }, 
+          "indices": 49, 
+          "material": 24, 
+          "mode": 4
+        }
+      ]
+    }
+  ], 
+  "nodes": [
+    {
+      "children": [
+        1
+      ], 
+      "matrix": [
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -0.001, 
+        0.0, 
+        0.0, 
+        0.001, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ]
+    }, 
+    {
+      "children": [
+        2, 
+        21, 
+        22
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out"
+    }, 
+    {
+      "children": [
+        3, 
+        7, 
+        9, 
+        17, 
+        19
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -125.0, 
+        150.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "out-XR"
+    }, 
+    {
+      "children": [
+        4, 
+        5, 
+        6
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XR-carriage"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        30.0, 
+        1.0
+      ], 
+      "mesh": 0, 
+      "name": "out-XR-carriage-driven"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        10.0, 
+        1.0
+      ], 
+      "mesh": 1, 
+      "name": "out-XR-carriage-block"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        50.0, 
+        1.0
+      ], 
+      "mesh": 2, 
+      "name": "out-XR-carriage-rail_0000"
+    }, 
+    {
+      "children": [
+        8
+      ], 
+      "matrix": [
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        250.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XR-idle_end"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 3, 
+      "name": "out-XR-idle_end-block"
+    }, 
+    {
+      "children": [
+        10, 
+        15, 
+        16
+      ], 
+      "matrix": [
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        30.0, 
+        1.0
+      ], 
+      "name": "out-XR-drive"
+    }, 
+    {
+      "children": [
+        11, 
+        12, 
+        13, 
+        14
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XR-drive-stepper"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.4210854715202004e-14, 
+        1.0
+      ], 
+      "mesh": 4, 
+      "name": "out-XR-drive-stepper-shaft"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -24.99999999999997, 
+        1.0
+      ], 
+      "mesh": 5, 
+      "name": "out-XR-drive-stepper-stator"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -4.166666666666657, 
+        1.0
+      ], 
+      "mesh": 6, 
+      "name": "out-XR-drive-stepper-topcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -45.833333333333286, 
+        1.0
+      ], 
+      "mesh": 7, 
+      "name": "out-XR-drive-stepper-botcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        25.5, 
+        1.0
+      ], 
+      "mesh": 8, 
+      "name": "out-XR-drive-coupling"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        27.0, 
+        1.0
+      ], 
+      "mesh": 9, 
+      "name": "out-XR-drive-thread"
+    }, 
+    {
+      "children": [
+        18
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XR-rails"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        50.0, 
+        1.0
+      ], 
+      "mesh": 10, 
+      "name": "out-XR-rails-rail_0000"
+    }, 
+    {
+      "children": [
+        20
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XR-drive_end"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 11, 
+      "name": "out-XR-drive_end-block"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 12, 
+      "name": "out-base"
+    }, 
+    {
+      "children": [
+        23, 
+        27, 
+        29, 
+        37, 
+        39
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -125.0, 
+        -150.0, 
+        6.0, 
+        1.0
+      ], 
+      "name": "out-XL"
+    }, 
+    {
+      "children": [
+        24, 
+        25, 
+        26
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XL-carriage"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        30.0, 
+        1.0
+      ], 
+      "mesh": 13, 
+      "name": "out-XL-carriage-driven"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        10.0, 
+        1.0
+      ], 
+      "mesh": 14, 
+      "name": "out-XL-carriage-block"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        100.0, 
+        0.0, 
+        50.0, 
+        1.0
+      ], 
+      "mesh": 15, 
+      "name": "out-XL-carriage-rail_0000"
+    }, 
+    {
+      "children": [
+        28
+      ], 
+      "matrix": [
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        250.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XL-idle_end"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 16, 
+      "name": "out-XL-idle_end-block"
+    }, 
+    {
+      "children": [
+        30, 
+        35, 
+        36
+      ], 
+      "matrix": [
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        -0.0, 
+        -1.0, 
+        -0.0, 
+        -0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        30.0, 
+        1.0
+      ], 
+      "name": "out-XL-drive"
+    }, 
+    {
+      "children": [
+        31, 
+        32, 
+        33, 
+        34
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XL-drive-stepper"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.4210854715202004e-14, 
+        1.0
+      ], 
+      "mesh": 17, 
+      "name": "out-XL-drive-stepper-shaft"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -24.99999999999997, 
+        1.0
+      ], 
+      "mesh": 18, 
+      "name": "out-XL-drive-stepper-stator"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -4.166666666666657, 
+        1.0
+      ], 
+      "mesh": 19, 
+      "name": "out-XL-drive-stepper-topcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        -45.833333333333286, 
+        1.0
+      ], 
+      "mesh": 20, 
+      "name": "out-XL-drive-stepper-botcap"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        25.5, 
+        1.0
+      ], 
+      "mesh": 21, 
+      "name": "out-XL-drive-coupling"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        27.0, 
+        1.0
+      ], 
+      "mesh": 22, 
+      "name": "out-XL-drive-thread"
+    }, 
+    {
+      "children": [
+        38
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XL-rails"
+    }, 
+    {
+      "matrix": [
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        50.0, 
+        1.0
+      ], 
+      "mesh": 23, 
+      "name": "out-XL-rails-rail_0000"
+    }, 
+    {
+      "children": [
+        40
+      ], 
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "name": "out-XL-drive_end"
+    }, 
+    {
+      "matrix": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "mesh": 24, 
+      "name": "out-XL-drive_end-block"
+    }
+  ], 
+  "scene": 0, 
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

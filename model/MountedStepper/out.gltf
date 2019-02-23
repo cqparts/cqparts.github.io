@@ -52,7 +52,7 @@
       "bufferView": 4, 
       "byteOffset": 0, 
       "componentType": 5126, 
-      "count": 3794, 
+      "count": 3793, 
       "max": [
         32.25, 
         36.1, 
@@ -69,7 +69,7 @@
       "bufferView": 5, 
       "byteOffset": 0, 
       "componentType": 5123, 
-      "count": 22812, 
+      "count": 22806, 
       "type": "SCALAR"
     }, 
     {
@@ -250,15 +250,15 @@
     }, 
     {
       "buffer": 2, 
-      "byteLength": 45528, 
+      "byteLength": 45516, 
       "byteOffset": 0, 
       "byteStride": 12, 
       "target": 34962
     }, 
     {
       "buffer": 2, 
-      "byteLength": 45624, 
-      "byteOffset": 45528, 
+      "byteLength": 45612, 
+      "byteOffset": 45516, 
       "target": 34963
     }, 
     {
@@ -350,7 +350,7 @@
       "uri": "out-screw_001.bin"
     }, 
     {
-      "byteLength": 91152, 
+      "byteLength": 91128, 
       "uri": "out-mount.bin"
     }, 
     {
@@ -692,9 +692,9 @@
         -1.0, 
         0.0, 
         0.0, 
-        15.5, 
+        -15.5, 
         -25.0, 
-        47.65, 
+        16.65, 
         1.0
       ], 
       "mesh": 0, 
@@ -758,9 +758,9 @@
         -1.0, 
         0.0, 
         0.0, 
-        -15.5, 
+        15.5, 
         -25.0, 
-        16.65, 
+        47.65, 
         1.0
       ], 
       "mesh": 3, 
